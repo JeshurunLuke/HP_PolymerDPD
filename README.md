@@ -55,7 +55,7 @@
 
 **Notes**
 
-All equilibrate2.in can be run in parallel and (bond3bead and bond) requires the subprocess and multiprocessing python modules
+All equilibrate2.in can be run in parallel (mpirun -np 4) and (bond3bead and bond) requires the subprocess and multiprocessing python modules
 
 **Credits**
 
