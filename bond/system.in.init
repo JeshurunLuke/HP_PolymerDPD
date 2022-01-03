@@ -1,0 +1,5 @@
+    units           lj
+    atom_style      bond
+    bond_style      harmonic
+    pair_style      lj/cut 2.5
+    special_bonds   lj 0.0 0.0 0.0

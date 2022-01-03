@@ -1,0 +1,8 @@
+    @/bond:HPForceField/Back0  @/atom:HPForceField/PR @/atom:HPForceField/HR
+    @/bond:HPForceField/Back1  @/atom:HPForceField/HR @/atom:HPForceField/HR
+    @/bond:HPForceField/Back2  @/atom:HPForceField/PR @/atom:HPForceField/PR
+    @/bond:HPForceField/Back3  @/atom:HPForceField/SR @/atom:HPForceField/SR
+    @/bond:HPForceField/Back4  @/atom:HPForceField/SR @/atom:HPForceField/HR
+    @/bond:HPForceField/Back5  @/atom:HPForceField/SR @/atom:HPForceField/PR
+
+

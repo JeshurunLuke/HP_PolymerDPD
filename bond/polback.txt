@@ -1,0 +1,16 @@
+import "monomer_H.lt"      # defines the "H" molecular subunit
+import "monomer_P.lt"      # defines the "P" molecular subunit
+
+
+
+Polymer {
+
+  create_var {$mol}  # optional:force all monomers to share the same molecule-ID
+                     # (The "Data Atoms" in H and P must use "$mol:..." notation.)
+
+  # This causes mon1,mon2,mon3,...,mon14 to share the same molecule counter
+  # because in the forcefield.lt file, the "..." in "$mol:..." preferentially 
+  # looks for a counter of that type in a parent molecule or earlier ancestor.
+
+
+  # A polymer of alternating "H" and "P" monomers:

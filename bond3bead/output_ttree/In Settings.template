@@ -1,0 +1,15 @@
+    pair_coeff  @/atom:HPForceField/PR  @/atom:HPForceField/HR      0.055 1.0 2.5
+    pair_coeff  @/atom:HPForceField/HR  @/atom:HPForceField/HR      0.055 1.0 2.5
+    pair_coeff  @/atom:HPForceField/PR  @/atom:HPForceField/PR      0.055 1.0 2.5
+    pair_coeff  @/atom:HPForceField/SR  @/atom:HPForceField/HR      0.055 1.0 2.5
+    pair_coeff  @/atom:HPForceField/SR  @/atom:HPForceField/HR      0.055 1.0 2.5
+    pair_coeff  @/atom:HPForceField/SR  @/atom:HPForceField/SR      0.055 1.0 2.5
+    pair_modify shift yes
+
+    bond_coeff     @/bond:HPForceField/Back0   50.0   1.0
+    bond_coeff     @/bond:HPForceField/Back1   50.0   1.0
+    bond_coeff     @/bond:HPForceField/Back2   50.0   1.0
+    bond_coeff     @/bond:HPForceField/Back3   50.0   1.0
+    bond_coeff     @/bond:HPForceField/Back4   50.0   1.0
+    bond_coeff     @/bond:HPForceField/Back5   50.0   1.0
+

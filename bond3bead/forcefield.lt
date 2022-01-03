@@ -1,0 +1,102 @@
+# Define a "ForceField" object.
+# A force field in moltemplate is any object containing mostly pair_coeff,
+# bond_coeff, angle_coeff, dihedral_coeff, "Bonds By Type", "Angles By Type",
+# "Dihedrals By Type", "Impropers By Type", "Data Masses" (and "In Charges")
+# information. Later, when we define molecules (such as "H" and "P"), we can 
+# borrow these atom types, bond-rules and force field parameters.  This way,
+# bonds and angular interactions are generated automatically according to
+# atom (and bond) type.
+# (You can also assign charge by atom type.  However in this example I assigned
+#  charge to each atom manually (not by type).  The OPLSAA examples in the 
+#  "all_atoms" directory demonstrate how to assign charge by atom type.)
+
+
+
+HPForceField {
+
+  # LAMMPS supports a large number of "styles" (ie. equations for calculating 
+  # forces between particles).  At some point, we must eventually select the
+  # formulas we want to use.  This can be done anywhere, but we might as
+  # well specify that now.  Later on we will specify the parameters
+  # which go into these equations.
+
+  write_once("In Init") {
+    units           lj
+    atom_style      bond
+    bond_style      harmonic
+    pair_style      lj/cut 2.5
+    special_bonds   lj 0.0 0.0 0.0
+  }
+
+
+  # There are 3 atom types:
+
+  write_once("Data Masses") {
+    @atom:HR   1.0
+    @atom:PR   1.0
+    @atom:SR   1.0
+  }
+
+  # 2-body (non-bonded) interactions:
+  #
+  #   Uij(r) = 4*eps_ij * ( (sig_ij/r)^12 - (sig_ij/r)^6 )
+  #   (for details see http://lammps.sandia.gov/doc/pair_lj.html)
+  #
+  # Hydrophobic side-chain (R) atoms are attractive (large epsilon parameter).
+  # Polar side-chains and backbone atoms are not attractive (small epsilon).
+  #
+  #                 i        j          eps sig
+  #
+  write_once("In Settings") {
+    pair_coeff  @atom:PR  @atom:HR      0.055 1.0 2.5
+    pair_coeff  @atom:HR  @atom:HR      0.055 1.0 2.5
+    pair_coeff  @atom:PR  @atom:PR      0.055 1.0 2.5
+    pair_coeff  @atom:SR  @atom:HR      0.055 1.0 2.5
+    pair_coeff  @atom:SR  @atom:HR      0.055 1.0 2.5
+    pair_coeff  @atom:SR  @atom:SR      0.055 1.0 2.5
+    pair_modify shift yes
+
+  }
+
+  # (By default, interactions between different AtomTypes use "arithmetic"rules:
+  #     eps_ij=sqrt(eps_ii*eps_ij)      and      sig_ij=0.5*(sig_ii+sig_jj)
+  #  Look for the line containing "pair_modify mix arithmetic" below...)
+
+  # Optional: Assign bond types @bond:Backbone or @bond:Sidechain
+  #           according to atom type.  (This can be overridden.)
+
+  write_once("Data Bonds By Type") {
+    @bond:Back0  @atom:PR @atom:HR
+    @bond:Back1  @atom:HR @atom:HR
+    @bond:Back2  @atom:PR @atom:PR
+    @bond:Back3  @atom:SR @atom:SR
+    @bond:Back4  @atom:SR @atom:HR
+    @bond:Back5  @atom:SR @atom:PR
+
+
+  }
+
+  # 2-body (bonded) interactions:
+  #
+  #   Ubond(r) = (k/2)*(r-0)^2
+  #   (for details see http://lammps.sandia.gov/doc/bond_harmonic.html)
+  #
+  #   The corresponding command is:
+  #
+  #   bond_coeff     bondType         k     r0
+  #
+
+  write_once("In Settings") {
+    bond_coeff     @bond:Back0   50.0   1.0
+    bond_coeff     @bond:Back1   50.0   1.0
+    bond_coeff     @bond:Back2   50.0   1.0
+    bond_coeff     @bond:Back3   50.0   1.0
+    bond_coeff     @bond:Back4   50.0   1.0
+    bond_coeff     @bond:Back5   50.0   1.0
+
+  }
+
+
+
+
+}  # HPForceField

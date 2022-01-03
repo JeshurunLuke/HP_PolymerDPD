@@ -1,0 +1,15 @@
+    pair_coeff  2  1      0.055 1.0 2.5
+    pair_coeff  1  1      0.055 1.0 2.5
+    pair_coeff  2  2      0.055 1.0 2.5
+    pair_coeff  3  1      0.055 1.0 2.5
+    pair_coeff  3  1      0.055 1.0 2.5
+    pair_coeff  3  3      0.055 1.0 2.5
+    pair_modify shift yes
+
+    bond_coeff     1   50.0   1.0
+    bond_coeff     2   50.0   1.0
+    bond_coeff     3   50.0   1.0
+    bond_coeff     4   50.0   1.0
+    bond_coeff     5   50.0   1.0
+    bond_coeff     6   50.0   1.0
+

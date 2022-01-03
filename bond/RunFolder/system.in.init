@@ -1,0 +1,4 @@
+    units           lj
+    atom_style      bond
+    bond_style      harmonic
+    pair_style dpd 1.0 1.0 419084618 # Dpd parameter?
