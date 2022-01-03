@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 # Replaces random water molecules and updates atom and bond type count (Requires system.data)
+amtOfreactant = 50
 def main():
     AtomType = [4]
 
@@ -16,7 +17,7 @@ def isolate_water(df, AtomType):
                 df.iloc[index]['AtomType'] = df.iloc[index]['AtomType'] + 1
                 count +=1
 
-        if count == 50:
+        if count == amtOfreactant:
             break
     return df
 def read_lammpsBond(fname):
