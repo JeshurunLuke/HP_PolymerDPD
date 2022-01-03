@@ -4,12 +4,14 @@ import matplotlib.pyplot as plt
 
 linklength = 1.6
 DP = 7
+polymeratomtype = [1,2,3]
+file = "system3bead.data"
 
 def main():
     print("Reading")
-    df, dim = read_lammpsBond("system2.data")
+    df, dim = read_lammpsBond(file)
     print("Isolating")
-    polymer = isolate_polymer(df, [1,2])
+    polymer = isolate_polymer(df, polymeratomtype)
     print("FOFing")
     groupedP = fof(polymer, dim)
     groupedN = fofN(polymer, dim)
