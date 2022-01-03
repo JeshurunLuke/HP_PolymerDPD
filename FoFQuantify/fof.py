@@ -1,11 +1,13 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from numpy import linalg as LA
+
 
 linklength = 1.6
 DP = 7
-polymeratomtype = [1,2,3]
-file = "system3bead.data"
+polymeratomtype = [1,2]
+file = "systemclustered.data"
 
 def main():
     print("Reading")
@@ -22,6 +24,7 @@ def itergroup(groupedP, groupedN, polymer, dim ):
     #save(grouped)
     Naggr = []
     RadiusofGyration = []
+    ROG2 = []
     if len(groupedP)>1: 
         for label, groups in enumerate(groupedP):
             trimmed = []
@@ -32,12 +35,15 @@ def itergroup(groupedP, groupedN, polymer, dim ):
                         break
             coords = transform(trimmed, polymer, dim)
             RadiusofGyration.append(ROG(coords))
+            ROG2.append(list(gyrationTensor(coords)[1]))
             Naggr.append(len(coords))
 
             graph(coords, label+1)
     else:
         coords = transform(groupedN, polymer, dim)
         RadiusofGyration.append(ROG(coords))
+        ROG2.append(gyrationTensor(coords)[1])
+
         Naggr.append(len(coords))
 
         graph(coords, 1)
@@ -49,6 +55,7 @@ def itergroup(groupedP, groupedN, polymer, dim ):
     print(f"Average Naggr: {np.average(Naggr)}")
     print(f"Radius of Gyration: {RadiusofGyration}")
     print(f"Average Radius of Gyration: {np.average(RadiusofGyration)}")
+    print(f'Principle Moments: {ROG2}')
 
 def graph(coords,i):
     numpy_array = np.array(coords)
@@ -68,7 +75,24 @@ def ROG(coords):
     for i in range(len(coords)):
         ROG +=   np.linalg.norm(np.array(coords[i]) - np.array([xa,ya, za]))**2
     return np.sqrt((1/len(coords))*ROG)
-
+def gyrationTensor(coords):
+    N =len(coords)
+    print(f"atom number: {N}")
+    numpy_array = np.array(coords)
+    transpose = numpy_array.T   
+    xa = np.average(transpose[0])
+    ya = np.average(transpose[1])
+    za = np.average(transpose[2])
+    Rcm = np.array([xa, ya, za])
+    
+    S = np.zeros([3,3])
+    for i in range(3):
+        for j in range(3):
+            S[i,j] = (1/N)*np.dot(transpose[i]-Rcm[i],transpose[j]-Rcm[j])
+    w, v = LA.eig(S)
+    return np.sqrt(np.sum(w)), w
+    
+            
 def transform(groupedN, polymer, dim):
     maingroup = []
     length = 0 
