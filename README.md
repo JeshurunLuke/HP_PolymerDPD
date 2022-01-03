@@ -53,6 +53,9 @@
     Requires: none
     Output: plots of the position of all points, Naggr, and Rg of atoms
 
+**Notes**
+
+All equilibrate2.in can be run in parallel and (bond3bead and bond) requires the subprocess and multiprocessing python modules
 
 **Credits**
 
