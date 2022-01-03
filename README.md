@@ -58,6 +58,9 @@
 
 
 Solvating Matrix Method: Idea for grid type method from pysimm
+
 Interaction Parameters: Pair Potentials from "https://pubs.rsc.org/en/content/articlehtml/2018/ra/c8ra07023g#imgfig6"
+
 DPD Paramters:  "https://pubs.rsc.org/en/content/articlehtml/2018/ra/c8ra07023g#imgfig6" and https://www.mdpi.com/2073-4360/13/13/2193
+
 Initial Polymer Config: moltemplate
