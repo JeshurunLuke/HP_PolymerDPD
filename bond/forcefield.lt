@@ -48,8 +48,8 @@ HPForceField {
   #
   write_once("In Settings") {
     pair_coeff  @atom:PR  @atom:HR      0.055 1.0 2.5
-    pair_coeff  @atom:HR  @atom:HR      1.0  1.0 1.122
-    pair_coeff  @atom:PR  @atom:PR      1.0 1.0 1.122
+    pair_coeff  @atom:HR  @atom:HR      0.055  1.0 1.122
+    pair_coeff  @atom:PR  @atom:PR      0.055 1.0 1.122
     pair_modify shift yes
 
   }
