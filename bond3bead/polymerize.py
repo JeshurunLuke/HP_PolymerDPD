@@ -74,14 +74,18 @@ def minimize():
     p = Popen(['lmp_mpi', '-in', 'equilibrate2.in'])
     p.wait()
     print("Done Equilibrating")
-def polymerize(H,P,S):
+def polymerize(H,P,S, order):
     polist = []    
-    for i in range(0, H):
-        polist.append('H')
-    for i in range(0, P):
-        polist.append('P')
-    for i in range(0, S):
-        polist.append('S')
+    for section in order:
+        if section == 'H':
+            for i in range(0, H):
+                polist.append('H')
+        if section == 'P':
+            for i in range(0, P):
+                polist.append('P')
+        if section == 'S':
+            for i in range(0, S):
+                polist.append('S')
 
     monlist(polist)
     bondlist(polist)
@@ -363,6 +367,7 @@ if __name__ == "__main__":
     P = 12
     S = 6
     polymerPercentage = 0.05
+    order = ['H', 'P', 'S']
 
     TotalBeads =  (bxSize**3)*p
     polymerBeads = TotalBeads*polymerPercentage
@@ -370,7 +375,7 @@ if __name__ == "__main__":
     #Number of polymer (actual amt = 5**3)
     NumofPol = int((polymerBeads/(H+P+S))**(1/3))
     print(f"Actual Percentage: {NumofPol**3/TotalBeads *100}")
-    polymerize(H, P, S)
+    polymerize(H, P, S, order)
     boxinit(H, P,S,  NumofPol)
     df = read_lammpsBond("system.data")
     write_lammpsBond("system.data", df)
