@@ -51,8 +51,17 @@
       fof.py: (DP, linklength,polymeratomtype, file)
               (DP of polymer, linking length of FOF algorithm, atomtype of polymer from atomtype, filename of datafile)
     Requires: none
-    Output: plots of the position of all points, Naggr, and Rg of atoms
+    Output: plots of the position of all points, Naggr,  Rg of atoms, and the eigenvalues of the gyration tensor
 
+**Utilities**
+
+      **Summary**: Creates datafile of just the polymer from a solvated file
+      Modification
+        isolate_polymer.py: (filename, filesave, polymerAtoms)
+                            (file name of solvated file, filename you want to save to, atomtype of the polymer atoms)
+      Requires: none
+      Output: data file with the filesave name
+      
 **Notes**
 
 All equilibrate2.in can be run in parallel (mpirun -np 4) and (bond3bead and bond) requires the subprocess and multiprocessing python modules
@@ -61,6 +70,8 @@ All equilibrate2.in can be run in parallel (mpirun -np 4) and (bond3bead and bon
 
 
 Solvating Matrix Method: Idea for grid type method from pysimm
+
+ReadandWrite Functions: Modified versions from pysimm system
 
 Interaction Parameters: Pair Potentials from "https://pubs.rsc.org/en/content/articlehtml/2018/ra/c8ra07023g#imgfig6"
 
