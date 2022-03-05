@@ -36,7 +36,7 @@ def search(reactant, polymer, bonds):
             dist = np.linalg.norm(np.array([monomer['x'], monomer['y'], monomer['z']]) - np.array([BBS['x'], BBS['y'], BBS['z']]))
             if dist < associationdistance and alreadybonded(bonds,monomer['AtomCount'], reactant['AtomCount']):
                 if monomer['AtomType'] == ReactType:
-                    bonds.loc[bonds.shape[0]] = [max(bonds['BondCount'])+1, BondType, monomer['AtomCount'], BBS['AtomCount']]
+                    bonds.loc[bonds.shape[0]] = [max(bonds['BondCount'])+1, BondType, monomer['AtomCount'], BBS['AtomCount']]    
     return bonds
 def alreadybonded(bonds, mon, bbs ):
     bbs = bbs.to_list()

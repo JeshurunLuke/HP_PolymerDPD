@@ -1,3 +1,4 @@
+  	$/bond:polymers[0][0][0]/backbone0	$/atom:polymers[0][0][0]/mon0/ca	$/atom:polymers[0][0][0]/mon1/ca
   	$/bond:polymers[0][0][0]/backbone1	$/atom:polymers[0][0][0]/mon1/ca	$/atom:polymers[0][0][0]/mon2/ca
   	$/bond:polymers[0][0][0]/backbone2	$/atom:polymers[0][0][0]/mon2/ca	$/atom:polymers[0][0][0]/mon3/ca
   	$/bond:polymers[0][0][0]/backbone3	$/atom:polymers[0][0][0]/mon3/ca	$/atom:polymers[0][0][0]/mon4/ca
@@ -16,13 +17,7 @@
   	$/bond:polymers[0][0][0]/backbone16	$/atom:polymers[0][0][0]/mon16/ca	$/atom:polymers[0][0][0]/mon17/ca
   	$/bond:polymers[0][0][0]/backbone17	$/atom:polymers[0][0][0]/mon17/ca	$/atom:polymers[0][0][0]/mon18/ca
   	$/bond:polymers[0][0][0]/backbone18	$/atom:polymers[0][0][0]/mon18/ca	$/atom:polymers[0][0][0]/mon19/ca
-  	$/bond:polymers[0][0][0]/backbone19	$/atom:polymers[0][0][0]/mon19/ca	$/atom:polymers[0][0][0]/mon20/ca
-  	$/bond:polymers[0][0][0]/backbone20	$/atom:polymers[0][0][0]/mon20/ca	$/atom:polymers[0][0][0]/mon21/ca
-  	$/bond:polymers[0][0][0]/backbone21	$/atom:polymers[0][0][0]/mon21/ca	$/atom:polymers[0][0][0]/mon22/ca
-  	$/bond:polymers[0][0][0]/backbone22	$/atom:polymers[0][0][0]/mon22/ca	$/atom:polymers[0][0][0]/mon23/ca
-  	$/bond:polymers[0][0][0]/backbone23	$/atom:polymers[0][0][0]/mon23/ca	$/atom:polymers[0][0][0]/mon24/ca
-  	$/bond:polymers[0][0][0]/backbone24	$/atom:polymers[0][0][0]/mon24/ca	$/atom:polymers[0][0][0]/mon25/ca
-  	$/bond:polymers[0][0][0]/backbone25	$/atom:polymers[0][0][0]/mon25/ca	$/atom:polymers[0][0][0]/mon26/ca
+  	$/bond:polymers[0][0][1]/backbone0	$/atom:polymers[0][0][1]/mon0/ca	$/atom:polymers[0][0][1]/mon1/ca
   	$/bond:polymers[0][0][1]/backbone1	$/atom:polymers[0][0][1]/mon1/ca	$/atom:polymers[0][0][1]/mon2/ca
   	$/bond:polymers[0][0][1]/backbone2	$/atom:polymers[0][0][1]/mon2/ca	$/atom:polymers[0][0][1]/mon3/ca
   	$/bond:polymers[0][0][1]/backbone3	$/atom:polymers[0][0][1]/mon3/ca	$/atom:polymers[0][0][1]/mon4/ca
@@ -41,13 +36,7 @@
   	$/bond:polymers[0][0][1]/backbone16	$/atom:polymers[0][0][1]/mon16/ca	$/atom:polymers[0][0][1]/mon17/ca
   	$/bond:polymers[0][0][1]/backbone17	$/atom:polymers[0][0][1]/mon17/ca	$/atom:polymers[0][0][1]/mon18/ca
   	$/bond:polymers[0][0][1]/backbone18	$/atom:polymers[0][0][1]/mon18/ca	$/atom:polymers[0][0][1]/mon19/ca
-  	$/bond:polymers[0][0][1]/backbone19	$/atom:polymers[0][0][1]/mon19/ca	$/atom:polymers[0][0][1]/mon20/ca
-  	$/bond:polymers[0][0][1]/backbone20	$/atom:polymers[0][0][1]/mon20/ca	$/atom:polymers[0][0][1]/mon21/ca
-  	$/bond:polymers[0][0][1]/backbone21	$/atom:polymers[0][0][1]/mon21/ca	$/atom:polymers[0][0][1]/mon22/ca
-  	$/bond:polymers[0][0][1]/backbone22	$/atom:polymers[0][0][1]/mon22/ca	$/atom:polymers[0][0][1]/mon23/ca
-  	$/bond:polymers[0][0][1]/backbone23	$/atom:polymers[0][0][1]/mon23/ca	$/atom:polymers[0][0][1]/mon24/ca
-  	$/bond:polymers[0][0][1]/backbone24	$/atom:polymers[0][0][1]/mon24/ca	$/atom:polymers[0][0][1]/mon25/ca
-  	$/bond:polymers[0][0][1]/backbone25	$/atom:polymers[0][0][1]/mon25/ca	$/atom:polymers[0][0][1]/mon26/ca
+  	$/bond:polymers[0][0][2]/backbone0	$/atom:polymers[0][0][2]/mon0/ca	$/atom:polymers[0][0][2]/mon1/ca
   	$/bond:polymers[0][0][2]/backbone1	$/atom:polymers[0][0][2]/mon1/ca	$/atom:polymers[0][0][2]/mon2/ca
   	$/bond:polymers[0][0][2]/backbone2	$/atom:polymers[0][0][2]/mon2/ca	$/atom:polymers[0][0][2]/mon3/ca
   	$/bond:polymers[0][0][2]/backbone3	$/atom:polymers[0][0][2]/mon3/ca	$/atom:polymers[0][0][2]/mon4/ca
@@ -66,13 +55,7 @@
   	$/bond:polymers[0][0][2]/backbone16	$/atom:polymers[0][0][2]/mon16/ca	$/atom:polymers[0][0][2]/mon17/ca
   	$/bond:polymers[0][0][2]/backbone17	$/atom:polymers[0][0][2]/mon17/ca	$/atom:polymers[0][0][2]/mon18/ca
   	$/bond:polymers[0][0][2]/backbone18	$/atom:polymers[0][0][2]/mon18/ca	$/atom:polymers[0][0][2]/mon19/ca
-  	$/bond:polymers[0][0][2]/backbone19	$/atom:polymers[0][0][2]/mon19/ca	$/atom:polymers[0][0][2]/mon20/ca
-  	$/bond:polymers[0][0][2]/backbone20	$/atom:polymers[0][0][2]/mon20/ca	$/atom:polymers[0][0][2]/mon21/ca
-  	$/bond:polymers[0][0][2]/backbone21	$/atom:polymers[0][0][2]/mon21/ca	$/atom:polymers[0][0][2]/mon22/ca
-  	$/bond:polymers[0][0][2]/backbone22	$/atom:polymers[0][0][2]/mon22/ca	$/atom:polymers[0][0][2]/mon23/ca
-  	$/bond:polymers[0][0][2]/backbone23	$/atom:polymers[0][0][2]/mon23/ca	$/atom:polymers[0][0][2]/mon24/ca
-  	$/bond:polymers[0][0][2]/backbone24	$/atom:polymers[0][0][2]/mon24/ca	$/atom:polymers[0][0][2]/mon25/ca
-  	$/bond:polymers[0][0][2]/backbone25	$/atom:polymers[0][0][2]/mon25/ca	$/atom:polymers[0][0][2]/mon26/ca
+  	$/bond:polymers[0][0][3]/backbone0	$/atom:polymers[0][0][3]/mon0/ca	$/atom:polymers[0][0][3]/mon1/ca
   	$/bond:polymers[0][0][3]/backbone1	$/atom:polymers[0][0][3]/mon1/ca	$/atom:polymers[0][0][3]/mon2/ca
   	$/bond:polymers[0][0][3]/backbone2	$/atom:polymers[0][0][3]/mon2/ca	$/atom:polymers[0][0][3]/mon3/ca
   	$/bond:polymers[0][0][3]/backbone3	$/atom:polymers[0][0][3]/mon3/ca	$/atom:polymers[0][0][3]/mon4/ca
@@ -91,13 +74,7 @@
   	$/bond:polymers[0][0][3]/backbone16	$/atom:polymers[0][0][3]/mon16/ca	$/atom:polymers[0][0][3]/mon17/ca
   	$/bond:polymers[0][0][3]/backbone17	$/atom:polymers[0][0][3]/mon17/ca	$/atom:polymers[0][0][3]/mon18/ca
   	$/bond:polymers[0][0][3]/backbone18	$/atom:polymers[0][0][3]/mon18/ca	$/atom:polymers[0][0][3]/mon19/ca
-  	$/bond:polymers[0][0][3]/backbone19	$/atom:polymers[0][0][3]/mon19/ca	$/atom:polymers[0][0][3]/mon20/ca
-  	$/bond:polymers[0][0][3]/backbone20	$/atom:polymers[0][0][3]/mon20/ca	$/atom:polymers[0][0][3]/mon21/ca
-  	$/bond:polymers[0][0][3]/backbone21	$/atom:polymers[0][0][3]/mon21/ca	$/atom:polymers[0][0][3]/mon22/ca
-  	$/bond:polymers[0][0][3]/backbone22	$/atom:polymers[0][0][3]/mon22/ca	$/atom:polymers[0][0][3]/mon23/ca
-  	$/bond:polymers[0][0][3]/backbone23	$/atom:polymers[0][0][3]/mon23/ca	$/atom:polymers[0][0][3]/mon24/ca
-  	$/bond:polymers[0][0][3]/backbone24	$/atom:polymers[0][0][3]/mon24/ca	$/atom:polymers[0][0][3]/mon25/ca
-  	$/bond:polymers[0][0][3]/backbone25	$/atom:polymers[0][0][3]/mon25/ca	$/atom:polymers[0][0][3]/mon26/ca
+  	$/bond:polymers[0][0][4]/backbone0	$/atom:polymers[0][0][4]/mon0/ca	$/atom:polymers[0][0][4]/mon1/ca
   	$/bond:polymers[0][0][4]/backbone1	$/atom:polymers[0][0][4]/mon1/ca	$/atom:polymers[0][0][4]/mon2/ca
   	$/bond:polymers[0][0][4]/backbone2	$/atom:polymers[0][0][4]/mon2/ca	$/atom:polymers[0][0][4]/mon3/ca
   	$/bond:polymers[0][0][4]/backbone3	$/atom:polymers[0][0][4]/mon3/ca	$/atom:polymers[0][0][4]/mon4/ca
@@ -116,13 +93,7 @@
   	$/bond:polymers[0][0][4]/backbone16	$/atom:polymers[0][0][4]/mon16/ca	$/atom:polymers[0][0][4]/mon17/ca
   	$/bond:polymers[0][0][4]/backbone17	$/atom:polymers[0][0][4]/mon17/ca	$/atom:polymers[0][0][4]/mon18/ca
   	$/bond:polymers[0][0][4]/backbone18	$/atom:polymers[0][0][4]/mon18/ca	$/atom:polymers[0][0][4]/mon19/ca
-  	$/bond:polymers[0][0][4]/backbone19	$/atom:polymers[0][0][4]/mon19/ca	$/atom:polymers[0][0][4]/mon20/ca
-  	$/bond:polymers[0][0][4]/backbone20	$/atom:polymers[0][0][4]/mon20/ca	$/atom:polymers[0][0][4]/mon21/ca
-  	$/bond:polymers[0][0][4]/backbone21	$/atom:polymers[0][0][4]/mon21/ca	$/atom:polymers[0][0][4]/mon22/ca
-  	$/bond:polymers[0][0][4]/backbone22	$/atom:polymers[0][0][4]/mon22/ca	$/atom:polymers[0][0][4]/mon23/ca
-  	$/bond:polymers[0][0][4]/backbone23	$/atom:polymers[0][0][4]/mon23/ca	$/atom:polymers[0][0][4]/mon24/ca
-  	$/bond:polymers[0][0][4]/backbone24	$/atom:polymers[0][0][4]/mon24/ca	$/atom:polymers[0][0][4]/mon25/ca
-  	$/bond:polymers[0][0][4]/backbone25	$/atom:polymers[0][0][4]/mon25/ca	$/atom:polymers[0][0][4]/mon26/ca
+  	$/bond:polymers[0][1][0]/backbone0	$/atom:polymers[0][1][0]/mon0/ca	$/atom:polymers[0][1][0]/mon1/ca
   	$/bond:polymers[0][1][0]/backbone1	$/atom:polymers[0][1][0]/mon1/ca	$/atom:polymers[0][1][0]/mon2/ca
   	$/bond:polymers[0][1][0]/backbone2	$/atom:polymers[0][1][0]/mon2/ca	$/atom:polymers[0][1][0]/mon3/ca
   	$/bond:polymers[0][1][0]/backbone3	$/atom:polymers[0][1][0]/mon3/ca	$/atom:polymers[0][1][0]/mon4/ca
@@ -141,13 +112,7 @@
   	$/bond:polymers[0][1][0]/backbone16	$/atom:polymers[0][1][0]/mon16/ca	$/atom:polymers[0][1][0]/mon17/ca
   	$/bond:polymers[0][1][0]/backbone17	$/atom:polymers[0][1][0]/mon17/ca	$/atom:polymers[0][1][0]/mon18/ca
   	$/bond:polymers[0][1][0]/backbone18	$/atom:polymers[0][1][0]/mon18/ca	$/atom:polymers[0][1][0]/mon19/ca
-  	$/bond:polymers[0][1][0]/backbone19	$/atom:polymers[0][1][0]/mon19/ca	$/atom:polymers[0][1][0]/mon20/ca
-  	$/bond:polymers[0][1][0]/backbone20	$/atom:polymers[0][1][0]/mon20/ca	$/atom:polymers[0][1][0]/mon21/ca
-  	$/bond:polymers[0][1][0]/backbone21	$/atom:polymers[0][1][0]/mon21/ca	$/atom:polymers[0][1][0]/mon22/ca
-  	$/bond:polymers[0][1][0]/backbone22	$/atom:polymers[0][1][0]/mon22/ca	$/atom:polymers[0][1][0]/mon23/ca
-  	$/bond:polymers[0][1][0]/backbone23	$/atom:polymers[0][1][0]/mon23/ca	$/atom:polymers[0][1][0]/mon24/ca
-  	$/bond:polymers[0][1][0]/backbone24	$/atom:polymers[0][1][0]/mon24/ca	$/atom:polymers[0][1][0]/mon25/ca
-  	$/bond:polymers[0][1][0]/backbone25	$/atom:polymers[0][1][0]/mon25/ca	$/atom:polymers[0][1][0]/mon26/ca
+  	$/bond:polymers[0][1][1]/backbone0	$/atom:polymers[0][1][1]/mon0/ca	$/atom:polymers[0][1][1]/mon1/ca
   	$/bond:polymers[0][1][1]/backbone1	$/atom:polymers[0][1][1]/mon1/ca	$/atom:polymers[0][1][1]/mon2/ca
   	$/bond:polymers[0][1][1]/backbone2	$/atom:polymers[0][1][1]/mon2/ca	$/atom:polymers[0][1][1]/mon3/ca
   	$/bond:polymers[0][1][1]/backbone3	$/atom:polymers[0][1][1]/mon3/ca	$/atom:polymers[0][1][1]/mon4/ca
@@ -166,13 +131,7 @@
   	$/bond:polymers[0][1][1]/backbone16	$/atom:polymers[0][1][1]/mon16/ca	$/atom:polymers[0][1][1]/mon17/ca
   	$/bond:polymers[0][1][1]/backbone17	$/atom:polymers[0][1][1]/mon17/ca	$/atom:polymers[0][1][1]/mon18/ca
   	$/bond:polymers[0][1][1]/backbone18	$/atom:polymers[0][1][1]/mon18/ca	$/atom:polymers[0][1][1]/mon19/ca
-  	$/bond:polymers[0][1][1]/backbone19	$/atom:polymers[0][1][1]/mon19/ca	$/atom:polymers[0][1][1]/mon20/ca
-  	$/bond:polymers[0][1][1]/backbone20	$/atom:polymers[0][1][1]/mon20/ca	$/atom:polymers[0][1][1]/mon21/ca
-  	$/bond:polymers[0][1][1]/backbone21	$/atom:polymers[0][1][1]/mon21/ca	$/atom:polymers[0][1][1]/mon22/ca
-  	$/bond:polymers[0][1][1]/backbone22	$/atom:polymers[0][1][1]/mon22/ca	$/atom:polymers[0][1][1]/mon23/ca
-  	$/bond:polymers[0][1][1]/backbone23	$/atom:polymers[0][1][1]/mon23/ca	$/atom:polymers[0][1][1]/mon24/ca
-  	$/bond:polymers[0][1][1]/backbone24	$/atom:polymers[0][1][1]/mon24/ca	$/atom:polymers[0][1][1]/mon25/ca
-  	$/bond:polymers[0][1][1]/backbone25	$/atom:polymers[0][1][1]/mon25/ca	$/atom:polymers[0][1][1]/mon26/ca
+  	$/bond:polymers[0][1][2]/backbone0	$/atom:polymers[0][1][2]/mon0/ca	$/atom:polymers[0][1][2]/mon1/ca
   	$/bond:polymers[0][1][2]/backbone1	$/atom:polymers[0][1][2]/mon1/ca	$/atom:polymers[0][1][2]/mon2/ca
   	$/bond:polymers[0][1][2]/backbone2	$/atom:polymers[0][1][2]/mon2/ca	$/atom:polymers[0][1][2]/mon3/ca
   	$/bond:polymers[0][1][2]/backbone3	$/atom:polymers[0][1][2]/mon3/ca	$/atom:polymers[0][1][2]/mon4/ca
@@ -191,13 +150,7 @@
   	$/bond:polymers[0][1][2]/backbone16	$/atom:polymers[0][1][2]/mon16/ca	$/atom:polymers[0][1][2]/mon17/ca
   	$/bond:polymers[0][1][2]/backbone17	$/atom:polymers[0][1][2]/mon17/ca	$/atom:polymers[0][1][2]/mon18/ca
   	$/bond:polymers[0][1][2]/backbone18	$/atom:polymers[0][1][2]/mon18/ca	$/atom:polymers[0][1][2]/mon19/ca
-  	$/bond:polymers[0][1][2]/backbone19	$/atom:polymers[0][1][2]/mon19/ca	$/atom:polymers[0][1][2]/mon20/ca
-  	$/bond:polymers[0][1][2]/backbone20	$/atom:polymers[0][1][2]/mon20/ca	$/atom:polymers[0][1][2]/mon21/ca
-  	$/bond:polymers[0][1][2]/backbone21	$/atom:polymers[0][1][2]/mon21/ca	$/atom:polymers[0][1][2]/mon22/ca
-  	$/bond:polymers[0][1][2]/backbone22	$/atom:polymers[0][1][2]/mon22/ca	$/atom:polymers[0][1][2]/mon23/ca
-  	$/bond:polymers[0][1][2]/backbone23	$/atom:polymers[0][1][2]/mon23/ca	$/atom:polymers[0][1][2]/mon24/ca
-  	$/bond:polymers[0][1][2]/backbone24	$/atom:polymers[0][1][2]/mon24/ca	$/atom:polymers[0][1][2]/mon25/ca
-  	$/bond:polymers[0][1][2]/backbone25	$/atom:polymers[0][1][2]/mon25/ca	$/atom:polymers[0][1][2]/mon26/ca
+  	$/bond:polymers[0][1][3]/backbone0	$/atom:polymers[0][1][3]/mon0/ca	$/atom:polymers[0][1][3]/mon1/ca
   	$/bond:polymers[0][1][3]/backbone1	$/atom:polymers[0][1][3]/mon1/ca	$/atom:polymers[0][1][3]/mon2/ca
   	$/bond:polymers[0][1][3]/backbone2	$/atom:polymers[0][1][3]/mon2/ca	$/atom:polymers[0][1][3]/mon3/ca
   	$/bond:polymers[0][1][3]/backbone3	$/atom:polymers[0][1][3]/mon3/ca	$/atom:polymers[0][1][3]/mon4/ca
@@ -216,13 +169,7 @@
   	$/bond:polymers[0][1][3]/backbone16	$/atom:polymers[0][1][3]/mon16/ca	$/atom:polymers[0][1][3]/mon17/ca
   	$/bond:polymers[0][1][3]/backbone17	$/atom:polymers[0][1][3]/mon17/ca	$/atom:polymers[0][1][3]/mon18/ca
   	$/bond:polymers[0][1][3]/backbone18	$/atom:polymers[0][1][3]/mon18/ca	$/atom:polymers[0][1][3]/mon19/ca
-  	$/bond:polymers[0][1][3]/backbone19	$/atom:polymers[0][1][3]/mon19/ca	$/atom:polymers[0][1][3]/mon20/ca
-  	$/bond:polymers[0][1][3]/backbone20	$/atom:polymers[0][1][3]/mon20/ca	$/atom:polymers[0][1][3]/mon21/ca
-  	$/bond:polymers[0][1][3]/backbone21	$/atom:polymers[0][1][3]/mon21/ca	$/atom:polymers[0][1][3]/mon22/ca
-  	$/bond:polymers[0][1][3]/backbone22	$/atom:polymers[0][1][3]/mon22/ca	$/atom:polymers[0][1][3]/mon23/ca
-  	$/bond:polymers[0][1][3]/backbone23	$/atom:polymers[0][1][3]/mon23/ca	$/atom:polymers[0][1][3]/mon24/ca
-  	$/bond:polymers[0][1][3]/backbone24	$/atom:polymers[0][1][3]/mon24/ca	$/atom:polymers[0][1][3]/mon25/ca
-  	$/bond:polymers[0][1][3]/backbone25	$/atom:polymers[0][1][3]/mon25/ca	$/atom:polymers[0][1][3]/mon26/ca
+  	$/bond:polymers[0][1][4]/backbone0	$/atom:polymers[0][1][4]/mon0/ca	$/atom:polymers[0][1][4]/mon1/ca
   	$/bond:polymers[0][1][4]/backbone1	$/atom:polymers[0][1][4]/mon1/ca	$/atom:polymers[0][1][4]/mon2/ca
   	$/bond:polymers[0][1][4]/backbone2	$/atom:polymers[0][1][4]/mon2/ca	$/atom:polymers[0][1][4]/mon3/ca
   	$/bond:polymers[0][1][4]/backbone3	$/atom:polymers[0][1][4]/mon3/ca	$/atom:polymers[0][1][4]/mon4/ca
@@ -241,13 +188,7 @@
   	$/bond:polymers[0][1][4]/backbone16	$/atom:polymers[0][1][4]/mon16/ca	$/atom:polymers[0][1][4]/mon17/ca
   	$/bond:polymers[0][1][4]/backbone17	$/atom:polymers[0][1][4]/mon17/ca	$/atom:polymers[0][1][4]/mon18/ca
   	$/bond:polymers[0][1][4]/backbone18	$/atom:polymers[0][1][4]/mon18/ca	$/atom:polymers[0][1][4]/mon19/ca
-  	$/bond:polymers[0][1][4]/backbone19	$/atom:polymers[0][1][4]/mon19/ca	$/atom:polymers[0][1][4]/mon20/ca
-  	$/bond:polymers[0][1][4]/backbone20	$/atom:polymers[0][1][4]/mon20/ca	$/atom:polymers[0][1][4]/mon21/ca
-  	$/bond:polymers[0][1][4]/backbone21	$/atom:polymers[0][1][4]/mon21/ca	$/atom:polymers[0][1][4]/mon22/ca
-  	$/bond:polymers[0][1][4]/backbone22	$/atom:polymers[0][1][4]/mon22/ca	$/atom:polymers[0][1][4]/mon23/ca
-  	$/bond:polymers[0][1][4]/backbone23	$/atom:polymers[0][1][4]/mon23/ca	$/atom:polymers[0][1][4]/mon24/ca
-  	$/bond:polymers[0][1][4]/backbone24	$/atom:polymers[0][1][4]/mon24/ca	$/atom:polymers[0][1][4]/mon25/ca
-  	$/bond:polymers[0][1][4]/backbone25	$/atom:polymers[0][1][4]/mon25/ca	$/atom:polymers[0][1][4]/mon26/ca
+  	$/bond:polymers[0][2][0]/backbone0	$/atom:polymers[0][2][0]/mon0/ca	$/atom:polymers[0][2][0]/mon1/ca
   	$/bond:polymers[0][2][0]/backbone1	$/atom:polymers[0][2][0]/mon1/ca	$/atom:polymers[0][2][0]/mon2/ca
   	$/bond:polymers[0][2][0]/backbone2	$/atom:polymers[0][2][0]/mon2/ca	$/atom:polymers[0][2][0]/mon3/ca
   	$/bond:polymers[0][2][0]/backbone3	$/atom:polymers[0][2][0]/mon3/ca	$/atom:polymers[0][2][0]/mon4/ca
@@ -266,13 +207,7 @@
   	$/bond:polymers[0][2][0]/backbone16	$/atom:polymers[0][2][0]/mon16/ca	$/atom:polymers[0][2][0]/mon17/ca
   	$/bond:polymers[0][2][0]/backbone17	$/atom:polymers[0][2][0]/mon17/ca	$/atom:polymers[0][2][0]/mon18/ca
   	$/bond:polymers[0][2][0]/backbone18	$/atom:polymers[0][2][0]/mon18/ca	$/atom:polymers[0][2][0]/mon19/ca
-  	$/bond:polymers[0][2][0]/backbone19	$/atom:polymers[0][2][0]/mon19/ca	$/atom:polymers[0][2][0]/mon20/ca
-  	$/bond:polymers[0][2][0]/backbone20	$/atom:polymers[0][2][0]/mon20/ca	$/atom:polymers[0][2][0]/mon21/ca
-  	$/bond:polymers[0][2][0]/backbone21	$/atom:polymers[0][2][0]/mon21/ca	$/atom:polymers[0][2][0]/mon22/ca
-  	$/bond:polymers[0][2][0]/backbone22	$/atom:polymers[0][2][0]/mon22/ca	$/atom:polymers[0][2][0]/mon23/ca
-  	$/bond:polymers[0][2][0]/backbone23	$/atom:polymers[0][2][0]/mon23/ca	$/atom:polymers[0][2][0]/mon24/ca
-  	$/bond:polymers[0][2][0]/backbone24	$/atom:polymers[0][2][0]/mon24/ca	$/atom:polymers[0][2][0]/mon25/ca
-  	$/bond:polymers[0][2][0]/backbone25	$/atom:polymers[0][2][0]/mon25/ca	$/atom:polymers[0][2][0]/mon26/ca
+  	$/bond:polymers[0][2][1]/backbone0	$/atom:polymers[0][2][1]/mon0/ca	$/atom:polymers[0][2][1]/mon1/ca
   	$/bond:polymers[0][2][1]/backbone1	$/atom:polymers[0][2][1]/mon1/ca	$/atom:polymers[0][2][1]/mon2/ca
   	$/bond:polymers[0][2][1]/backbone2	$/atom:polymers[0][2][1]/mon2/ca	$/atom:polymers[0][2][1]/mon3/ca
   	$/bond:polymers[0][2][1]/backbone3	$/atom:polymers[0][2][1]/mon3/ca	$/atom:polymers[0][2][1]/mon4/ca
@@ -291,13 +226,7 @@
   	$/bond:polymers[0][2][1]/backbone16	$/atom:polymers[0][2][1]/mon16/ca	$/atom:polymers[0][2][1]/mon17/ca
   	$/bond:polymers[0][2][1]/backbone17	$/atom:polymers[0][2][1]/mon17/ca	$/atom:polymers[0][2][1]/mon18/ca
   	$/bond:polymers[0][2][1]/backbone18	$/atom:polymers[0][2][1]/mon18/ca	$/atom:polymers[0][2][1]/mon19/ca
-  	$/bond:polymers[0][2][1]/backbone19	$/atom:polymers[0][2][1]/mon19/ca	$/atom:polymers[0][2][1]/mon20/ca
-  	$/bond:polymers[0][2][1]/backbone20	$/atom:polymers[0][2][1]/mon20/ca	$/atom:polymers[0][2][1]/mon21/ca
-  	$/bond:polymers[0][2][1]/backbone21	$/atom:polymers[0][2][1]/mon21/ca	$/atom:polymers[0][2][1]/mon22/ca
-  	$/bond:polymers[0][2][1]/backbone22	$/atom:polymers[0][2][1]/mon22/ca	$/atom:polymers[0][2][1]/mon23/ca
-  	$/bond:polymers[0][2][1]/backbone23	$/atom:polymers[0][2][1]/mon23/ca	$/atom:polymers[0][2][1]/mon24/ca
-  	$/bond:polymers[0][2][1]/backbone24	$/atom:polymers[0][2][1]/mon24/ca	$/atom:polymers[0][2][1]/mon25/ca
-  	$/bond:polymers[0][2][1]/backbone25	$/atom:polymers[0][2][1]/mon25/ca	$/atom:polymers[0][2][1]/mon26/ca
+  	$/bond:polymers[0][2][2]/backbone0	$/atom:polymers[0][2][2]/mon0/ca	$/atom:polymers[0][2][2]/mon1/ca
   	$/bond:polymers[0][2][2]/backbone1	$/atom:polymers[0][2][2]/mon1/ca	$/atom:polymers[0][2][2]/mon2/ca
   	$/bond:polymers[0][2][2]/backbone2	$/atom:polymers[0][2][2]/mon2/ca	$/atom:polymers[0][2][2]/mon3/ca
   	$/bond:polymers[0][2][2]/backbone3	$/atom:polymers[0][2][2]/mon3/ca	$/atom:polymers[0][2][2]/mon4/ca
@@ -316,13 +245,7 @@
   	$/bond:polymers[0][2][2]/backbone16	$/atom:polymers[0][2][2]/mon16/ca	$/atom:polymers[0][2][2]/mon17/ca
   	$/bond:polymers[0][2][2]/backbone17	$/atom:polymers[0][2][2]/mon17/ca	$/atom:polymers[0][2][2]/mon18/ca
   	$/bond:polymers[0][2][2]/backbone18	$/atom:polymers[0][2][2]/mon18/ca	$/atom:polymers[0][2][2]/mon19/ca
-  	$/bond:polymers[0][2][2]/backbone19	$/atom:polymers[0][2][2]/mon19/ca	$/atom:polymers[0][2][2]/mon20/ca
-  	$/bond:polymers[0][2][2]/backbone20	$/atom:polymers[0][2][2]/mon20/ca	$/atom:polymers[0][2][2]/mon21/ca
-  	$/bond:polymers[0][2][2]/backbone21	$/atom:polymers[0][2][2]/mon21/ca	$/atom:polymers[0][2][2]/mon22/ca
-  	$/bond:polymers[0][2][2]/backbone22	$/atom:polymers[0][2][2]/mon22/ca	$/atom:polymers[0][2][2]/mon23/ca
-  	$/bond:polymers[0][2][2]/backbone23	$/atom:polymers[0][2][2]/mon23/ca	$/atom:polymers[0][2][2]/mon24/ca
-  	$/bond:polymers[0][2][2]/backbone24	$/atom:polymers[0][2][2]/mon24/ca	$/atom:polymers[0][2][2]/mon25/ca
-  	$/bond:polymers[0][2][2]/backbone25	$/atom:polymers[0][2][2]/mon25/ca	$/atom:polymers[0][2][2]/mon26/ca
+  	$/bond:polymers[0][2][3]/backbone0	$/atom:polymers[0][2][3]/mon0/ca	$/atom:polymers[0][2][3]/mon1/ca
   	$/bond:polymers[0][2][3]/backbone1	$/atom:polymers[0][2][3]/mon1/ca	$/atom:polymers[0][2][3]/mon2/ca
   	$/bond:polymers[0][2][3]/backbone2	$/atom:polymers[0][2][3]/mon2/ca	$/atom:polymers[0][2][3]/mon3/ca
   	$/bond:polymers[0][2][3]/backbone3	$/atom:polymers[0][2][3]/mon3/ca	$/atom:polymers[0][2][3]/mon4/ca
@@ -341,13 +264,7 @@
   	$/bond:polymers[0][2][3]/backbone16	$/atom:polymers[0][2][3]/mon16/ca	$/atom:polymers[0][2][3]/mon17/ca
   	$/bond:polymers[0][2][3]/backbone17	$/atom:polymers[0][2][3]/mon17/ca	$/atom:polymers[0][2][3]/mon18/ca
   	$/bond:polymers[0][2][3]/backbone18	$/atom:polymers[0][2][3]/mon18/ca	$/atom:polymers[0][2][3]/mon19/ca
-  	$/bond:polymers[0][2][3]/backbone19	$/atom:polymers[0][2][3]/mon19/ca	$/atom:polymers[0][2][3]/mon20/ca
-  	$/bond:polymers[0][2][3]/backbone20	$/atom:polymers[0][2][3]/mon20/ca	$/atom:polymers[0][2][3]/mon21/ca
-  	$/bond:polymers[0][2][3]/backbone21	$/atom:polymers[0][2][3]/mon21/ca	$/atom:polymers[0][2][3]/mon22/ca
-  	$/bond:polymers[0][2][3]/backbone22	$/atom:polymers[0][2][3]/mon22/ca	$/atom:polymers[0][2][3]/mon23/ca
-  	$/bond:polymers[0][2][3]/backbone23	$/atom:polymers[0][2][3]/mon23/ca	$/atom:polymers[0][2][3]/mon24/ca
-  	$/bond:polymers[0][2][3]/backbone24	$/atom:polymers[0][2][3]/mon24/ca	$/atom:polymers[0][2][3]/mon25/ca
-  	$/bond:polymers[0][2][3]/backbone25	$/atom:polymers[0][2][3]/mon25/ca	$/atom:polymers[0][2][3]/mon26/ca
+  	$/bond:polymers[0][2][4]/backbone0	$/atom:polymers[0][2][4]/mon0/ca	$/atom:polymers[0][2][4]/mon1/ca
   	$/bond:polymers[0][2][4]/backbone1	$/atom:polymers[0][2][4]/mon1/ca	$/atom:polymers[0][2][4]/mon2/ca
   	$/bond:polymers[0][2][4]/backbone2	$/atom:polymers[0][2][4]/mon2/ca	$/atom:polymers[0][2][4]/mon3/ca
   	$/bond:polymers[0][2][4]/backbone3	$/atom:polymers[0][2][4]/mon3/ca	$/atom:polymers[0][2][4]/mon4/ca
@@ -366,13 +283,7 @@
   	$/bond:polymers[0][2][4]/backbone16	$/atom:polymers[0][2][4]/mon16/ca	$/atom:polymers[0][2][4]/mon17/ca
   	$/bond:polymers[0][2][4]/backbone17	$/atom:polymers[0][2][4]/mon17/ca	$/atom:polymers[0][2][4]/mon18/ca
   	$/bond:polymers[0][2][4]/backbone18	$/atom:polymers[0][2][4]/mon18/ca	$/atom:polymers[0][2][4]/mon19/ca
-  	$/bond:polymers[0][2][4]/backbone19	$/atom:polymers[0][2][4]/mon19/ca	$/atom:polymers[0][2][4]/mon20/ca
-  	$/bond:polymers[0][2][4]/backbone20	$/atom:polymers[0][2][4]/mon20/ca	$/atom:polymers[0][2][4]/mon21/ca
-  	$/bond:polymers[0][2][4]/backbone21	$/atom:polymers[0][2][4]/mon21/ca	$/atom:polymers[0][2][4]/mon22/ca
-  	$/bond:polymers[0][2][4]/backbone22	$/atom:polymers[0][2][4]/mon22/ca	$/atom:polymers[0][2][4]/mon23/ca
-  	$/bond:polymers[0][2][4]/backbone23	$/atom:polymers[0][2][4]/mon23/ca	$/atom:polymers[0][2][4]/mon24/ca
-  	$/bond:polymers[0][2][4]/backbone24	$/atom:polymers[0][2][4]/mon24/ca	$/atom:polymers[0][2][4]/mon25/ca
-  	$/bond:polymers[0][2][4]/backbone25	$/atom:polymers[0][2][4]/mon25/ca	$/atom:polymers[0][2][4]/mon26/ca
+  	$/bond:polymers[0][3][0]/backbone0	$/atom:polymers[0][3][0]/mon0/ca	$/atom:polymers[0][3][0]/mon1/ca
   	$/bond:polymers[0][3][0]/backbone1	$/atom:polymers[0][3][0]/mon1/ca	$/atom:polymers[0][3][0]/mon2/ca
   	$/bond:polymers[0][3][0]/backbone2	$/atom:polymers[0][3][0]/mon2/ca	$/atom:polymers[0][3][0]/mon3/ca
   	$/bond:polymers[0][3][0]/backbone3	$/atom:polymers[0][3][0]/mon3/ca	$/atom:polymers[0][3][0]/mon4/ca
@@ -391,13 +302,7 @@
   	$/bond:polymers[0][3][0]/backbone16	$/atom:polymers[0][3][0]/mon16/ca	$/atom:polymers[0][3][0]/mon17/ca
   	$/bond:polymers[0][3][0]/backbone17	$/atom:polymers[0][3][0]/mon17/ca	$/atom:polymers[0][3][0]/mon18/ca
   	$/bond:polymers[0][3][0]/backbone18	$/atom:polymers[0][3][0]/mon18/ca	$/atom:polymers[0][3][0]/mon19/ca
-  	$/bond:polymers[0][3][0]/backbone19	$/atom:polymers[0][3][0]/mon19/ca	$/atom:polymers[0][3][0]/mon20/ca
-  	$/bond:polymers[0][3][0]/backbone20	$/atom:polymers[0][3][0]/mon20/ca	$/atom:polymers[0][3][0]/mon21/ca
-  	$/bond:polymers[0][3][0]/backbone21	$/atom:polymers[0][3][0]/mon21/ca	$/atom:polymers[0][3][0]/mon22/ca
-  	$/bond:polymers[0][3][0]/backbone22	$/atom:polymers[0][3][0]/mon22/ca	$/atom:polymers[0][3][0]/mon23/ca
-  	$/bond:polymers[0][3][0]/backbone23	$/atom:polymers[0][3][0]/mon23/ca	$/atom:polymers[0][3][0]/mon24/ca
-  	$/bond:polymers[0][3][0]/backbone24	$/atom:polymers[0][3][0]/mon24/ca	$/atom:polymers[0][3][0]/mon25/ca
-  	$/bond:polymers[0][3][0]/backbone25	$/atom:polymers[0][3][0]/mon25/ca	$/atom:polymers[0][3][0]/mon26/ca
+  	$/bond:polymers[0][3][1]/backbone0	$/atom:polymers[0][3][1]/mon0/ca	$/atom:polymers[0][3][1]/mon1/ca
   	$/bond:polymers[0][3][1]/backbone1	$/atom:polymers[0][3][1]/mon1/ca	$/atom:polymers[0][3][1]/mon2/ca
   	$/bond:polymers[0][3][1]/backbone2	$/atom:polymers[0][3][1]/mon2/ca	$/atom:polymers[0][3][1]/mon3/ca
   	$/bond:polymers[0][3][1]/backbone3	$/atom:polymers[0][3][1]/mon3/ca	$/atom:polymers[0][3][1]/mon4/ca
@@ -416,13 +321,7 @@
   	$/bond:polymers[0][3][1]/backbone16	$/atom:polymers[0][3][1]/mon16/ca	$/atom:polymers[0][3][1]/mon17/ca
   	$/bond:polymers[0][3][1]/backbone17	$/atom:polymers[0][3][1]/mon17/ca	$/atom:polymers[0][3][1]/mon18/ca
   	$/bond:polymers[0][3][1]/backbone18	$/atom:polymers[0][3][1]/mon18/ca	$/atom:polymers[0][3][1]/mon19/ca
-  	$/bond:polymers[0][3][1]/backbone19	$/atom:polymers[0][3][1]/mon19/ca	$/atom:polymers[0][3][1]/mon20/ca
-  	$/bond:polymers[0][3][1]/backbone20	$/atom:polymers[0][3][1]/mon20/ca	$/atom:polymers[0][3][1]/mon21/ca
-  	$/bond:polymers[0][3][1]/backbone21	$/atom:polymers[0][3][1]/mon21/ca	$/atom:polymers[0][3][1]/mon22/ca
-  	$/bond:polymers[0][3][1]/backbone22	$/atom:polymers[0][3][1]/mon22/ca	$/atom:polymers[0][3][1]/mon23/ca
-  	$/bond:polymers[0][3][1]/backbone23	$/atom:polymers[0][3][1]/mon23/ca	$/atom:polymers[0][3][1]/mon24/ca
-  	$/bond:polymers[0][3][1]/backbone24	$/atom:polymers[0][3][1]/mon24/ca	$/atom:polymers[0][3][1]/mon25/ca
-  	$/bond:polymers[0][3][1]/backbone25	$/atom:polymers[0][3][1]/mon25/ca	$/atom:polymers[0][3][1]/mon26/ca
+  	$/bond:polymers[0][3][2]/backbone0	$/atom:polymers[0][3][2]/mon0/ca	$/atom:polymers[0][3][2]/mon1/ca
   	$/bond:polymers[0][3][2]/backbone1	$/atom:polymers[0][3][2]/mon1/ca	$/atom:polymers[0][3][2]/mon2/ca
   	$/bond:polymers[0][3][2]/backbone2	$/atom:polymers[0][3][2]/mon2/ca	$/atom:polymers[0][3][2]/mon3/ca
   	$/bond:polymers[0][3][2]/backbone3	$/atom:polymers[0][3][2]/mon3/ca	$/atom:polymers[0][3][2]/mon4/ca
@@ -441,13 +340,7 @@
   	$/bond:polymers[0][3][2]/backbone16	$/atom:polymers[0][3][2]/mon16/ca	$/atom:polymers[0][3][2]/mon17/ca
   	$/bond:polymers[0][3][2]/backbone17	$/atom:polymers[0][3][2]/mon17/ca	$/atom:polymers[0][3][2]/mon18/ca
   	$/bond:polymers[0][3][2]/backbone18	$/atom:polymers[0][3][2]/mon18/ca	$/atom:polymers[0][3][2]/mon19/ca
-  	$/bond:polymers[0][3][2]/backbone19	$/atom:polymers[0][3][2]/mon19/ca	$/atom:polymers[0][3][2]/mon20/ca
-  	$/bond:polymers[0][3][2]/backbone20	$/atom:polymers[0][3][2]/mon20/ca	$/atom:polymers[0][3][2]/mon21/ca
-  	$/bond:polymers[0][3][2]/backbone21	$/atom:polymers[0][3][2]/mon21/ca	$/atom:polymers[0][3][2]/mon22/ca
-  	$/bond:polymers[0][3][2]/backbone22	$/atom:polymers[0][3][2]/mon22/ca	$/atom:polymers[0][3][2]/mon23/ca
-  	$/bond:polymers[0][3][2]/backbone23	$/atom:polymers[0][3][2]/mon23/ca	$/atom:polymers[0][3][2]/mon24/ca
-  	$/bond:polymers[0][3][2]/backbone24	$/atom:polymers[0][3][2]/mon24/ca	$/atom:polymers[0][3][2]/mon25/ca
-  	$/bond:polymers[0][3][2]/backbone25	$/atom:polymers[0][3][2]/mon25/ca	$/atom:polymers[0][3][2]/mon26/ca
+  	$/bond:polymers[0][3][3]/backbone0	$/atom:polymers[0][3][3]/mon0/ca	$/atom:polymers[0][3][3]/mon1/ca
   	$/bond:polymers[0][3][3]/backbone1	$/atom:polymers[0][3][3]/mon1/ca	$/atom:polymers[0][3][3]/mon2/ca
   	$/bond:polymers[0][3][3]/backbone2	$/atom:polymers[0][3][3]/mon2/ca	$/atom:polymers[0][3][3]/mon3/ca
   	$/bond:polymers[0][3][3]/backbone3	$/atom:polymers[0][3][3]/mon3/ca	$/atom:polymers[0][3][3]/mon4/ca
@@ -466,13 +359,7 @@
   	$/bond:polymers[0][3][3]/backbone16	$/atom:polymers[0][3][3]/mon16/ca	$/atom:polymers[0][3][3]/mon17/ca
   	$/bond:polymers[0][3][3]/backbone17	$/atom:polymers[0][3][3]/mon17/ca	$/atom:polymers[0][3][3]/mon18/ca
   	$/bond:polymers[0][3][3]/backbone18	$/atom:polymers[0][3][3]/mon18/ca	$/atom:polymers[0][3][3]/mon19/ca
-  	$/bond:polymers[0][3][3]/backbone19	$/atom:polymers[0][3][3]/mon19/ca	$/atom:polymers[0][3][3]/mon20/ca
-  	$/bond:polymers[0][3][3]/backbone20	$/atom:polymers[0][3][3]/mon20/ca	$/atom:polymers[0][3][3]/mon21/ca
-  	$/bond:polymers[0][3][3]/backbone21	$/atom:polymers[0][3][3]/mon21/ca	$/atom:polymers[0][3][3]/mon22/ca
-  	$/bond:polymers[0][3][3]/backbone22	$/atom:polymers[0][3][3]/mon22/ca	$/atom:polymers[0][3][3]/mon23/ca
-  	$/bond:polymers[0][3][3]/backbone23	$/atom:polymers[0][3][3]/mon23/ca	$/atom:polymers[0][3][3]/mon24/ca
-  	$/bond:polymers[0][3][3]/backbone24	$/atom:polymers[0][3][3]/mon24/ca	$/atom:polymers[0][3][3]/mon25/ca
-  	$/bond:polymers[0][3][3]/backbone25	$/atom:polymers[0][3][3]/mon25/ca	$/atom:polymers[0][3][3]/mon26/ca
+  	$/bond:polymers[0][3][4]/backbone0	$/atom:polymers[0][3][4]/mon0/ca	$/atom:polymers[0][3][4]/mon1/ca
   	$/bond:polymers[0][3][4]/backbone1	$/atom:polymers[0][3][4]/mon1/ca	$/atom:polymers[0][3][4]/mon2/ca
   	$/bond:polymers[0][3][4]/backbone2	$/atom:polymers[0][3][4]/mon2/ca	$/atom:polymers[0][3][4]/mon3/ca
   	$/bond:polymers[0][3][4]/backbone3	$/atom:polymers[0][3][4]/mon3/ca	$/atom:polymers[0][3][4]/mon4/ca
@@ -491,13 +378,7 @@
   	$/bond:polymers[0][3][4]/backbone16	$/atom:polymers[0][3][4]/mon16/ca	$/atom:polymers[0][3][4]/mon17/ca
   	$/bond:polymers[0][3][4]/backbone17	$/atom:polymers[0][3][4]/mon17/ca	$/atom:polymers[0][3][4]/mon18/ca
   	$/bond:polymers[0][3][4]/backbone18	$/atom:polymers[0][3][4]/mon18/ca	$/atom:polymers[0][3][4]/mon19/ca
-  	$/bond:polymers[0][3][4]/backbone19	$/atom:polymers[0][3][4]/mon19/ca	$/atom:polymers[0][3][4]/mon20/ca
-  	$/bond:polymers[0][3][4]/backbone20	$/atom:polymers[0][3][4]/mon20/ca	$/atom:polymers[0][3][4]/mon21/ca
-  	$/bond:polymers[0][3][4]/backbone21	$/atom:polymers[0][3][4]/mon21/ca	$/atom:polymers[0][3][4]/mon22/ca
-  	$/bond:polymers[0][3][4]/backbone22	$/atom:polymers[0][3][4]/mon22/ca	$/atom:polymers[0][3][4]/mon23/ca
-  	$/bond:polymers[0][3][4]/backbone23	$/atom:polymers[0][3][4]/mon23/ca	$/atom:polymers[0][3][4]/mon24/ca
-  	$/bond:polymers[0][3][4]/backbone24	$/atom:polymers[0][3][4]/mon24/ca	$/atom:polymers[0][3][4]/mon25/ca
-  	$/bond:polymers[0][3][4]/backbone25	$/atom:polymers[0][3][4]/mon25/ca	$/atom:polymers[0][3][4]/mon26/ca
+  	$/bond:polymers[0][4][0]/backbone0	$/atom:polymers[0][4][0]/mon0/ca	$/atom:polymers[0][4][0]/mon1/ca
   	$/bond:polymers[0][4][0]/backbone1	$/atom:polymers[0][4][0]/mon1/ca	$/atom:polymers[0][4][0]/mon2/ca
   	$/bond:polymers[0][4][0]/backbone2	$/atom:polymers[0][4][0]/mon2/ca	$/atom:polymers[0][4][0]/mon3/ca
   	$/bond:polymers[0][4][0]/backbone3	$/atom:polymers[0][4][0]/mon3/ca	$/atom:polymers[0][4][0]/mon4/ca
@@ -516,13 +397,7 @@
   	$/bond:polymers[0][4][0]/backbone16	$/atom:polymers[0][4][0]/mon16/ca	$/atom:polymers[0][4][0]/mon17/ca
   	$/bond:polymers[0][4][0]/backbone17	$/atom:polymers[0][4][0]/mon17/ca	$/atom:polymers[0][4][0]/mon18/ca
   	$/bond:polymers[0][4][0]/backbone18	$/atom:polymers[0][4][0]/mon18/ca	$/atom:polymers[0][4][0]/mon19/ca
-  	$/bond:polymers[0][4][0]/backbone19	$/atom:polymers[0][4][0]/mon19/ca	$/atom:polymers[0][4][0]/mon20/ca
-  	$/bond:polymers[0][4][0]/backbone20	$/atom:polymers[0][4][0]/mon20/ca	$/atom:polymers[0][4][0]/mon21/ca
-  	$/bond:polymers[0][4][0]/backbone21	$/atom:polymers[0][4][0]/mon21/ca	$/atom:polymers[0][4][0]/mon22/ca
-  	$/bond:polymers[0][4][0]/backbone22	$/atom:polymers[0][4][0]/mon22/ca	$/atom:polymers[0][4][0]/mon23/ca
-  	$/bond:polymers[0][4][0]/backbone23	$/atom:polymers[0][4][0]/mon23/ca	$/atom:polymers[0][4][0]/mon24/ca
-  	$/bond:polymers[0][4][0]/backbone24	$/atom:polymers[0][4][0]/mon24/ca	$/atom:polymers[0][4][0]/mon25/ca
-  	$/bond:polymers[0][4][0]/backbone25	$/atom:polymers[0][4][0]/mon25/ca	$/atom:polymers[0][4][0]/mon26/ca
+  	$/bond:polymers[0][4][1]/backbone0	$/atom:polymers[0][4][1]/mon0/ca	$/atom:polymers[0][4][1]/mon1/ca
   	$/bond:polymers[0][4][1]/backbone1	$/atom:polymers[0][4][1]/mon1/ca	$/atom:polymers[0][4][1]/mon2/ca
   	$/bond:polymers[0][4][1]/backbone2	$/atom:polymers[0][4][1]/mon2/ca	$/atom:polymers[0][4][1]/mon3/ca
   	$/bond:polymers[0][4][1]/backbone3	$/atom:polymers[0][4][1]/mon3/ca	$/atom:polymers[0][4][1]/mon4/ca
@@ -541,13 +416,7 @@
   	$/bond:polymers[0][4][1]/backbone16	$/atom:polymers[0][4][1]/mon16/ca	$/atom:polymers[0][4][1]/mon17/ca
   	$/bond:polymers[0][4][1]/backbone17	$/atom:polymers[0][4][1]/mon17/ca	$/atom:polymers[0][4][1]/mon18/ca
   	$/bond:polymers[0][4][1]/backbone18	$/atom:polymers[0][4][1]/mon18/ca	$/atom:polymers[0][4][1]/mon19/ca
-  	$/bond:polymers[0][4][1]/backbone19	$/atom:polymers[0][4][1]/mon19/ca	$/atom:polymers[0][4][1]/mon20/ca
-  	$/bond:polymers[0][4][1]/backbone20	$/atom:polymers[0][4][1]/mon20/ca	$/atom:polymers[0][4][1]/mon21/ca
-  	$/bond:polymers[0][4][1]/backbone21	$/atom:polymers[0][4][1]/mon21/ca	$/atom:polymers[0][4][1]/mon22/ca
-  	$/bond:polymers[0][4][1]/backbone22	$/atom:polymers[0][4][1]/mon22/ca	$/atom:polymers[0][4][1]/mon23/ca
-  	$/bond:polymers[0][4][1]/backbone23	$/atom:polymers[0][4][1]/mon23/ca	$/atom:polymers[0][4][1]/mon24/ca
-  	$/bond:polymers[0][4][1]/backbone24	$/atom:polymers[0][4][1]/mon24/ca	$/atom:polymers[0][4][1]/mon25/ca
-  	$/bond:polymers[0][4][1]/backbone25	$/atom:polymers[0][4][1]/mon25/ca	$/atom:polymers[0][4][1]/mon26/ca
+  	$/bond:polymers[0][4][2]/backbone0	$/atom:polymers[0][4][2]/mon0/ca	$/atom:polymers[0][4][2]/mon1/ca
   	$/bond:polymers[0][4][2]/backbone1	$/atom:polymers[0][4][2]/mon1/ca	$/atom:polymers[0][4][2]/mon2/ca
   	$/bond:polymers[0][4][2]/backbone2	$/atom:polymers[0][4][2]/mon2/ca	$/atom:polymers[0][4][2]/mon3/ca
   	$/bond:polymers[0][4][2]/backbone3	$/atom:polymers[0][4][2]/mon3/ca	$/atom:polymers[0][4][2]/mon4/ca
@@ -566,13 +435,7 @@
   	$/bond:polymers[0][4][2]/backbone16	$/atom:polymers[0][4][2]/mon16/ca	$/atom:polymers[0][4][2]/mon17/ca
   	$/bond:polymers[0][4][2]/backbone17	$/atom:polymers[0][4][2]/mon17/ca	$/atom:polymers[0][4][2]/mon18/ca
   	$/bond:polymers[0][4][2]/backbone18	$/atom:polymers[0][4][2]/mon18/ca	$/atom:polymers[0][4][2]/mon19/ca
-  	$/bond:polymers[0][4][2]/backbone19	$/atom:polymers[0][4][2]/mon19/ca	$/atom:polymers[0][4][2]/mon20/ca
-  	$/bond:polymers[0][4][2]/backbone20	$/atom:polymers[0][4][2]/mon20/ca	$/atom:polymers[0][4][2]/mon21/ca
-  	$/bond:polymers[0][4][2]/backbone21	$/atom:polymers[0][4][2]/mon21/ca	$/atom:polymers[0][4][2]/mon22/ca
-  	$/bond:polymers[0][4][2]/backbone22	$/atom:polymers[0][4][2]/mon22/ca	$/atom:polymers[0][4][2]/mon23/ca
-  	$/bond:polymers[0][4][2]/backbone23	$/atom:polymers[0][4][2]/mon23/ca	$/atom:polymers[0][4][2]/mon24/ca
-  	$/bond:polymers[0][4][2]/backbone24	$/atom:polymers[0][4][2]/mon24/ca	$/atom:polymers[0][4][2]/mon25/ca
-  	$/bond:polymers[0][4][2]/backbone25	$/atom:polymers[0][4][2]/mon25/ca	$/atom:polymers[0][4][2]/mon26/ca
+  	$/bond:polymers[0][4][3]/backbone0	$/atom:polymers[0][4][3]/mon0/ca	$/atom:polymers[0][4][3]/mon1/ca
   	$/bond:polymers[0][4][3]/backbone1	$/atom:polymers[0][4][3]/mon1/ca	$/atom:polymers[0][4][3]/mon2/ca
   	$/bond:polymers[0][4][3]/backbone2	$/atom:polymers[0][4][3]/mon2/ca	$/atom:polymers[0][4][3]/mon3/ca
   	$/bond:polymers[0][4][3]/backbone3	$/atom:polymers[0][4][3]/mon3/ca	$/atom:polymers[0][4][3]/mon4/ca
@@ -591,13 +454,7 @@
   	$/bond:polymers[0][4][3]/backbone16	$/atom:polymers[0][4][3]/mon16/ca	$/atom:polymers[0][4][3]/mon17/ca
   	$/bond:polymers[0][4][3]/backbone17	$/atom:polymers[0][4][3]/mon17/ca	$/atom:polymers[0][4][3]/mon18/ca
   	$/bond:polymers[0][4][3]/backbone18	$/atom:polymers[0][4][3]/mon18/ca	$/atom:polymers[0][4][3]/mon19/ca
-  	$/bond:polymers[0][4][3]/backbone19	$/atom:polymers[0][4][3]/mon19/ca	$/atom:polymers[0][4][3]/mon20/ca
-  	$/bond:polymers[0][4][3]/backbone20	$/atom:polymers[0][4][3]/mon20/ca	$/atom:polymers[0][4][3]/mon21/ca
-  	$/bond:polymers[0][4][3]/backbone21	$/atom:polymers[0][4][3]/mon21/ca	$/atom:polymers[0][4][3]/mon22/ca
-  	$/bond:polymers[0][4][3]/backbone22	$/atom:polymers[0][4][3]/mon22/ca	$/atom:polymers[0][4][3]/mon23/ca
-  	$/bond:polymers[0][4][3]/backbone23	$/atom:polymers[0][4][3]/mon23/ca	$/atom:polymers[0][4][3]/mon24/ca
-  	$/bond:polymers[0][4][3]/backbone24	$/atom:polymers[0][4][3]/mon24/ca	$/atom:polymers[0][4][3]/mon25/ca
-  	$/bond:polymers[0][4][3]/backbone25	$/atom:polymers[0][4][3]/mon25/ca	$/atom:polymers[0][4][3]/mon26/ca
+  	$/bond:polymers[0][4][4]/backbone0	$/atom:polymers[0][4][4]/mon0/ca	$/atom:polymers[0][4][4]/mon1/ca
   	$/bond:polymers[0][4][4]/backbone1	$/atom:polymers[0][4][4]/mon1/ca	$/atom:polymers[0][4][4]/mon2/ca
   	$/bond:polymers[0][4][4]/backbone2	$/atom:polymers[0][4][4]/mon2/ca	$/atom:polymers[0][4][4]/mon3/ca
   	$/bond:polymers[0][4][4]/backbone3	$/atom:polymers[0][4][4]/mon3/ca	$/atom:polymers[0][4][4]/mon4/ca
@@ -616,13 +473,7 @@
   	$/bond:polymers[0][4][4]/backbone16	$/atom:polymers[0][4][4]/mon16/ca	$/atom:polymers[0][4][4]/mon17/ca
   	$/bond:polymers[0][4][4]/backbone17	$/atom:polymers[0][4][4]/mon17/ca	$/atom:polymers[0][4][4]/mon18/ca
   	$/bond:polymers[0][4][4]/backbone18	$/atom:polymers[0][4][4]/mon18/ca	$/atom:polymers[0][4][4]/mon19/ca
-  	$/bond:polymers[0][4][4]/backbone19	$/atom:polymers[0][4][4]/mon19/ca	$/atom:polymers[0][4][4]/mon20/ca
-  	$/bond:polymers[0][4][4]/backbone20	$/atom:polymers[0][4][4]/mon20/ca	$/atom:polymers[0][4][4]/mon21/ca
-  	$/bond:polymers[0][4][4]/backbone21	$/atom:polymers[0][4][4]/mon21/ca	$/atom:polymers[0][4][4]/mon22/ca
-  	$/bond:polymers[0][4][4]/backbone22	$/atom:polymers[0][4][4]/mon22/ca	$/atom:polymers[0][4][4]/mon23/ca
-  	$/bond:polymers[0][4][4]/backbone23	$/atom:polymers[0][4][4]/mon23/ca	$/atom:polymers[0][4][4]/mon24/ca
-  	$/bond:polymers[0][4][4]/backbone24	$/atom:polymers[0][4][4]/mon24/ca	$/atom:polymers[0][4][4]/mon25/ca
-  	$/bond:polymers[0][4][4]/backbone25	$/atom:polymers[0][4][4]/mon25/ca	$/atom:polymers[0][4][4]/mon26/ca
+  	$/bond:polymers[1][0][0]/backbone0	$/atom:polymers[1][0][0]/mon0/ca	$/atom:polymers[1][0][0]/mon1/ca
   	$/bond:polymers[1][0][0]/backbone1	$/atom:polymers[1][0][0]/mon1/ca	$/atom:polymers[1][0][0]/mon2/ca
   	$/bond:polymers[1][0][0]/backbone2	$/atom:polymers[1][0][0]/mon2/ca	$/atom:polymers[1][0][0]/mon3/ca
   	$/bond:polymers[1][0][0]/backbone3	$/atom:polymers[1][0][0]/mon3/ca	$/atom:polymers[1][0][0]/mon4/ca
@@ -641,13 +492,7 @@
   	$/bond:polymers[1][0][0]/backbone16	$/atom:polymers[1][0][0]/mon16/ca	$/atom:polymers[1][0][0]/mon17/ca
   	$/bond:polymers[1][0][0]/backbone17	$/atom:polymers[1][0][0]/mon17/ca	$/atom:polymers[1][0][0]/mon18/ca
   	$/bond:polymers[1][0][0]/backbone18	$/atom:polymers[1][0][0]/mon18/ca	$/atom:polymers[1][0][0]/mon19/ca
-  	$/bond:polymers[1][0][0]/backbone19	$/atom:polymers[1][0][0]/mon19/ca	$/atom:polymers[1][0][0]/mon20/ca
-  	$/bond:polymers[1][0][0]/backbone20	$/atom:polymers[1][0][0]/mon20/ca	$/atom:polymers[1][0][0]/mon21/ca
-  	$/bond:polymers[1][0][0]/backbone21	$/atom:polymers[1][0][0]/mon21/ca	$/atom:polymers[1][0][0]/mon22/ca
-  	$/bond:polymers[1][0][0]/backbone22	$/atom:polymers[1][0][0]/mon22/ca	$/atom:polymers[1][0][0]/mon23/ca
-  	$/bond:polymers[1][0][0]/backbone23	$/atom:polymers[1][0][0]/mon23/ca	$/atom:polymers[1][0][0]/mon24/ca
-  	$/bond:polymers[1][0][0]/backbone24	$/atom:polymers[1][0][0]/mon24/ca	$/atom:polymers[1][0][0]/mon25/ca
-  	$/bond:polymers[1][0][0]/backbone25	$/atom:polymers[1][0][0]/mon25/ca	$/atom:polymers[1][0][0]/mon26/ca
+  	$/bond:polymers[1][0][1]/backbone0	$/atom:polymers[1][0][1]/mon0/ca	$/atom:polymers[1][0][1]/mon1/ca
   	$/bond:polymers[1][0][1]/backbone1	$/atom:polymers[1][0][1]/mon1/ca	$/atom:polymers[1][0][1]/mon2/ca
   	$/bond:polymers[1][0][1]/backbone2	$/atom:polymers[1][0][1]/mon2/ca	$/atom:polymers[1][0][1]/mon3/ca
   	$/bond:polymers[1][0][1]/backbone3	$/atom:polymers[1][0][1]/mon3/ca	$/atom:polymers[1][0][1]/mon4/ca
@@ -666,13 +511,7 @@
   	$/bond:polymers[1][0][1]/backbone16	$/atom:polymers[1][0][1]/mon16/ca	$/atom:polymers[1][0][1]/mon17/ca
   	$/bond:polymers[1][0][1]/backbone17	$/atom:polymers[1][0][1]/mon17/ca	$/atom:polymers[1][0][1]/mon18/ca
   	$/bond:polymers[1][0][1]/backbone18	$/atom:polymers[1][0][1]/mon18/ca	$/atom:polymers[1][0][1]/mon19/ca
-  	$/bond:polymers[1][0][1]/backbone19	$/atom:polymers[1][0][1]/mon19/ca	$/atom:polymers[1][0][1]/mon20/ca
-  	$/bond:polymers[1][0][1]/backbone20	$/atom:polymers[1][0][1]/mon20/ca	$/atom:polymers[1][0][1]/mon21/ca
-  	$/bond:polymers[1][0][1]/backbone21	$/atom:polymers[1][0][1]/mon21/ca	$/atom:polymers[1][0][1]/mon22/ca
-  	$/bond:polymers[1][0][1]/backbone22	$/atom:polymers[1][0][1]/mon22/ca	$/atom:polymers[1][0][1]/mon23/ca
-  	$/bond:polymers[1][0][1]/backbone23	$/atom:polymers[1][0][1]/mon23/ca	$/atom:polymers[1][0][1]/mon24/ca
-  	$/bond:polymers[1][0][1]/backbone24	$/atom:polymers[1][0][1]/mon24/ca	$/atom:polymers[1][0][1]/mon25/ca
-  	$/bond:polymers[1][0][1]/backbone25	$/atom:polymers[1][0][1]/mon25/ca	$/atom:polymers[1][0][1]/mon26/ca
+  	$/bond:polymers[1][0][2]/backbone0	$/atom:polymers[1][0][2]/mon0/ca	$/atom:polymers[1][0][2]/mon1/ca
   	$/bond:polymers[1][0][2]/backbone1	$/atom:polymers[1][0][2]/mon1/ca	$/atom:polymers[1][0][2]/mon2/ca
   	$/bond:polymers[1][0][2]/backbone2	$/atom:polymers[1][0][2]/mon2/ca	$/atom:polymers[1][0][2]/mon3/ca
   	$/bond:polymers[1][0][2]/backbone3	$/atom:polymers[1][0][2]/mon3/ca	$/atom:polymers[1][0][2]/mon4/ca
@@ -691,13 +530,7 @@
   	$/bond:polymers[1][0][2]/backbone16	$/atom:polymers[1][0][2]/mon16/ca	$/atom:polymers[1][0][2]/mon17/ca
   	$/bond:polymers[1][0][2]/backbone17	$/atom:polymers[1][0][2]/mon17/ca	$/atom:polymers[1][0][2]/mon18/ca
   	$/bond:polymers[1][0][2]/backbone18	$/atom:polymers[1][0][2]/mon18/ca	$/atom:polymers[1][0][2]/mon19/ca
-  	$/bond:polymers[1][0][2]/backbone19	$/atom:polymers[1][0][2]/mon19/ca	$/atom:polymers[1][0][2]/mon20/ca
-  	$/bond:polymers[1][0][2]/backbone20	$/atom:polymers[1][0][2]/mon20/ca	$/atom:polymers[1][0][2]/mon21/ca
-  	$/bond:polymers[1][0][2]/backbone21	$/atom:polymers[1][0][2]/mon21/ca	$/atom:polymers[1][0][2]/mon22/ca
-  	$/bond:polymers[1][0][2]/backbone22	$/atom:polymers[1][0][2]/mon22/ca	$/atom:polymers[1][0][2]/mon23/ca
-  	$/bond:polymers[1][0][2]/backbone23	$/atom:polymers[1][0][2]/mon23/ca	$/atom:polymers[1][0][2]/mon24/ca
-  	$/bond:polymers[1][0][2]/backbone24	$/atom:polymers[1][0][2]/mon24/ca	$/atom:polymers[1][0][2]/mon25/ca
-  	$/bond:polymers[1][0][2]/backbone25	$/atom:polymers[1][0][2]/mon25/ca	$/atom:polymers[1][0][2]/mon26/ca
+  	$/bond:polymers[1][0][3]/backbone0	$/atom:polymers[1][0][3]/mon0/ca	$/atom:polymers[1][0][3]/mon1/ca
   	$/bond:polymers[1][0][3]/backbone1	$/atom:polymers[1][0][3]/mon1/ca	$/atom:polymers[1][0][3]/mon2/ca
   	$/bond:polymers[1][0][3]/backbone2	$/atom:polymers[1][0][3]/mon2/ca	$/atom:polymers[1][0][3]/mon3/ca
   	$/bond:polymers[1][0][3]/backbone3	$/atom:polymers[1][0][3]/mon3/ca	$/atom:polymers[1][0][3]/mon4/ca
@@ -716,13 +549,7 @@
   	$/bond:polymers[1][0][3]/backbone16	$/atom:polymers[1][0][3]/mon16/ca	$/atom:polymers[1][0][3]/mon17/ca
   	$/bond:polymers[1][0][3]/backbone17	$/atom:polymers[1][0][3]/mon17/ca	$/atom:polymers[1][0][3]/mon18/ca
   	$/bond:polymers[1][0][3]/backbone18	$/atom:polymers[1][0][3]/mon18/ca	$/atom:polymers[1][0][3]/mon19/ca
-  	$/bond:polymers[1][0][3]/backbone19	$/atom:polymers[1][0][3]/mon19/ca	$/atom:polymers[1][0][3]/mon20/ca
-  	$/bond:polymers[1][0][3]/backbone20	$/atom:polymers[1][0][3]/mon20/ca	$/atom:polymers[1][0][3]/mon21/ca
-  	$/bond:polymers[1][0][3]/backbone21	$/atom:polymers[1][0][3]/mon21/ca	$/atom:polymers[1][0][3]/mon22/ca
-  	$/bond:polymers[1][0][3]/backbone22	$/atom:polymers[1][0][3]/mon22/ca	$/atom:polymers[1][0][3]/mon23/ca
-  	$/bond:polymers[1][0][3]/backbone23	$/atom:polymers[1][0][3]/mon23/ca	$/atom:polymers[1][0][3]/mon24/ca
-  	$/bond:polymers[1][0][3]/backbone24	$/atom:polymers[1][0][3]/mon24/ca	$/atom:polymers[1][0][3]/mon25/ca
-  	$/bond:polymers[1][0][3]/backbone25	$/atom:polymers[1][0][3]/mon25/ca	$/atom:polymers[1][0][3]/mon26/ca
+  	$/bond:polymers[1][0][4]/backbone0	$/atom:polymers[1][0][4]/mon0/ca	$/atom:polymers[1][0][4]/mon1/ca
   	$/bond:polymers[1][0][4]/backbone1	$/atom:polymers[1][0][4]/mon1/ca	$/atom:polymers[1][0][4]/mon2/ca
   	$/bond:polymers[1][0][4]/backbone2	$/atom:polymers[1][0][4]/mon2/ca	$/atom:polymers[1][0][4]/mon3/ca
   	$/bond:polymers[1][0][4]/backbone3	$/atom:polymers[1][0][4]/mon3/ca	$/atom:polymers[1][0][4]/mon4/ca
@@ -741,13 +568,7 @@
   	$/bond:polymers[1][0][4]/backbone16	$/atom:polymers[1][0][4]/mon16/ca	$/atom:polymers[1][0][4]/mon17/ca
   	$/bond:polymers[1][0][4]/backbone17	$/atom:polymers[1][0][4]/mon17/ca	$/atom:polymers[1][0][4]/mon18/ca
   	$/bond:polymers[1][0][4]/backbone18	$/atom:polymers[1][0][4]/mon18/ca	$/atom:polymers[1][0][4]/mon19/ca
-  	$/bond:polymers[1][0][4]/backbone19	$/atom:polymers[1][0][4]/mon19/ca	$/atom:polymers[1][0][4]/mon20/ca
-  	$/bond:polymers[1][0][4]/backbone20	$/atom:polymers[1][0][4]/mon20/ca	$/atom:polymers[1][0][4]/mon21/ca
-  	$/bond:polymers[1][0][4]/backbone21	$/atom:polymers[1][0][4]/mon21/ca	$/atom:polymers[1][0][4]/mon22/ca
-  	$/bond:polymers[1][0][4]/backbone22	$/atom:polymers[1][0][4]/mon22/ca	$/atom:polymers[1][0][4]/mon23/ca
-  	$/bond:polymers[1][0][4]/backbone23	$/atom:polymers[1][0][4]/mon23/ca	$/atom:polymers[1][0][4]/mon24/ca
-  	$/bond:polymers[1][0][4]/backbone24	$/atom:polymers[1][0][4]/mon24/ca	$/atom:polymers[1][0][4]/mon25/ca
-  	$/bond:polymers[1][0][4]/backbone25	$/atom:polymers[1][0][4]/mon25/ca	$/atom:polymers[1][0][4]/mon26/ca
+  	$/bond:polymers[1][1][0]/backbone0	$/atom:polymers[1][1][0]/mon0/ca	$/atom:polymers[1][1][0]/mon1/ca
   	$/bond:polymers[1][1][0]/backbone1	$/atom:polymers[1][1][0]/mon1/ca	$/atom:polymers[1][1][0]/mon2/ca
   	$/bond:polymers[1][1][0]/backbone2	$/atom:polymers[1][1][0]/mon2/ca	$/atom:polymers[1][1][0]/mon3/ca
   	$/bond:polymers[1][1][0]/backbone3	$/atom:polymers[1][1][0]/mon3/ca	$/atom:polymers[1][1][0]/mon4/ca
@@ -766,13 +587,7 @@
   	$/bond:polymers[1][1][0]/backbone16	$/atom:polymers[1][1][0]/mon16/ca	$/atom:polymers[1][1][0]/mon17/ca
   	$/bond:polymers[1][1][0]/backbone17	$/atom:polymers[1][1][0]/mon17/ca	$/atom:polymers[1][1][0]/mon18/ca
   	$/bond:polymers[1][1][0]/backbone18	$/atom:polymers[1][1][0]/mon18/ca	$/atom:polymers[1][1][0]/mon19/ca
-  	$/bond:polymers[1][1][0]/backbone19	$/atom:polymers[1][1][0]/mon19/ca	$/atom:polymers[1][1][0]/mon20/ca
-  	$/bond:polymers[1][1][0]/backbone20	$/atom:polymers[1][1][0]/mon20/ca	$/atom:polymers[1][1][0]/mon21/ca
-  	$/bond:polymers[1][1][0]/backbone21	$/atom:polymers[1][1][0]/mon21/ca	$/atom:polymers[1][1][0]/mon22/ca
-  	$/bond:polymers[1][1][0]/backbone22	$/atom:polymers[1][1][0]/mon22/ca	$/atom:polymers[1][1][0]/mon23/ca
-  	$/bond:polymers[1][1][0]/backbone23	$/atom:polymers[1][1][0]/mon23/ca	$/atom:polymers[1][1][0]/mon24/ca
-  	$/bond:polymers[1][1][0]/backbone24	$/atom:polymers[1][1][0]/mon24/ca	$/atom:polymers[1][1][0]/mon25/ca
-  	$/bond:polymers[1][1][0]/backbone25	$/atom:polymers[1][1][0]/mon25/ca	$/atom:polymers[1][1][0]/mon26/ca
+  	$/bond:polymers[1][1][1]/backbone0	$/atom:polymers[1][1][1]/mon0/ca	$/atom:polymers[1][1][1]/mon1/ca
   	$/bond:polymers[1][1][1]/backbone1	$/atom:polymers[1][1][1]/mon1/ca	$/atom:polymers[1][1][1]/mon2/ca
   	$/bond:polymers[1][1][1]/backbone2	$/atom:polymers[1][1][1]/mon2/ca	$/atom:polymers[1][1][1]/mon3/ca
   	$/bond:polymers[1][1][1]/backbone3	$/atom:polymers[1][1][1]/mon3/ca	$/atom:polymers[1][1][1]/mon4/ca
@@ -791,13 +606,7 @@
   	$/bond:polymers[1][1][1]/backbone16	$/atom:polymers[1][1][1]/mon16/ca	$/atom:polymers[1][1][1]/mon17/ca
   	$/bond:polymers[1][1][1]/backbone17	$/atom:polymers[1][1][1]/mon17/ca	$/atom:polymers[1][1][1]/mon18/ca
   	$/bond:polymers[1][1][1]/backbone18	$/atom:polymers[1][1][1]/mon18/ca	$/atom:polymers[1][1][1]/mon19/ca
-  	$/bond:polymers[1][1][1]/backbone19	$/atom:polymers[1][1][1]/mon19/ca	$/atom:polymers[1][1][1]/mon20/ca
-  	$/bond:polymers[1][1][1]/backbone20	$/atom:polymers[1][1][1]/mon20/ca	$/atom:polymers[1][1][1]/mon21/ca
-  	$/bond:polymers[1][1][1]/backbone21	$/atom:polymers[1][1][1]/mon21/ca	$/atom:polymers[1][1][1]/mon22/ca
-  	$/bond:polymers[1][1][1]/backbone22	$/atom:polymers[1][1][1]/mon22/ca	$/atom:polymers[1][1][1]/mon23/ca
-  	$/bond:polymers[1][1][1]/backbone23	$/atom:polymers[1][1][1]/mon23/ca	$/atom:polymers[1][1][1]/mon24/ca
-  	$/bond:polymers[1][1][1]/backbone24	$/atom:polymers[1][1][1]/mon24/ca	$/atom:polymers[1][1][1]/mon25/ca
-  	$/bond:polymers[1][1][1]/backbone25	$/atom:polymers[1][1][1]/mon25/ca	$/atom:polymers[1][1][1]/mon26/ca
+  	$/bond:polymers[1][1][2]/backbone0	$/atom:polymers[1][1][2]/mon0/ca	$/atom:polymers[1][1][2]/mon1/ca
   	$/bond:polymers[1][1][2]/backbone1	$/atom:polymers[1][1][2]/mon1/ca	$/atom:polymers[1][1][2]/mon2/ca
   	$/bond:polymers[1][1][2]/backbone2	$/atom:polymers[1][1][2]/mon2/ca	$/atom:polymers[1][1][2]/mon3/ca
   	$/bond:polymers[1][1][2]/backbone3	$/atom:polymers[1][1][2]/mon3/ca	$/atom:polymers[1][1][2]/mon4/ca
@@ -816,13 +625,7 @@
   	$/bond:polymers[1][1][2]/backbone16	$/atom:polymers[1][1][2]/mon16/ca	$/atom:polymers[1][1][2]/mon17/ca
   	$/bond:polymers[1][1][2]/backbone17	$/atom:polymers[1][1][2]/mon17/ca	$/atom:polymers[1][1][2]/mon18/ca
   	$/bond:polymers[1][1][2]/backbone18	$/atom:polymers[1][1][2]/mon18/ca	$/atom:polymers[1][1][2]/mon19/ca
-  	$/bond:polymers[1][1][2]/backbone19	$/atom:polymers[1][1][2]/mon19/ca	$/atom:polymers[1][1][2]/mon20/ca
-  	$/bond:polymers[1][1][2]/backbone20	$/atom:polymers[1][1][2]/mon20/ca	$/atom:polymers[1][1][2]/mon21/ca
-  	$/bond:polymers[1][1][2]/backbone21	$/atom:polymers[1][1][2]/mon21/ca	$/atom:polymers[1][1][2]/mon22/ca
-  	$/bond:polymers[1][1][2]/backbone22	$/atom:polymers[1][1][2]/mon22/ca	$/atom:polymers[1][1][2]/mon23/ca
-  	$/bond:polymers[1][1][2]/backbone23	$/atom:polymers[1][1][2]/mon23/ca	$/atom:polymers[1][1][2]/mon24/ca
-  	$/bond:polymers[1][1][2]/backbone24	$/atom:polymers[1][1][2]/mon24/ca	$/atom:polymers[1][1][2]/mon25/ca
-  	$/bond:polymers[1][1][2]/backbone25	$/atom:polymers[1][1][2]/mon25/ca	$/atom:polymers[1][1][2]/mon26/ca
+  	$/bond:polymers[1][1][3]/backbone0	$/atom:polymers[1][1][3]/mon0/ca	$/atom:polymers[1][1][3]/mon1/ca
   	$/bond:polymers[1][1][3]/backbone1	$/atom:polymers[1][1][3]/mon1/ca	$/atom:polymers[1][1][3]/mon2/ca
   	$/bond:polymers[1][1][3]/backbone2	$/atom:polymers[1][1][3]/mon2/ca	$/atom:polymers[1][1][3]/mon3/ca
   	$/bond:polymers[1][1][3]/backbone3	$/atom:polymers[1][1][3]/mon3/ca	$/atom:polymers[1][1][3]/mon4/ca
@@ -841,13 +644,7 @@
   	$/bond:polymers[1][1][3]/backbone16	$/atom:polymers[1][1][3]/mon16/ca	$/atom:polymers[1][1][3]/mon17/ca
   	$/bond:polymers[1][1][3]/backbone17	$/atom:polymers[1][1][3]/mon17/ca	$/atom:polymers[1][1][3]/mon18/ca
   	$/bond:polymers[1][1][3]/backbone18	$/atom:polymers[1][1][3]/mon18/ca	$/atom:polymers[1][1][3]/mon19/ca
-  	$/bond:polymers[1][1][3]/backbone19	$/atom:polymers[1][1][3]/mon19/ca	$/atom:polymers[1][1][3]/mon20/ca
-  	$/bond:polymers[1][1][3]/backbone20	$/atom:polymers[1][1][3]/mon20/ca	$/atom:polymers[1][1][3]/mon21/ca
-  	$/bond:polymers[1][1][3]/backbone21	$/atom:polymers[1][1][3]/mon21/ca	$/atom:polymers[1][1][3]/mon22/ca
-  	$/bond:polymers[1][1][3]/backbone22	$/atom:polymers[1][1][3]/mon22/ca	$/atom:polymers[1][1][3]/mon23/ca
-  	$/bond:polymers[1][1][3]/backbone23	$/atom:polymers[1][1][3]/mon23/ca	$/atom:polymers[1][1][3]/mon24/ca
-  	$/bond:polymers[1][1][3]/backbone24	$/atom:polymers[1][1][3]/mon24/ca	$/atom:polymers[1][1][3]/mon25/ca
-  	$/bond:polymers[1][1][3]/backbone25	$/atom:polymers[1][1][3]/mon25/ca	$/atom:polymers[1][1][3]/mon26/ca
+  	$/bond:polymers[1][1][4]/backbone0	$/atom:polymers[1][1][4]/mon0/ca	$/atom:polymers[1][1][4]/mon1/ca
   	$/bond:polymers[1][1][4]/backbone1	$/atom:polymers[1][1][4]/mon1/ca	$/atom:polymers[1][1][4]/mon2/ca
   	$/bond:polymers[1][1][4]/backbone2	$/atom:polymers[1][1][4]/mon2/ca	$/atom:polymers[1][1][4]/mon3/ca
   	$/bond:polymers[1][1][4]/backbone3	$/atom:polymers[1][1][4]/mon3/ca	$/atom:polymers[1][1][4]/mon4/ca
@@ -866,13 +663,7 @@
   	$/bond:polymers[1][1][4]/backbone16	$/atom:polymers[1][1][4]/mon16/ca	$/atom:polymers[1][1][4]/mon17/ca
   	$/bond:polymers[1][1][4]/backbone17	$/atom:polymers[1][1][4]/mon17/ca	$/atom:polymers[1][1][4]/mon18/ca
   	$/bond:polymers[1][1][4]/backbone18	$/atom:polymers[1][1][4]/mon18/ca	$/atom:polymers[1][1][4]/mon19/ca
-  	$/bond:polymers[1][1][4]/backbone19	$/atom:polymers[1][1][4]/mon19/ca	$/atom:polymers[1][1][4]/mon20/ca
-  	$/bond:polymers[1][1][4]/backbone20	$/atom:polymers[1][1][4]/mon20/ca	$/atom:polymers[1][1][4]/mon21/ca
-  	$/bond:polymers[1][1][4]/backbone21	$/atom:polymers[1][1][4]/mon21/ca	$/atom:polymers[1][1][4]/mon22/ca
-  	$/bond:polymers[1][1][4]/backbone22	$/atom:polymers[1][1][4]/mon22/ca	$/atom:polymers[1][1][4]/mon23/ca
-  	$/bond:polymers[1][1][4]/backbone23	$/atom:polymers[1][1][4]/mon23/ca	$/atom:polymers[1][1][4]/mon24/ca
-  	$/bond:polymers[1][1][4]/backbone24	$/atom:polymers[1][1][4]/mon24/ca	$/atom:polymers[1][1][4]/mon25/ca
-  	$/bond:polymers[1][1][4]/backbone25	$/atom:polymers[1][1][4]/mon25/ca	$/atom:polymers[1][1][4]/mon26/ca
+  	$/bond:polymers[1][2][0]/backbone0	$/atom:polymers[1][2][0]/mon0/ca	$/atom:polymers[1][2][0]/mon1/ca
   	$/bond:polymers[1][2][0]/backbone1	$/atom:polymers[1][2][0]/mon1/ca	$/atom:polymers[1][2][0]/mon2/ca
   	$/bond:polymers[1][2][0]/backbone2	$/atom:polymers[1][2][0]/mon2/ca	$/atom:polymers[1][2][0]/mon3/ca
   	$/bond:polymers[1][2][0]/backbone3	$/atom:polymers[1][2][0]/mon3/ca	$/atom:polymers[1][2][0]/mon4/ca
@@ -891,13 +682,7 @@
   	$/bond:polymers[1][2][0]/backbone16	$/atom:polymers[1][2][0]/mon16/ca	$/atom:polymers[1][2][0]/mon17/ca
   	$/bond:polymers[1][2][0]/backbone17	$/atom:polymers[1][2][0]/mon17/ca	$/atom:polymers[1][2][0]/mon18/ca
   	$/bond:polymers[1][2][0]/backbone18	$/atom:polymers[1][2][0]/mon18/ca	$/atom:polymers[1][2][0]/mon19/ca
-  	$/bond:polymers[1][2][0]/backbone19	$/atom:polymers[1][2][0]/mon19/ca	$/atom:polymers[1][2][0]/mon20/ca
-  	$/bond:polymers[1][2][0]/backbone20	$/atom:polymers[1][2][0]/mon20/ca	$/atom:polymers[1][2][0]/mon21/ca
-  	$/bond:polymers[1][2][0]/backbone21	$/atom:polymers[1][2][0]/mon21/ca	$/atom:polymers[1][2][0]/mon22/ca
-  	$/bond:polymers[1][2][0]/backbone22	$/atom:polymers[1][2][0]/mon22/ca	$/atom:polymers[1][2][0]/mon23/ca
-  	$/bond:polymers[1][2][0]/backbone23	$/atom:polymers[1][2][0]/mon23/ca	$/atom:polymers[1][2][0]/mon24/ca
-  	$/bond:polymers[1][2][0]/backbone24	$/atom:polymers[1][2][0]/mon24/ca	$/atom:polymers[1][2][0]/mon25/ca
-  	$/bond:polymers[1][2][0]/backbone25	$/atom:polymers[1][2][0]/mon25/ca	$/atom:polymers[1][2][0]/mon26/ca
+  	$/bond:polymers[1][2][1]/backbone0	$/atom:polymers[1][2][1]/mon0/ca	$/atom:polymers[1][2][1]/mon1/ca
   	$/bond:polymers[1][2][1]/backbone1	$/atom:polymers[1][2][1]/mon1/ca	$/atom:polymers[1][2][1]/mon2/ca
   	$/bond:polymers[1][2][1]/backbone2	$/atom:polymers[1][2][1]/mon2/ca	$/atom:polymers[1][2][1]/mon3/ca
   	$/bond:polymers[1][2][1]/backbone3	$/atom:polymers[1][2][1]/mon3/ca	$/atom:polymers[1][2][1]/mon4/ca
@@ -916,13 +701,7 @@
   	$/bond:polymers[1][2][1]/backbone16	$/atom:polymers[1][2][1]/mon16/ca	$/atom:polymers[1][2][1]/mon17/ca
   	$/bond:polymers[1][2][1]/backbone17	$/atom:polymers[1][2][1]/mon17/ca	$/atom:polymers[1][2][1]/mon18/ca
   	$/bond:polymers[1][2][1]/backbone18	$/atom:polymers[1][2][1]/mon18/ca	$/atom:polymers[1][2][1]/mon19/ca
-  	$/bond:polymers[1][2][1]/backbone19	$/atom:polymers[1][2][1]/mon19/ca	$/atom:polymers[1][2][1]/mon20/ca
-  	$/bond:polymers[1][2][1]/backbone20	$/atom:polymers[1][2][1]/mon20/ca	$/atom:polymers[1][2][1]/mon21/ca
-  	$/bond:polymers[1][2][1]/backbone21	$/atom:polymers[1][2][1]/mon21/ca	$/atom:polymers[1][2][1]/mon22/ca
-  	$/bond:polymers[1][2][1]/backbone22	$/atom:polymers[1][2][1]/mon22/ca	$/atom:polymers[1][2][1]/mon23/ca
-  	$/bond:polymers[1][2][1]/backbone23	$/atom:polymers[1][2][1]/mon23/ca	$/atom:polymers[1][2][1]/mon24/ca
-  	$/bond:polymers[1][2][1]/backbone24	$/atom:polymers[1][2][1]/mon24/ca	$/atom:polymers[1][2][1]/mon25/ca
-  	$/bond:polymers[1][2][1]/backbone25	$/atom:polymers[1][2][1]/mon25/ca	$/atom:polymers[1][2][1]/mon26/ca
+  	$/bond:polymers[1][2][2]/backbone0	$/atom:polymers[1][2][2]/mon0/ca	$/atom:polymers[1][2][2]/mon1/ca
   	$/bond:polymers[1][2][2]/backbone1	$/atom:polymers[1][2][2]/mon1/ca	$/atom:polymers[1][2][2]/mon2/ca
   	$/bond:polymers[1][2][2]/backbone2	$/atom:polymers[1][2][2]/mon2/ca	$/atom:polymers[1][2][2]/mon3/ca
   	$/bond:polymers[1][2][2]/backbone3	$/atom:polymers[1][2][2]/mon3/ca	$/atom:polymers[1][2][2]/mon4/ca
@@ -941,13 +720,7 @@
   	$/bond:polymers[1][2][2]/backbone16	$/atom:polymers[1][2][2]/mon16/ca	$/atom:polymers[1][2][2]/mon17/ca
   	$/bond:polymers[1][2][2]/backbone17	$/atom:polymers[1][2][2]/mon17/ca	$/atom:polymers[1][2][2]/mon18/ca
   	$/bond:polymers[1][2][2]/backbone18	$/atom:polymers[1][2][2]/mon18/ca	$/atom:polymers[1][2][2]/mon19/ca
-  	$/bond:polymers[1][2][2]/backbone19	$/atom:polymers[1][2][2]/mon19/ca	$/atom:polymers[1][2][2]/mon20/ca
-  	$/bond:polymers[1][2][2]/backbone20	$/atom:polymers[1][2][2]/mon20/ca	$/atom:polymers[1][2][2]/mon21/ca
-  	$/bond:polymers[1][2][2]/backbone21	$/atom:polymers[1][2][2]/mon21/ca	$/atom:polymers[1][2][2]/mon22/ca
-  	$/bond:polymers[1][2][2]/backbone22	$/atom:polymers[1][2][2]/mon22/ca	$/atom:polymers[1][2][2]/mon23/ca
-  	$/bond:polymers[1][2][2]/backbone23	$/atom:polymers[1][2][2]/mon23/ca	$/atom:polymers[1][2][2]/mon24/ca
-  	$/bond:polymers[1][2][2]/backbone24	$/atom:polymers[1][2][2]/mon24/ca	$/atom:polymers[1][2][2]/mon25/ca
-  	$/bond:polymers[1][2][2]/backbone25	$/atom:polymers[1][2][2]/mon25/ca	$/atom:polymers[1][2][2]/mon26/ca
+  	$/bond:polymers[1][2][3]/backbone0	$/atom:polymers[1][2][3]/mon0/ca	$/atom:polymers[1][2][3]/mon1/ca
   	$/bond:polymers[1][2][3]/backbone1	$/atom:polymers[1][2][3]/mon1/ca	$/atom:polymers[1][2][3]/mon2/ca
   	$/bond:polymers[1][2][3]/backbone2	$/atom:polymers[1][2][3]/mon2/ca	$/atom:polymers[1][2][3]/mon3/ca
   	$/bond:polymers[1][2][3]/backbone3	$/atom:polymers[1][2][3]/mon3/ca	$/atom:polymers[1][2][3]/mon4/ca
@@ -966,13 +739,7 @@
   	$/bond:polymers[1][2][3]/backbone16	$/atom:polymers[1][2][3]/mon16/ca	$/atom:polymers[1][2][3]/mon17/ca
   	$/bond:polymers[1][2][3]/backbone17	$/atom:polymers[1][2][3]/mon17/ca	$/atom:polymers[1][2][3]/mon18/ca
   	$/bond:polymers[1][2][3]/backbone18	$/atom:polymers[1][2][3]/mon18/ca	$/atom:polymers[1][2][3]/mon19/ca
-  	$/bond:polymers[1][2][3]/backbone19	$/atom:polymers[1][2][3]/mon19/ca	$/atom:polymers[1][2][3]/mon20/ca
-  	$/bond:polymers[1][2][3]/backbone20	$/atom:polymers[1][2][3]/mon20/ca	$/atom:polymers[1][2][3]/mon21/ca
-  	$/bond:polymers[1][2][3]/backbone21	$/atom:polymers[1][2][3]/mon21/ca	$/atom:polymers[1][2][3]/mon22/ca
-  	$/bond:polymers[1][2][3]/backbone22	$/atom:polymers[1][2][3]/mon22/ca	$/atom:polymers[1][2][3]/mon23/ca
-  	$/bond:polymers[1][2][3]/backbone23	$/atom:polymers[1][2][3]/mon23/ca	$/atom:polymers[1][2][3]/mon24/ca
-  	$/bond:polymers[1][2][3]/backbone24	$/atom:polymers[1][2][3]/mon24/ca	$/atom:polymers[1][2][3]/mon25/ca
-  	$/bond:polymers[1][2][3]/backbone25	$/atom:polymers[1][2][3]/mon25/ca	$/atom:polymers[1][2][3]/mon26/ca
+  	$/bond:polymers[1][2][4]/backbone0	$/atom:polymers[1][2][4]/mon0/ca	$/atom:polymers[1][2][4]/mon1/ca
   	$/bond:polymers[1][2][4]/backbone1	$/atom:polymers[1][2][4]/mon1/ca	$/atom:polymers[1][2][4]/mon2/ca
   	$/bond:polymers[1][2][4]/backbone2	$/atom:polymers[1][2][4]/mon2/ca	$/atom:polymers[1][2][4]/mon3/ca
   	$/bond:polymers[1][2][4]/backbone3	$/atom:polymers[1][2][4]/mon3/ca	$/atom:polymers[1][2][4]/mon4/ca
@@ -991,13 +758,7 @@
   	$/bond:polymers[1][2][4]/backbone16	$/atom:polymers[1][2][4]/mon16/ca	$/atom:polymers[1][2][4]/mon17/ca
   	$/bond:polymers[1][2][4]/backbone17	$/atom:polymers[1][2][4]/mon17/ca	$/atom:polymers[1][2][4]/mon18/ca
   	$/bond:polymers[1][2][4]/backbone18	$/atom:polymers[1][2][4]/mon18/ca	$/atom:polymers[1][2][4]/mon19/ca
-  	$/bond:polymers[1][2][4]/backbone19	$/atom:polymers[1][2][4]/mon19/ca	$/atom:polymers[1][2][4]/mon20/ca
-  	$/bond:polymers[1][2][4]/backbone20	$/atom:polymers[1][2][4]/mon20/ca	$/atom:polymers[1][2][4]/mon21/ca
-  	$/bond:polymers[1][2][4]/backbone21	$/atom:polymers[1][2][4]/mon21/ca	$/atom:polymers[1][2][4]/mon22/ca
-  	$/bond:polymers[1][2][4]/backbone22	$/atom:polymers[1][2][4]/mon22/ca	$/atom:polymers[1][2][4]/mon23/ca
-  	$/bond:polymers[1][2][4]/backbone23	$/atom:polymers[1][2][4]/mon23/ca	$/atom:polymers[1][2][4]/mon24/ca
-  	$/bond:polymers[1][2][4]/backbone24	$/atom:polymers[1][2][4]/mon24/ca	$/atom:polymers[1][2][4]/mon25/ca
-  	$/bond:polymers[1][2][4]/backbone25	$/atom:polymers[1][2][4]/mon25/ca	$/atom:polymers[1][2][4]/mon26/ca
+  	$/bond:polymers[1][3][0]/backbone0	$/atom:polymers[1][3][0]/mon0/ca	$/atom:polymers[1][3][0]/mon1/ca
   	$/bond:polymers[1][3][0]/backbone1	$/atom:polymers[1][3][0]/mon1/ca	$/atom:polymers[1][3][0]/mon2/ca
   	$/bond:polymers[1][3][0]/backbone2	$/atom:polymers[1][3][0]/mon2/ca	$/atom:polymers[1][3][0]/mon3/ca
   	$/bond:polymers[1][3][0]/backbone3	$/atom:polymers[1][3][0]/mon3/ca	$/atom:polymers[1][3][0]/mon4/ca
@@ -1016,13 +777,7 @@
   	$/bond:polymers[1][3][0]/backbone16	$/atom:polymers[1][3][0]/mon16/ca	$/atom:polymers[1][3][0]/mon17/ca
   	$/bond:polymers[1][3][0]/backbone17	$/atom:polymers[1][3][0]/mon17/ca	$/atom:polymers[1][3][0]/mon18/ca
   	$/bond:polymers[1][3][0]/backbone18	$/atom:polymers[1][3][0]/mon18/ca	$/atom:polymers[1][3][0]/mon19/ca
-  	$/bond:polymers[1][3][0]/backbone19	$/atom:polymers[1][3][0]/mon19/ca	$/atom:polymers[1][3][0]/mon20/ca
-  	$/bond:polymers[1][3][0]/backbone20	$/atom:polymers[1][3][0]/mon20/ca	$/atom:polymers[1][3][0]/mon21/ca
-  	$/bond:polymers[1][3][0]/backbone21	$/atom:polymers[1][3][0]/mon21/ca	$/atom:polymers[1][3][0]/mon22/ca
-  	$/bond:polymers[1][3][0]/backbone22	$/atom:polymers[1][3][0]/mon22/ca	$/atom:polymers[1][3][0]/mon23/ca
-  	$/bond:polymers[1][3][0]/backbone23	$/atom:polymers[1][3][0]/mon23/ca	$/atom:polymers[1][3][0]/mon24/ca
-  	$/bond:polymers[1][3][0]/backbone24	$/atom:polymers[1][3][0]/mon24/ca	$/atom:polymers[1][3][0]/mon25/ca
-  	$/bond:polymers[1][3][0]/backbone25	$/atom:polymers[1][3][0]/mon25/ca	$/atom:polymers[1][3][0]/mon26/ca
+  	$/bond:polymers[1][3][1]/backbone0	$/atom:polymers[1][3][1]/mon0/ca	$/atom:polymers[1][3][1]/mon1/ca
   	$/bond:polymers[1][3][1]/backbone1	$/atom:polymers[1][3][1]/mon1/ca	$/atom:polymers[1][3][1]/mon2/ca
   	$/bond:polymers[1][3][1]/backbone2	$/atom:polymers[1][3][1]/mon2/ca	$/atom:polymers[1][3][1]/mon3/ca
   	$/bond:polymers[1][3][1]/backbone3	$/atom:polymers[1][3][1]/mon3/ca	$/atom:polymers[1][3][1]/mon4/ca
@@ -1041,13 +796,7 @@
   	$/bond:polymers[1][3][1]/backbone16	$/atom:polymers[1][3][1]/mon16/ca	$/atom:polymers[1][3][1]/mon17/ca
   	$/bond:polymers[1][3][1]/backbone17	$/atom:polymers[1][3][1]/mon17/ca	$/atom:polymers[1][3][1]/mon18/ca
   	$/bond:polymers[1][3][1]/backbone18	$/atom:polymers[1][3][1]/mon18/ca	$/atom:polymers[1][3][1]/mon19/ca
-  	$/bond:polymers[1][3][1]/backbone19	$/atom:polymers[1][3][1]/mon19/ca	$/atom:polymers[1][3][1]/mon20/ca
-  	$/bond:polymers[1][3][1]/backbone20	$/atom:polymers[1][3][1]/mon20/ca	$/atom:polymers[1][3][1]/mon21/ca
-  	$/bond:polymers[1][3][1]/backbone21	$/atom:polymers[1][3][1]/mon21/ca	$/atom:polymers[1][3][1]/mon22/ca
-  	$/bond:polymers[1][3][1]/backbone22	$/atom:polymers[1][3][1]/mon22/ca	$/atom:polymers[1][3][1]/mon23/ca
-  	$/bond:polymers[1][3][1]/backbone23	$/atom:polymers[1][3][1]/mon23/ca	$/atom:polymers[1][3][1]/mon24/ca
-  	$/bond:polymers[1][3][1]/backbone24	$/atom:polymers[1][3][1]/mon24/ca	$/atom:polymers[1][3][1]/mon25/ca
-  	$/bond:polymers[1][3][1]/backbone25	$/atom:polymers[1][3][1]/mon25/ca	$/atom:polymers[1][3][1]/mon26/ca
+  	$/bond:polymers[1][3][2]/backbone0	$/atom:polymers[1][3][2]/mon0/ca	$/atom:polymers[1][3][2]/mon1/ca
   	$/bond:polymers[1][3][2]/backbone1	$/atom:polymers[1][3][2]/mon1/ca	$/atom:polymers[1][3][2]/mon2/ca
   	$/bond:polymers[1][3][2]/backbone2	$/atom:polymers[1][3][2]/mon2/ca	$/atom:polymers[1][3][2]/mon3/ca
   	$/bond:polymers[1][3][2]/backbone3	$/atom:polymers[1][3][2]/mon3/ca	$/atom:polymers[1][3][2]/mon4/ca
@@ -1066,13 +815,7 @@
   	$/bond:polymers[1][3][2]/backbone16	$/atom:polymers[1][3][2]/mon16/ca	$/atom:polymers[1][3][2]/mon17/ca
   	$/bond:polymers[1][3][2]/backbone17	$/atom:polymers[1][3][2]/mon17/ca	$/atom:polymers[1][3][2]/mon18/ca
   	$/bond:polymers[1][3][2]/backbone18	$/atom:polymers[1][3][2]/mon18/ca	$/atom:polymers[1][3][2]/mon19/ca
-  	$/bond:polymers[1][3][2]/backbone19	$/atom:polymers[1][3][2]/mon19/ca	$/atom:polymers[1][3][2]/mon20/ca
-  	$/bond:polymers[1][3][2]/backbone20	$/atom:polymers[1][3][2]/mon20/ca	$/atom:polymers[1][3][2]/mon21/ca
-  	$/bond:polymers[1][3][2]/backbone21	$/atom:polymers[1][3][2]/mon21/ca	$/atom:polymers[1][3][2]/mon22/ca
-  	$/bond:polymers[1][3][2]/backbone22	$/atom:polymers[1][3][2]/mon22/ca	$/atom:polymers[1][3][2]/mon23/ca
-  	$/bond:polymers[1][3][2]/backbone23	$/atom:polymers[1][3][2]/mon23/ca	$/atom:polymers[1][3][2]/mon24/ca
-  	$/bond:polymers[1][3][2]/backbone24	$/atom:polymers[1][3][2]/mon24/ca	$/atom:polymers[1][3][2]/mon25/ca
-  	$/bond:polymers[1][3][2]/backbone25	$/atom:polymers[1][3][2]/mon25/ca	$/atom:polymers[1][3][2]/mon26/ca
+  	$/bond:polymers[1][3][3]/backbone0	$/atom:polymers[1][3][3]/mon0/ca	$/atom:polymers[1][3][3]/mon1/ca
   	$/bond:polymers[1][3][3]/backbone1	$/atom:polymers[1][3][3]/mon1/ca	$/atom:polymers[1][3][3]/mon2/ca
   	$/bond:polymers[1][3][3]/backbone2	$/atom:polymers[1][3][3]/mon2/ca	$/atom:polymers[1][3][3]/mon3/ca
   	$/bond:polymers[1][3][3]/backbone3	$/atom:polymers[1][3][3]/mon3/ca	$/atom:polymers[1][3][3]/mon4/ca
@@ -1091,13 +834,7 @@
   	$/bond:polymers[1][3][3]/backbone16	$/atom:polymers[1][3][3]/mon16/ca	$/atom:polymers[1][3][3]/mon17/ca
   	$/bond:polymers[1][3][3]/backbone17	$/atom:polymers[1][3][3]/mon17/ca	$/atom:polymers[1][3][3]/mon18/ca
   	$/bond:polymers[1][3][3]/backbone18	$/atom:polymers[1][3][3]/mon18/ca	$/atom:polymers[1][3][3]/mon19/ca
-  	$/bond:polymers[1][3][3]/backbone19	$/atom:polymers[1][3][3]/mon19/ca	$/atom:polymers[1][3][3]/mon20/ca
-  	$/bond:polymers[1][3][3]/backbone20	$/atom:polymers[1][3][3]/mon20/ca	$/atom:polymers[1][3][3]/mon21/ca
-  	$/bond:polymers[1][3][3]/backbone21	$/atom:polymers[1][3][3]/mon21/ca	$/atom:polymers[1][3][3]/mon22/ca
-  	$/bond:polymers[1][3][3]/backbone22	$/atom:polymers[1][3][3]/mon22/ca	$/atom:polymers[1][3][3]/mon23/ca
-  	$/bond:polymers[1][3][3]/backbone23	$/atom:polymers[1][3][3]/mon23/ca	$/atom:polymers[1][3][3]/mon24/ca
-  	$/bond:polymers[1][3][3]/backbone24	$/atom:polymers[1][3][3]/mon24/ca	$/atom:polymers[1][3][3]/mon25/ca
-  	$/bond:polymers[1][3][3]/backbone25	$/atom:polymers[1][3][3]/mon25/ca	$/atom:polymers[1][3][3]/mon26/ca
+  	$/bond:polymers[1][3][4]/backbone0	$/atom:polymers[1][3][4]/mon0/ca	$/atom:polymers[1][3][4]/mon1/ca
   	$/bond:polymers[1][3][4]/backbone1	$/atom:polymers[1][3][4]/mon1/ca	$/atom:polymers[1][3][4]/mon2/ca
   	$/bond:polymers[1][3][4]/backbone2	$/atom:polymers[1][3][4]/mon2/ca	$/atom:polymers[1][3][4]/mon3/ca
   	$/bond:polymers[1][3][4]/backbone3	$/atom:polymers[1][3][4]/mon3/ca	$/atom:polymers[1][3][4]/mon4/ca
@@ -1116,13 +853,7 @@
   	$/bond:polymers[1][3][4]/backbone16	$/atom:polymers[1][3][4]/mon16/ca	$/atom:polymers[1][3][4]/mon17/ca
   	$/bond:polymers[1][3][4]/backbone17	$/atom:polymers[1][3][4]/mon17/ca	$/atom:polymers[1][3][4]/mon18/ca
   	$/bond:polymers[1][3][4]/backbone18	$/atom:polymers[1][3][4]/mon18/ca	$/atom:polymers[1][3][4]/mon19/ca
-  	$/bond:polymers[1][3][4]/backbone19	$/atom:polymers[1][3][4]/mon19/ca	$/atom:polymers[1][3][4]/mon20/ca
-  	$/bond:polymers[1][3][4]/backbone20	$/atom:polymers[1][3][4]/mon20/ca	$/atom:polymers[1][3][4]/mon21/ca
-  	$/bond:polymers[1][3][4]/backbone21	$/atom:polymers[1][3][4]/mon21/ca	$/atom:polymers[1][3][4]/mon22/ca
-  	$/bond:polymers[1][3][4]/backbone22	$/atom:polymers[1][3][4]/mon22/ca	$/atom:polymers[1][3][4]/mon23/ca
-  	$/bond:polymers[1][3][4]/backbone23	$/atom:polymers[1][3][4]/mon23/ca	$/atom:polymers[1][3][4]/mon24/ca
-  	$/bond:polymers[1][3][4]/backbone24	$/atom:polymers[1][3][4]/mon24/ca	$/atom:polymers[1][3][4]/mon25/ca
-  	$/bond:polymers[1][3][4]/backbone25	$/atom:polymers[1][3][4]/mon25/ca	$/atom:polymers[1][3][4]/mon26/ca
+  	$/bond:polymers[1][4][0]/backbone0	$/atom:polymers[1][4][0]/mon0/ca	$/atom:polymers[1][4][0]/mon1/ca
   	$/bond:polymers[1][4][0]/backbone1	$/atom:polymers[1][4][0]/mon1/ca	$/atom:polymers[1][4][0]/mon2/ca
   	$/bond:polymers[1][4][0]/backbone2	$/atom:polymers[1][4][0]/mon2/ca	$/atom:polymers[1][4][0]/mon3/ca
   	$/bond:polymers[1][4][0]/backbone3	$/atom:polymers[1][4][0]/mon3/ca	$/atom:polymers[1][4][0]/mon4/ca
@@ -1141,13 +872,7 @@
   	$/bond:polymers[1][4][0]/backbone16	$/atom:polymers[1][4][0]/mon16/ca	$/atom:polymers[1][4][0]/mon17/ca
   	$/bond:polymers[1][4][0]/backbone17	$/atom:polymers[1][4][0]/mon17/ca	$/atom:polymers[1][4][0]/mon18/ca
   	$/bond:polymers[1][4][0]/backbone18	$/atom:polymers[1][4][0]/mon18/ca	$/atom:polymers[1][4][0]/mon19/ca
-  	$/bond:polymers[1][4][0]/backbone19	$/atom:polymers[1][4][0]/mon19/ca	$/atom:polymers[1][4][0]/mon20/ca
-  	$/bond:polymers[1][4][0]/backbone20	$/atom:polymers[1][4][0]/mon20/ca	$/atom:polymers[1][4][0]/mon21/ca
-  	$/bond:polymers[1][4][0]/backbone21	$/atom:polymers[1][4][0]/mon21/ca	$/atom:polymers[1][4][0]/mon22/ca
-  	$/bond:polymers[1][4][0]/backbone22	$/atom:polymers[1][4][0]/mon22/ca	$/atom:polymers[1][4][0]/mon23/ca
-  	$/bond:polymers[1][4][0]/backbone23	$/atom:polymers[1][4][0]/mon23/ca	$/atom:polymers[1][4][0]/mon24/ca
-  	$/bond:polymers[1][4][0]/backbone24	$/atom:polymers[1][4][0]/mon24/ca	$/atom:polymers[1][4][0]/mon25/ca
-  	$/bond:polymers[1][4][0]/backbone25	$/atom:polymers[1][4][0]/mon25/ca	$/atom:polymers[1][4][0]/mon26/ca
+  	$/bond:polymers[1][4][1]/backbone0	$/atom:polymers[1][4][1]/mon0/ca	$/atom:polymers[1][4][1]/mon1/ca
   	$/bond:polymers[1][4][1]/backbone1	$/atom:polymers[1][4][1]/mon1/ca	$/atom:polymers[1][4][1]/mon2/ca
   	$/bond:polymers[1][4][1]/backbone2	$/atom:polymers[1][4][1]/mon2/ca	$/atom:polymers[1][4][1]/mon3/ca
   	$/bond:polymers[1][4][1]/backbone3	$/atom:polymers[1][4][1]/mon3/ca	$/atom:polymers[1][4][1]/mon4/ca
@@ -1166,13 +891,7 @@
   	$/bond:polymers[1][4][1]/backbone16	$/atom:polymers[1][4][1]/mon16/ca	$/atom:polymers[1][4][1]/mon17/ca
   	$/bond:polymers[1][4][1]/backbone17	$/atom:polymers[1][4][1]/mon17/ca	$/atom:polymers[1][4][1]/mon18/ca
   	$/bond:polymers[1][4][1]/backbone18	$/atom:polymers[1][4][1]/mon18/ca	$/atom:polymers[1][4][1]/mon19/ca
-  	$/bond:polymers[1][4][1]/backbone19	$/atom:polymers[1][4][1]/mon19/ca	$/atom:polymers[1][4][1]/mon20/ca
-  	$/bond:polymers[1][4][1]/backbone20	$/atom:polymers[1][4][1]/mon20/ca	$/atom:polymers[1][4][1]/mon21/ca
-  	$/bond:polymers[1][4][1]/backbone21	$/atom:polymers[1][4][1]/mon21/ca	$/atom:polymers[1][4][1]/mon22/ca
-  	$/bond:polymers[1][4][1]/backbone22	$/atom:polymers[1][4][1]/mon22/ca	$/atom:polymers[1][4][1]/mon23/ca
-  	$/bond:polymers[1][4][1]/backbone23	$/atom:polymers[1][4][1]/mon23/ca	$/atom:polymers[1][4][1]/mon24/ca
-  	$/bond:polymers[1][4][1]/backbone24	$/atom:polymers[1][4][1]/mon24/ca	$/atom:polymers[1][4][1]/mon25/ca
-  	$/bond:polymers[1][4][1]/backbone25	$/atom:polymers[1][4][1]/mon25/ca	$/atom:polymers[1][4][1]/mon26/ca
+  	$/bond:polymers[1][4][2]/backbone0	$/atom:polymers[1][4][2]/mon0/ca	$/atom:polymers[1][4][2]/mon1/ca
   	$/bond:polymers[1][4][2]/backbone1	$/atom:polymers[1][4][2]/mon1/ca	$/atom:polymers[1][4][2]/mon2/ca
   	$/bond:polymers[1][4][2]/backbone2	$/atom:polymers[1][4][2]/mon2/ca	$/atom:polymers[1][4][2]/mon3/ca
   	$/bond:polymers[1][4][2]/backbone3	$/atom:polymers[1][4][2]/mon3/ca	$/atom:polymers[1][4][2]/mon4/ca
@@ -1191,13 +910,7 @@
   	$/bond:polymers[1][4][2]/backbone16	$/atom:polymers[1][4][2]/mon16/ca	$/atom:polymers[1][4][2]/mon17/ca
   	$/bond:polymers[1][4][2]/backbone17	$/atom:polymers[1][4][2]/mon17/ca	$/atom:polymers[1][4][2]/mon18/ca
   	$/bond:polymers[1][4][2]/backbone18	$/atom:polymers[1][4][2]/mon18/ca	$/atom:polymers[1][4][2]/mon19/ca
-  	$/bond:polymers[1][4][2]/backbone19	$/atom:polymers[1][4][2]/mon19/ca	$/atom:polymers[1][4][2]/mon20/ca
-  	$/bond:polymers[1][4][2]/backbone20	$/atom:polymers[1][4][2]/mon20/ca	$/atom:polymers[1][4][2]/mon21/ca
-  	$/bond:polymers[1][4][2]/backbone21	$/atom:polymers[1][4][2]/mon21/ca	$/atom:polymers[1][4][2]/mon22/ca
-  	$/bond:polymers[1][4][2]/backbone22	$/atom:polymers[1][4][2]/mon22/ca	$/atom:polymers[1][4][2]/mon23/ca
-  	$/bond:polymers[1][4][2]/backbone23	$/atom:polymers[1][4][2]/mon23/ca	$/atom:polymers[1][4][2]/mon24/ca
-  	$/bond:polymers[1][4][2]/backbone24	$/atom:polymers[1][4][2]/mon24/ca	$/atom:polymers[1][4][2]/mon25/ca
-  	$/bond:polymers[1][4][2]/backbone25	$/atom:polymers[1][4][2]/mon25/ca	$/atom:polymers[1][4][2]/mon26/ca
+  	$/bond:polymers[1][4][3]/backbone0	$/atom:polymers[1][4][3]/mon0/ca	$/atom:polymers[1][4][3]/mon1/ca
   	$/bond:polymers[1][4][3]/backbone1	$/atom:polymers[1][4][3]/mon1/ca	$/atom:polymers[1][4][3]/mon2/ca
   	$/bond:polymers[1][4][3]/backbone2	$/atom:polymers[1][4][3]/mon2/ca	$/atom:polymers[1][4][3]/mon3/ca
   	$/bond:polymers[1][4][3]/backbone3	$/atom:polymers[1][4][3]/mon3/ca	$/atom:polymers[1][4][3]/mon4/ca
@@ -1216,13 +929,7 @@
   	$/bond:polymers[1][4][3]/backbone16	$/atom:polymers[1][4][3]/mon16/ca	$/atom:polymers[1][4][3]/mon17/ca
   	$/bond:polymers[1][4][3]/backbone17	$/atom:polymers[1][4][3]/mon17/ca	$/atom:polymers[1][4][3]/mon18/ca
   	$/bond:polymers[1][4][3]/backbone18	$/atom:polymers[1][4][3]/mon18/ca	$/atom:polymers[1][4][3]/mon19/ca
-  	$/bond:polymers[1][4][3]/backbone19	$/atom:polymers[1][4][3]/mon19/ca	$/atom:polymers[1][4][3]/mon20/ca
-  	$/bond:polymers[1][4][3]/backbone20	$/atom:polymers[1][4][3]/mon20/ca	$/atom:polymers[1][4][3]/mon21/ca
-  	$/bond:polymers[1][4][3]/backbone21	$/atom:polymers[1][4][3]/mon21/ca	$/atom:polymers[1][4][3]/mon22/ca
-  	$/bond:polymers[1][4][3]/backbone22	$/atom:polymers[1][4][3]/mon22/ca	$/atom:polymers[1][4][3]/mon23/ca
-  	$/bond:polymers[1][4][3]/backbone23	$/atom:polymers[1][4][3]/mon23/ca	$/atom:polymers[1][4][3]/mon24/ca
-  	$/bond:polymers[1][4][3]/backbone24	$/atom:polymers[1][4][3]/mon24/ca	$/atom:polymers[1][4][3]/mon25/ca
-  	$/bond:polymers[1][4][3]/backbone25	$/atom:polymers[1][4][3]/mon25/ca	$/atom:polymers[1][4][3]/mon26/ca
+  	$/bond:polymers[1][4][4]/backbone0	$/atom:polymers[1][4][4]/mon0/ca	$/atom:polymers[1][4][4]/mon1/ca
   	$/bond:polymers[1][4][4]/backbone1	$/atom:polymers[1][4][4]/mon1/ca	$/atom:polymers[1][4][4]/mon2/ca
   	$/bond:polymers[1][4][4]/backbone2	$/atom:polymers[1][4][4]/mon2/ca	$/atom:polymers[1][4][4]/mon3/ca
   	$/bond:polymers[1][4][4]/backbone3	$/atom:polymers[1][4][4]/mon3/ca	$/atom:polymers[1][4][4]/mon4/ca
@@ -1241,13 +948,7 @@
   	$/bond:polymers[1][4][4]/backbone16	$/atom:polymers[1][4][4]/mon16/ca	$/atom:polymers[1][4][4]/mon17/ca
   	$/bond:polymers[1][4][4]/backbone17	$/atom:polymers[1][4][4]/mon17/ca	$/atom:polymers[1][4][4]/mon18/ca
   	$/bond:polymers[1][4][4]/backbone18	$/atom:polymers[1][4][4]/mon18/ca	$/atom:polymers[1][4][4]/mon19/ca
-  	$/bond:polymers[1][4][4]/backbone19	$/atom:polymers[1][4][4]/mon19/ca	$/atom:polymers[1][4][4]/mon20/ca
-  	$/bond:polymers[1][4][4]/backbone20	$/atom:polymers[1][4][4]/mon20/ca	$/atom:polymers[1][4][4]/mon21/ca
-  	$/bond:polymers[1][4][4]/backbone21	$/atom:polymers[1][4][4]/mon21/ca	$/atom:polymers[1][4][4]/mon22/ca
-  	$/bond:polymers[1][4][4]/backbone22	$/atom:polymers[1][4][4]/mon22/ca	$/atom:polymers[1][4][4]/mon23/ca
-  	$/bond:polymers[1][4][4]/backbone23	$/atom:polymers[1][4][4]/mon23/ca	$/atom:polymers[1][4][4]/mon24/ca
-  	$/bond:polymers[1][4][4]/backbone24	$/atom:polymers[1][4][4]/mon24/ca	$/atom:polymers[1][4][4]/mon25/ca
-  	$/bond:polymers[1][4][4]/backbone25	$/atom:polymers[1][4][4]/mon25/ca	$/atom:polymers[1][4][4]/mon26/ca
+  	$/bond:polymers[2][0][0]/backbone0	$/atom:polymers[2][0][0]/mon0/ca	$/atom:polymers[2][0][0]/mon1/ca
   	$/bond:polymers[2][0][0]/backbone1	$/atom:polymers[2][0][0]/mon1/ca	$/atom:polymers[2][0][0]/mon2/ca
   	$/bond:polymers[2][0][0]/backbone2	$/atom:polymers[2][0][0]/mon2/ca	$/atom:polymers[2][0][0]/mon3/ca
   	$/bond:polymers[2][0][0]/backbone3	$/atom:polymers[2][0][0]/mon3/ca	$/atom:polymers[2][0][0]/mon4/ca
@@ -1266,13 +967,7 @@
   	$/bond:polymers[2][0][0]/backbone16	$/atom:polymers[2][0][0]/mon16/ca	$/atom:polymers[2][0][0]/mon17/ca
   	$/bond:polymers[2][0][0]/backbone17	$/atom:polymers[2][0][0]/mon17/ca	$/atom:polymers[2][0][0]/mon18/ca
   	$/bond:polymers[2][0][0]/backbone18	$/atom:polymers[2][0][0]/mon18/ca	$/atom:polymers[2][0][0]/mon19/ca
-  	$/bond:polymers[2][0][0]/backbone19	$/atom:polymers[2][0][0]/mon19/ca	$/atom:polymers[2][0][0]/mon20/ca
-  	$/bond:polymers[2][0][0]/backbone20	$/atom:polymers[2][0][0]/mon20/ca	$/atom:polymers[2][0][0]/mon21/ca
-  	$/bond:polymers[2][0][0]/backbone21	$/atom:polymers[2][0][0]/mon21/ca	$/atom:polymers[2][0][0]/mon22/ca
-  	$/bond:polymers[2][0][0]/backbone22	$/atom:polymers[2][0][0]/mon22/ca	$/atom:polymers[2][0][0]/mon23/ca
-  	$/bond:polymers[2][0][0]/backbone23	$/atom:polymers[2][0][0]/mon23/ca	$/atom:polymers[2][0][0]/mon24/ca
-  	$/bond:polymers[2][0][0]/backbone24	$/atom:polymers[2][0][0]/mon24/ca	$/atom:polymers[2][0][0]/mon25/ca
-  	$/bond:polymers[2][0][0]/backbone25	$/atom:polymers[2][0][0]/mon25/ca	$/atom:polymers[2][0][0]/mon26/ca
+  	$/bond:polymers[2][0][1]/backbone0	$/atom:polymers[2][0][1]/mon0/ca	$/atom:polymers[2][0][1]/mon1/ca
   	$/bond:polymers[2][0][1]/backbone1	$/atom:polymers[2][0][1]/mon1/ca	$/atom:polymers[2][0][1]/mon2/ca
   	$/bond:polymers[2][0][1]/backbone2	$/atom:polymers[2][0][1]/mon2/ca	$/atom:polymers[2][0][1]/mon3/ca
   	$/bond:polymers[2][0][1]/backbone3	$/atom:polymers[2][0][1]/mon3/ca	$/atom:polymers[2][0][1]/mon4/ca
@@ -1291,13 +986,7 @@
   	$/bond:polymers[2][0][1]/backbone16	$/atom:polymers[2][0][1]/mon16/ca	$/atom:polymers[2][0][1]/mon17/ca
   	$/bond:polymers[2][0][1]/backbone17	$/atom:polymers[2][0][1]/mon17/ca	$/atom:polymers[2][0][1]/mon18/ca
   	$/bond:polymers[2][0][1]/backbone18	$/atom:polymers[2][0][1]/mon18/ca	$/atom:polymers[2][0][1]/mon19/ca
-  	$/bond:polymers[2][0][1]/backbone19	$/atom:polymers[2][0][1]/mon19/ca	$/atom:polymers[2][0][1]/mon20/ca
-  	$/bond:polymers[2][0][1]/backbone20	$/atom:polymers[2][0][1]/mon20/ca	$/atom:polymers[2][0][1]/mon21/ca
-  	$/bond:polymers[2][0][1]/backbone21	$/atom:polymers[2][0][1]/mon21/ca	$/atom:polymers[2][0][1]/mon22/ca
-  	$/bond:polymers[2][0][1]/backbone22	$/atom:polymers[2][0][1]/mon22/ca	$/atom:polymers[2][0][1]/mon23/ca
-  	$/bond:polymers[2][0][1]/backbone23	$/atom:polymers[2][0][1]/mon23/ca	$/atom:polymers[2][0][1]/mon24/ca
-  	$/bond:polymers[2][0][1]/backbone24	$/atom:polymers[2][0][1]/mon24/ca	$/atom:polymers[2][0][1]/mon25/ca
-  	$/bond:polymers[2][0][1]/backbone25	$/atom:polymers[2][0][1]/mon25/ca	$/atom:polymers[2][0][1]/mon26/ca
+  	$/bond:polymers[2][0][2]/backbone0	$/atom:polymers[2][0][2]/mon0/ca	$/atom:polymers[2][0][2]/mon1/ca
   	$/bond:polymers[2][0][2]/backbone1	$/atom:polymers[2][0][2]/mon1/ca	$/atom:polymers[2][0][2]/mon2/ca
   	$/bond:polymers[2][0][2]/backbone2	$/atom:polymers[2][0][2]/mon2/ca	$/atom:polymers[2][0][2]/mon3/ca
   	$/bond:polymers[2][0][2]/backbone3	$/atom:polymers[2][0][2]/mon3/ca	$/atom:polymers[2][0][2]/mon4/ca
@@ -1316,13 +1005,7 @@
   	$/bond:polymers[2][0][2]/backbone16	$/atom:polymers[2][0][2]/mon16/ca	$/atom:polymers[2][0][2]/mon17/ca
   	$/bond:polymers[2][0][2]/backbone17	$/atom:polymers[2][0][2]/mon17/ca	$/atom:polymers[2][0][2]/mon18/ca
   	$/bond:polymers[2][0][2]/backbone18	$/atom:polymers[2][0][2]/mon18/ca	$/atom:polymers[2][0][2]/mon19/ca
-  	$/bond:polymers[2][0][2]/backbone19	$/atom:polymers[2][0][2]/mon19/ca	$/atom:polymers[2][0][2]/mon20/ca
-  	$/bond:polymers[2][0][2]/backbone20	$/atom:polymers[2][0][2]/mon20/ca	$/atom:polymers[2][0][2]/mon21/ca
-  	$/bond:polymers[2][0][2]/backbone21	$/atom:polymers[2][0][2]/mon21/ca	$/atom:polymers[2][0][2]/mon22/ca
-  	$/bond:polymers[2][0][2]/backbone22	$/atom:polymers[2][0][2]/mon22/ca	$/atom:polymers[2][0][2]/mon23/ca
-  	$/bond:polymers[2][0][2]/backbone23	$/atom:polymers[2][0][2]/mon23/ca	$/atom:polymers[2][0][2]/mon24/ca
-  	$/bond:polymers[2][0][2]/backbone24	$/atom:polymers[2][0][2]/mon24/ca	$/atom:polymers[2][0][2]/mon25/ca
-  	$/bond:polymers[2][0][2]/backbone25	$/atom:polymers[2][0][2]/mon25/ca	$/atom:polymers[2][0][2]/mon26/ca
+  	$/bond:polymers[2][0][3]/backbone0	$/atom:polymers[2][0][3]/mon0/ca	$/atom:polymers[2][0][3]/mon1/ca
   	$/bond:polymers[2][0][3]/backbone1	$/atom:polymers[2][0][3]/mon1/ca	$/atom:polymers[2][0][3]/mon2/ca
   	$/bond:polymers[2][0][3]/backbone2	$/atom:polymers[2][0][3]/mon2/ca	$/atom:polymers[2][0][3]/mon3/ca
   	$/bond:polymers[2][0][3]/backbone3	$/atom:polymers[2][0][3]/mon3/ca	$/atom:polymers[2][0][3]/mon4/ca
@@ -1341,13 +1024,7 @@
   	$/bond:polymers[2][0][3]/backbone16	$/atom:polymers[2][0][3]/mon16/ca	$/atom:polymers[2][0][3]/mon17/ca
   	$/bond:polymers[2][0][3]/backbone17	$/atom:polymers[2][0][3]/mon17/ca	$/atom:polymers[2][0][3]/mon18/ca
   	$/bond:polymers[2][0][3]/backbone18	$/atom:polymers[2][0][3]/mon18/ca	$/atom:polymers[2][0][3]/mon19/ca
-  	$/bond:polymers[2][0][3]/backbone19	$/atom:polymers[2][0][3]/mon19/ca	$/atom:polymers[2][0][3]/mon20/ca
-  	$/bond:polymers[2][0][3]/backbone20	$/atom:polymers[2][0][3]/mon20/ca	$/atom:polymers[2][0][3]/mon21/ca
-  	$/bond:polymers[2][0][3]/backbone21	$/atom:polymers[2][0][3]/mon21/ca	$/atom:polymers[2][0][3]/mon22/ca
-  	$/bond:polymers[2][0][3]/backbone22	$/atom:polymers[2][0][3]/mon22/ca	$/atom:polymers[2][0][3]/mon23/ca
-  	$/bond:polymers[2][0][3]/backbone23	$/atom:polymers[2][0][3]/mon23/ca	$/atom:polymers[2][0][3]/mon24/ca
-  	$/bond:polymers[2][0][3]/backbone24	$/atom:polymers[2][0][3]/mon24/ca	$/atom:polymers[2][0][3]/mon25/ca
-  	$/bond:polymers[2][0][3]/backbone25	$/atom:polymers[2][0][3]/mon25/ca	$/atom:polymers[2][0][3]/mon26/ca
+  	$/bond:polymers[2][0][4]/backbone0	$/atom:polymers[2][0][4]/mon0/ca	$/atom:polymers[2][0][4]/mon1/ca
   	$/bond:polymers[2][0][4]/backbone1	$/atom:polymers[2][0][4]/mon1/ca	$/atom:polymers[2][0][4]/mon2/ca
   	$/bond:polymers[2][0][4]/backbone2	$/atom:polymers[2][0][4]/mon2/ca	$/atom:polymers[2][0][4]/mon3/ca
   	$/bond:polymers[2][0][4]/backbone3	$/atom:polymers[2][0][4]/mon3/ca	$/atom:polymers[2][0][4]/mon4/ca
@@ -1366,13 +1043,7 @@
   	$/bond:polymers[2][0][4]/backbone16	$/atom:polymers[2][0][4]/mon16/ca	$/atom:polymers[2][0][4]/mon17/ca
   	$/bond:polymers[2][0][4]/backbone17	$/atom:polymers[2][0][4]/mon17/ca	$/atom:polymers[2][0][4]/mon18/ca
   	$/bond:polymers[2][0][4]/backbone18	$/atom:polymers[2][0][4]/mon18/ca	$/atom:polymers[2][0][4]/mon19/ca
-  	$/bond:polymers[2][0][4]/backbone19	$/atom:polymers[2][0][4]/mon19/ca	$/atom:polymers[2][0][4]/mon20/ca
-  	$/bond:polymers[2][0][4]/backbone20	$/atom:polymers[2][0][4]/mon20/ca	$/atom:polymers[2][0][4]/mon21/ca
-  	$/bond:polymers[2][0][4]/backbone21	$/atom:polymers[2][0][4]/mon21/ca	$/atom:polymers[2][0][4]/mon22/ca
-  	$/bond:polymers[2][0][4]/backbone22	$/atom:polymers[2][0][4]/mon22/ca	$/atom:polymers[2][0][4]/mon23/ca
-  	$/bond:polymers[2][0][4]/backbone23	$/atom:polymers[2][0][4]/mon23/ca	$/atom:polymers[2][0][4]/mon24/ca
-  	$/bond:polymers[2][0][4]/backbone24	$/atom:polymers[2][0][4]/mon24/ca	$/atom:polymers[2][0][4]/mon25/ca
-  	$/bond:polymers[2][0][4]/backbone25	$/atom:polymers[2][0][4]/mon25/ca	$/atom:polymers[2][0][4]/mon26/ca
+  	$/bond:polymers[2][1][0]/backbone0	$/atom:polymers[2][1][0]/mon0/ca	$/atom:polymers[2][1][0]/mon1/ca
   	$/bond:polymers[2][1][0]/backbone1	$/atom:polymers[2][1][0]/mon1/ca	$/atom:polymers[2][1][0]/mon2/ca
   	$/bond:polymers[2][1][0]/backbone2	$/atom:polymers[2][1][0]/mon2/ca	$/atom:polymers[2][1][0]/mon3/ca
   	$/bond:polymers[2][1][0]/backbone3	$/atom:polymers[2][1][0]/mon3/ca	$/atom:polymers[2][1][0]/mon4/ca
@@ -1391,13 +1062,7 @@
   	$/bond:polymers[2][1][0]/backbone16	$/atom:polymers[2][1][0]/mon16/ca	$/atom:polymers[2][1][0]/mon17/ca
   	$/bond:polymers[2][1][0]/backbone17	$/atom:polymers[2][1][0]/mon17/ca	$/atom:polymers[2][1][0]/mon18/ca
   	$/bond:polymers[2][1][0]/backbone18	$/atom:polymers[2][1][0]/mon18/ca	$/atom:polymers[2][1][0]/mon19/ca
-  	$/bond:polymers[2][1][0]/backbone19	$/atom:polymers[2][1][0]/mon19/ca	$/atom:polymers[2][1][0]/mon20/ca
-  	$/bond:polymers[2][1][0]/backbone20	$/atom:polymers[2][1][0]/mon20/ca	$/atom:polymers[2][1][0]/mon21/ca
-  	$/bond:polymers[2][1][0]/backbone21	$/atom:polymers[2][1][0]/mon21/ca	$/atom:polymers[2][1][0]/mon22/ca
-  	$/bond:polymers[2][1][0]/backbone22	$/atom:polymers[2][1][0]/mon22/ca	$/atom:polymers[2][1][0]/mon23/ca
-  	$/bond:polymers[2][1][0]/backbone23	$/atom:polymers[2][1][0]/mon23/ca	$/atom:polymers[2][1][0]/mon24/ca
-  	$/bond:polymers[2][1][0]/backbone24	$/atom:polymers[2][1][0]/mon24/ca	$/atom:polymers[2][1][0]/mon25/ca
-  	$/bond:polymers[2][1][0]/backbone25	$/atom:polymers[2][1][0]/mon25/ca	$/atom:polymers[2][1][0]/mon26/ca
+  	$/bond:polymers[2][1][1]/backbone0	$/atom:polymers[2][1][1]/mon0/ca	$/atom:polymers[2][1][1]/mon1/ca
   	$/bond:polymers[2][1][1]/backbone1	$/atom:polymers[2][1][1]/mon1/ca	$/atom:polymers[2][1][1]/mon2/ca
   	$/bond:polymers[2][1][1]/backbone2	$/atom:polymers[2][1][1]/mon2/ca	$/atom:polymers[2][1][1]/mon3/ca
   	$/bond:polymers[2][1][1]/backbone3	$/atom:polymers[2][1][1]/mon3/ca	$/atom:polymers[2][1][1]/mon4/ca
@@ -1416,13 +1081,7 @@
   	$/bond:polymers[2][1][1]/backbone16	$/atom:polymers[2][1][1]/mon16/ca	$/atom:polymers[2][1][1]/mon17/ca
   	$/bond:polymers[2][1][1]/backbone17	$/atom:polymers[2][1][1]/mon17/ca	$/atom:polymers[2][1][1]/mon18/ca
   	$/bond:polymers[2][1][1]/backbone18	$/atom:polymers[2][1][1]/mon18/ca	$/atom:polymers[2][1][1]/mon19/ca
-  	$/bond:polymers[2][1][1]/backbone19	$/atom:polymers[2][1][1]/mon19/ca	$/atom:polymers[2][1][1]/mon20/ca
-  	$/bond:polymers[2][1][1]/backbone20	$/atom:polymers[2][1][1]/mon20/ca	$/atom:polymers[2][1][1]/mon21/ca
-  	$/bond:polymers[2][1][1]/backbone21	$/atom:polymers[2][1][1]/mon21/ca	$/atom:polymers[2][1][1]/mon22/ca
-  	$/bond:polymers[2][1][1]/backbone22	$/atom:polymers[2][1][1]/mon22/ca	$/atom:polymers[2][1][1]/mon23/ca
-  	$/bond:polymers[2][1][1]/backbone23	$/atom:polymers[2][1][1]/mon23/ca	$/atom:polymers[2][1][1]/mon24/ca
-  	$/bond:polymers[2][1][1]/backbone24	$/atom:polymers[2][1][1]/mon24/ca	$/atom:polymers[2][1][1]/mon25/ca
-  	$/bond:polymers[2][1][1]/backbone25	$/atom:polymers[2][1][1]/mon25/ca	$/atom:polymers[2][1][1]/mon26/ca
+  	$/bond:polymers[2][1][2]/backbone0	$/atom:polymers[2][1][2]/mon0/ca	$/atom:polymers[2][1][2]/mon1/ca
   	$/bond:polymers[2][1][2]/backbone1	$/atom:polymers[2][1][2]/mon1/ca	$/atom:polymers[2][1][2]/mon2/ca
   	$/bond:polymers[2][1][2]/backbone2	$/atom:polymers[2][1][2]/mon2/ca	$/atom:polymers[2][1][2]/mon3/ca
   	$/bond:polymers[2][1][2]/backbone3	$/atom:polymers[2][1][2]/mon3/ca	$/atom:polymers[2][1][2]/mon4/ca
@@ -1441,13 +1100,7 @@
   	$/bond:polymers[2][1][2]/backbone16	$/atom:polymers[2][1][2]/mon16/ca	$/atom:polymers[2][1][2]/mon17/ca
   	$/bond:polymers[2][1][2]/backbone17	$/atom:polymers[2][1][2]/mon17/ca	$/atom:polymers[2][1][2]/mon18/ca
   	$/bond:polymers[2][1][2]/backbone18	$/atom:polymers[2][1][2]/mon18/ca	$/atom:polymers[2][1][2]/mon19/ca
-  	$/bond:polymers[2][1][2]/backbone19	$/atom:polymers[2][1][2]/mon19/ca	$/atom:polymers[2][1][2]/mon20/ca
-  	$/bond:polymers[2][1][2]/backbone20	$/atom:polymers[2][1][2]/mon20/ca	$/atom:polymers[2][1][2]/mon21/ca
-  	$/bond:polymers[2][1][2]/backbone21	$/atom:polymers[2][1][2]/mon21/ca	$/atom:polymers[2][1][2]/mon22/ca
-  	$/bond:polymers[2][1][2]/backbone22	$/atom:polymers[2][1][2]/mon22/ca	$/atom:polymers[2][1][2]/mon23/ca
-  	$/bond:polymers[2][1][2]/backbone23	$/atom:polymers[2][1][2]/mon23/ca	$/atom:polymers[2][1][2]/mon24/ca
-  	$/bond:polymers[2][1][2]/backbone24	$/atom:polymers[2][1][2]/mon24/ca	$/atom:polymers[2][1][2]/mon25/ca
-  	$/bond:polymers[2][1][2]/backbone25	$/atom:polymers[2][1][2]/mon25/ca	$/atom:polymers[2][1][2]/mon26/ca
+  	$/bond:polymers[2][1][3]/backbone0	$/atom:polymers[2][1][3]/mon0/ca	$/atom:polymers[2][1][3]/mon1/ca
   	$/bond:polymers[2][1][3]/backbone1	$/atom:polymers[2][1][3]/mon1/ca	$/atom:polymers[2][1][3]/mon2/ca
   	$/bond:polymers[2][1][3]/backbone2	$/atom:polymers[2][1][3]/mon2/ca	$/atom:polymers[2][1][3]/mon3/ca
   	$/bond:polymers[2][1][3]/backbone3	$/atom:polymers[2][1][3]/mon3/ca	$/atom:polymers[2][1][3]/mon4/ca
@@ -1466,13 +1119,7 @@
   	$/bond:polymers[2][1][3]/backbone16	$/atom:polymers[2][1][3]/mon16/ca	$/atom:polymers[2][1][3]/mon17/ca
   	$/bond:polymers[2][1][3]/backbone17	$/atom:polymers[2][1][3]/mon17/ca	$/atom:polymers[2][1][3]/mon18/ca
   	$/bond:polymers[2][1][3]/backbone18	$/atom:polymers[2][1][3]/mon18/ca	$/atom:polymers[2][1][3]/mon19/ca
-  	$/bond:polymers[2][1][3]/backbone19	$/atom:polymers[2][1][3]/mon19/ca	$/atom:polymers[2][1][3]/mon20/ca
-  	$/bond:polymers[2][1][3]/backbone20	$/atom:polymers[2][1][3]/mon20/ca	$/atom:polymers[2][1][3]/mon21/ca
-  	$/bond:polymers[2][1][3]/backbone21	$/atom:polymers[2][1][3]/mon21/ca	$/atom:polymers[2][1][3]/mon22/ca
-  	$/bond:polymers[2][1][3]/backbone22	$/atom:polymers[2][1][3]/mon22/ca	$/atom:polymers[2][1][3]/mon23/ca
-  	$/bond:polymers[2][1][3]/backbone23	$/atom:polymers[2][1][3]/mon23/ca	$/atom:polymers[2][1][3]/mon24/ca
-  	$/bond:polymers[2][1][3]/backbone24	$/atom:polymers[2][1][3]/mon24/ca	$/atom:polymers[2][1][3]/mon25/ca
-  	$/bond:polymers[2][1][3]/backbone25	$/atom:polymers[2][1][3]/mon25/ca	$/atom:polymers[2][1][3]/mon26/ca
+  	$/bond:polymers[2][1][4]/backbone0	$/atom:polymers[2][1][4]/mon0/ca	$/atom:polymers[2][1][4]/mon1/ca
   	$/bond:polymers[2][1][4]/backbone1	$/atom:polymers[2][1][4]/mon1/ca	$/atom:polymers[2][1][4]/mon2/ca
   	$/bond:polymers[2][1][4]/backbone2	$/atom:polymers[2][1][4]/mon2/ca	$/atom:polymers[2][1][4]/mon3/ca
   	$/bond:polymers[2][1][4]/backbone3	$/atom:polymers[2][1][4]/mon3/ca	$/atom:polymers[2][1][4]/mon4/ca
@@ -1491,13 +1138,7 @@
   	$/bond:polymers[2][1][4]/backbone16	$/atom:polymers[2][1][4]/mon16/ca	$/atom:polymers[2][1][4]/mon17/ca
   	$/bond:polymers[2][1][4]/backbone17	$/atom:polymers[2][1][4]/mon17/ca	$/atom:polymers[2][1][4]/mon18/ca
   	$/bond:polymers[2][1][4]/backbone18	$/atom:polymers[2][1][4]/mon18/ca	$/atom:polymers[2][1][4]/mon19/ca
-  	$/bond:polymers[2][1][4]/backbone19	$/atom:polymers[2][1][4]/mon19/ca	$/atom:polymers[2][1][4]/mon20/ca
-  	$/bond:polymers[2][1][4]/backbone20	$/atom:polymers[2][1][4]/mon20/ca	$/atom:polymers[2][1][4]/mon21/ca
-  	$/bond:polymers[2][1][4]/backbone21	$/atom:polymers[2][1][4]/mon21/ca	$/atom:polymers[2][1][4]/mon22/ca
-  	$/bond:polymers[2][1][4]/backbone22	$/atom:polymers[2][1][4]/mon22/ca	$/atom:polymers[2][1][4]/mon23/ca
-  	$/bond:polymers[2][1][4]/backbone23	$/atom:polymers[2][1][4]/mon23/ca	$/atom:polymers[2][1][4]/mon24/ca
-  	$/bond:polymers[2][1][4]/backbone24	$/atom:polymers[2][1][4]/mon24/ca	$/atom:polymers[2][1][4]/mon25/ca
-  	$/bond:polymers[2][1][4]/backbone25	$/atom:polymers[2][1][4]/mon25/ca	$/atom:polymers[2][1][4]/mon26/ca
+  	$/bond:polymers[2][2][0]/backbone0	$/atom:polymers[2][2][0]/mon0/ca	$/atom:polymers[2][2][0]/mon1/ca
   	$/bond:polymers[2][2][0]/backbone1	$/atom:polymers[2][2][0]/mon1/ca	$/atom:polymers[2][2][0]/mon2/ca
   	$/bond:polymers[2][2][0]/backbone2	$/atom:polymers[2][2][0]/mon2/ca	$/atom:polymers[2][2][0]/mon3/ca
   	$/bond:polymers[2][2][0]/backbone3	$/atom:polymers[2][2][0]/mon3/ca	$/atom:polymers[2][2][0]/mon4/ca
@@ -1516,13 +1157,7 @@
   	$/bond:polymers[2][2][0]/backbone16	$/atom:polymers[2][2][0]/mon16/ca	$/atom:polymers[2][2][0]/mon17/ca
   	$/bond:polymers[2][2][0]/backbone17	$/atom:polymers[2][2][0]/mon17/ca	$/atom:polymers[2][2][0]/mon18/ca
   	$/bond:polymers[2][2][0]/backbone18	$/atom:polymers[2][2][0]/mon18/ca	$/atom:polymers[2][2][0]/mon19/ca
-  	$/bond:polymers[2][2][0]/backbone19	$/atom:polymers[2][2][0]/mon19/ca	$/atom:polymers[2][2][0]/mon20/ca
-  	$/bond:polymers[2][2][0]/backbone20	$/atom:polymers[2][2][0]/mon20/ca	$/atom:polymers[2][2][0]/mon21/ca
-  	$/bond:polymers[2][2][0]/backbone21	$/atom:polymers[2][2][0]/mon21/ca	$/atom:polymers[2][2][0]/mon22/ca
-  	$/bond:polymers[2][2][0]/backbone22	$/atom:polymers[2][2][0]/mon22/ca	$/atom:polymers[2][2][0]/mon23/ca
-  	$/bond:polymers[2][2][0]/backbone23	$/atom:polymers[2][2][0]/mon23/ca	$/atom:polymers[2][2][0]/mon24/ca
-  	$/bond:polymers[2][2][0]/backbone24	$/atom:polymers[2][2][0]/mon24/ca	$/atom:polymers[2][2][0]/mon25/ca
-  	$/bond:polymers[2][2][0]/backbone25	$/atom:polymers[2][2][0]/mon25/ca	$/atom:polymers[2][2][0]/mon26/ca
+  	$/bond:polymers[2][2][1]/backbone0	$/atom:polymers[2][2][1]/mon0/ca	$/atom:polymers[2][2][1]/mon1/ca
   	$/bond:polymers[2][2][1]/backbone1	$/atom:polymers[2][2][1]/mon1/ca	$/atom:polymers[2][2][1]/mon2/ca
   	$/bond:polymers[2][2][1]/backbone2	$/atom:polymers[2][2][1]/mon2/ca	$/atom:polymers[2][2][1]/mon3/ca
   	$/bond:polymers[2][2][1]/backbone3	$/atom:polymers[2][2][1]/mon3/ca	$/atom:polymers[2][2][1]/mon4/ca
@@ -1541,13 +1176,7 @@
   	$/bond:polymers[2][2][1]/backbone16	$/atom:polymers[2][2][1]/mon16/ca	$/atom:polymers[2][2][1]/mon17/ca
   	$/bond:polymers[2][2][1]/backbone17	$/atom:polymers[2][2][1]/mon17/ca	$/atom:polymers[2][2][1]/mon18/ca
   	$/bond:polymers[2][2][1]/backbone18	$/atom:polymers[2][2][1]/mon18/ca	$/atom:polymers[2][2][1]/mon19/ca
-  	$/bond:polymers[2][2][1]/backbone19	$/atom:polymers[2][2][1]/mon19/ca	$/atom:polymers[2][2][1]/mon20/ca
-  	$/bond:polymers[2][2][1]/backbone20	$/atom:polymers[2][2][1]/mon20/ca	$/atom:polymers[2][2][1]/mon21/ca
-  	$/bond:polymers[2][2][1]/backbone21	$/atom:polymers[2][2][1]/mon21/ca	$/atom:polymers[2][2][1]/mon22/ca
-  	$/bond:polymers[2][2][1]/backbone22	$/atom:polymers[2][2][1]/mon22/ca	$/atom:polymers[2][2][1]/mon23/ca
-  	$/bond:polymers[2][2][1]/backbone23	$/atom:polymers[2][2][1]/mon23/ca	$/atom:polymers[2][2][1]/mon24/ca
-  	$/bond:polymers[2][2][1]/backbone24	$/atom:polymers[2][2][1]/mon24/ca	$/atom:polymers[2][2][1]/mon25/ca
-  	$/bond:polymers[2][2][1]/backbone25	$/atom:polymers[2][2][1]/mon25/ca	$/atom:polymers[2][2][1]/mon26/ca
+  	$/bond:polymers[2][2][2]/backbone0	$/atom:polymers[2][2][2]/mon0/ca	$/atom:polymers[2][2][2]/mon1/ca
   	$/bond:polymers[2][2][2]/backbone1	$/atom:polymers[2][2][2]/mon1/ca	$/atom:polymers[2][2][2]/mon2/ca
   	$/bond:polymers[2][2][2]/backbone2	$/atom:polymers[2][2][2]/mon2/ca	$/atom:polymers[2][2][2]/mon3/ca
   	$/bond:polymers[2][2][2]/backbone3	$/atom:polymers[2][2][2]/mon3/ca	$/atom:polymers[2][2][2]/mon4/ca
@@ -1566,13 +1195,7 @@
   	$/bond:polymers[2][2][2]/backbone16	$/atom:polymers[2][2][2]/mon16/ca	$/atom:polymers[2][2][2]/mon17/ca
   	$/bond:polymers[2][2][2]/backbone17	$/atom:polymers[2][2][2]/mon17/ca	$/atom:polymers[2][2][2]/mon18/ca
   	$/bond:polymers[2][2][2]/backbone18	$/atom:polymers[2][2][2]/mon18/ca	$/atom:polymers[2][2][2]/mon19/ca
-  	$/bond:polymers[2][2][2]/backbone19	$/atom:polymers[2][2][2]/mon19/ca	$/atom:polymers[2][2][2]/mon20/ca
-  	$/bond:polymers[2][2][2]/backbone20	$/atom:polymers[2][2][2]/mon20/ca	$/atom:polymers[2][2][2]/mon21/ca
-  	$/bond:polymers[2][2][2]/backbone21	$/atom:polymers[2][2][2]/mon21/ca	$/atom:polymers[2][2][2]/mon22/ca
-  	$/bond:polymers[2][2][2]/backbone22	$/atom:polymers[2][2][2]/mon22/ca	$/atom:polymers[2][2][2]/mon23/ca
-  	$/bond:polymers[2][2][2]/backbone23	$/atom:polymers[2][2][2]/mon23/ca	$/atom:polymers[2][2][2]/mon24/ca
-  	$/bond:polymers[2][2][2]/backbone24	$/atom:polymers[2][2][2]/mon24/ca	$/atom:polymers[2][2][2]/mon25/ca
-  	$/bond:polymers[2][2][2]/backbone25	$/atom:polymers[2][2][2]/mon25/ca	$/atom:polymers[2][2][2]/mon26/ca
+  	$/bond:polymers[2][2][3]/backbone0	$/atom:polymers[2][2][3]/mon0/ca	$/atom:polymers[2][2][3]/mon1/ca
   	$/bond:polymers[2][2][3]/backbone1	$/atom:polymers[2][2][3]/mon1/ca	$/atom:polymers[2][2][3]/mon2/ca
   	$/bond:polymers[2][2][3]/backbone2	$/atom:polymers[2][2][3]/mon2/ca	$/atom:polymers[2][2][3]/mon3/ca
   	$/bond:polymers[2][2][3]/backbone3	$/atom:polymers[2][2][3]/mon3/ca	$/atom:polymers[2][2][3]/mon4/ca
@@ -1591,13 +1214,7 @@
   	$/bond:polymers[2][2][3]/backbone16	$/atom:polymers[2][2][3]/mon16/ca	$/atom:polymers[2][2][3]/mon17/ca
   	$/bond:polymers[2][2][3]/backbone17	$/atom:polymers[2][2][3]/mon17/ca	$/atom:polymers[2][2][3]/mon18/ca
   	$/bond:polymers[2][2][3]/backbone18	$/atom:polymers[2][2][3]/mon18/ca	$/atom:polymers[2][2][3]/mon19/ca
-  	$/bond:polymers[2][2][3]/backbone19	$/atom:polymers[2][2][3]/mon19/ca	$/atom:polymers[2][2][3]/mon20/ca
-  	$/bond:polymers[2][2][3]/backbone20	$/atom:polymers[2][2][3]/mon20/ca	$/atom:polymers[2][2][3]/mon21/ca
-  	$/bond:polymers[2][2][3]/backbone21	$/atom:polymers[2][2][3]/mon21/ca	$/atom:polymers[2][2][3]/mon22/ca
-  	$/bond:polymers[2][2][3]/backbone22	$/atom:polymers[2][2][3]/mon22/ca	$/atom:polymers[2][2][3]/mon23/ca
-  	$/bond:polymers[2][2][3]/backbone23	$/atom:polymers[2][2][3]/mon23/ca	$/atom:polymers[2][2][3]/mon24/ca
-  	$/bond:polymers[2][2][3]/backbone24	$/atom:polymers[2][2][3]/mon24/ca	$/atom:polymers[2][2][3]/mon25/ca
-  	$/bond:polymers[2][2][3]/backbone25	$/atom:polymers[2][2][3]/mon25/ca	$/atom:polymers[2][2][3]/mon26/ca
+  	$/bond:polymers[2][2][4]/backbone0	$/atom:polymers[2][2][4]/mon0/ca	$/atom:polymers[2][2][4]/mon1/ca
   	$/bond:polymers[2][2][4]/backbone1	$/atom:polymers[2][2][4]/mon1/ca	$/atom:polymers[2][2][4]/mon2/ca
   	$/bond:polymers[2][2][4]/backbone2	$/atom:polymers[2][2][4]/mon2/ca	$/atom:polymers[2][2][4]/mon3/ca
   	$/bond:polymers[2][2][4]/backbone3	$/atom:polymers[2][2][4]/mon3/ca	$/atom:polymers[2][2][4]/mon4/ca
@@ -1616,13 +1233,7 @@
   	$/bond:polymers[2][2][4]/backbone16	$/atom:polymers[2][2][4]/mon16/ca	$/atom:polymers[2][2][4]/mon17/ca
   	$/bond:polymers[2][2][4]/backbone17	$/atom:polymers[2][2][4]/mon17/ca	$/atom:polymers[2][2][4]/mon18/ca
   	$/bond:polymers[2][2][4]/backbone18	$/atom:polymers[2][2][4]/mon18/ca	$/atom:polymers[2][2][4]/mon19/ca
-  	$/bond:polymers[2][2][4]/backbone19	$/atom:polymers[2][2][4]/mon19/ca	$/atom:polymers[2][2][4]/mon20/ca
-  	$/bond:polymers[2][2][4]/backbone20	$/atom:polymers[2][2][4]/mon20/ca	$/atom:polymers[2][2][4]/mon21/ca
-  	$/bond:polymers[2][2][4]/backbone21	$/atom:polymers[2][2][4]/mon21/ca	$/atom:polymers[2][2][4]/mon22/ca
-  	$/bond:polymers[2][2][4]/backbone22	$/atom:polymers[2][2][4]/mon22/ca	$/atom:polymers[2][2][4]/mon23/ca
-  	$/bond:polymers[2][2][4]/backbone23	$/atom:polymers[2][2][4]/mon23/ca	$/atom:polymers[2][2][4]/mon24/ca
-  	$/bond:polymers[2][2][4]/backbone24	$/atom:polymers[2][2][4]/mon24/ca	$/atom:polymers[2][2][4]/mon25/ca
-  	$/bond:polymers[2][2][4]/backbone25	$/atom:polymers[2][2][4]/mon25/ca	$/atom:polymers[2][2][4]/mon26/ca
+  	$/bond:polymers[2][3][0]/backbone0	$/atom:polymers[2][3][0]/mon0/ca	$/atom:polymers[2][3][0]/mon1/ca
   	$/bond:polymers[2][3][0]/backbone1	$/atom:polymers[2][3][0]/mon1/ca	$/atom:polymers[2][3][0]/mon2/ca
   	$/bond:polymers[2][3][0]/backbone2	$/atom:polymers[2][3][0]/mon2/ca	$/atom:polymers[2][3][0]/mon3/ca
   	$/bond:polymers[2][3][0]/backbone3	$/atom:polymers[2][3][0]/mon3/ca	$/atom:polymers[2][3][0]/mon4/ca
@@ -1641,13 +1252,7 @@
   	$/bond:polymers[2][3][0]/backbone16	$/atom:polymers[2][3][0]/mon16/ca	$/atom:polymers[2][3][0]/mon17/ca
   	$/bond:polymers[2][3][0]/backbone17	$/atom:polymers[2][3][0]/mon17/ca	$/atom:polymers[2][3][0]/mon18/ca
   	$/bond:polymers[2][3][0]/backbone18	$/atom:polymers[2][3][0]/mon18/ca	$/atom:polymers[2][3][0]/mon19/ca
-  	$/bond:polymers[2][3][0]/backbone19	$/atom:polymers[2][3][0]/mon19/ca	$/atom:polymers[2][3][0]/mon20/ca
-  	$/bond:polymers[2][3][0]/backbone20	$/atom:polymers[2][3][0]/mon20/ca	$/atom:polymers[2][3][0]/mon21/ca
-  	$/bond:polymers[2][3][0]/backbone21	$/atom:polymers[2][3][0]/mon21/ca	$/atom:polymers[2][3][0]/mon22/ca
-  	$/bond:polymers[2][3][0]/backbone22	$/atom:polymers[2][3][0]/mon22/ca	$/atom:polymers[2][3][0]/mon23/ca
-  	$/bond:polymers[2][3][0]/backbone23	$/atom:polymers[2][3][0]/mon23/ca	$/atom:polymers[2][3][0]/mon24/ca
-  	$/bond:polymers[2][3][0]/backbone24	$/atom:polymers[2][3][0]/mon24/ca	$/atom:polymers[2][3][0]/mon25/ca
-  	$/bond:polymers[2][3][0]/backbone25	$/atom:polymers[2][3][0]/mon25/ca	$/atom:polymers[2][3][0]/mon26/ca
+  	$/bond:polymers[2][3][1]/backbone0	$/atom:polymers[2][3][1]/mon0/ca	$/atom:polymers[2][3][1]/mon1/ca
   	$/bond:polymers[2][3][1]/backbone1	$/atom:polymers[2][3][1]/mon1/ca	$/atom:polymers[2][3][1]/mon2/ca
   	$/bond:polymers[2][3][1]/backbone2	$/atom:polymers[2][3][1]/mon2/ca	$/atom:polymers[2][3][1]/mon3/ca
   	$/bond:polymers[2][3][1]/backbone3	$/atom:polymers[2][3][1]/mon3/ca	$/atom:polymers[2][3][1]/mon4/ca
@@ -1666,13 +1271,7 @@
   	$/bond:polymers[2][3][1]/backbone16	$/atom:polymers[2][3][1]/mon16/ca	$/atom:polymers[2][3][1]/mon17/ca
   	$/bond:polymers[2][3][1]/backbone17	$/atom:polymers[2][3][1]/mon17/ca	$/atom:polymers[2][3][1]/mon18/ca
   	$/bond:polymers[2][3][1]/backbone18	$/atom:polymers[2][3][1]/mon18/ca	$/atom:polymers[2][3][1]/mon19/ca
-  	$/bond:polymers[2][3][1]/backbone19	$/atom:polymers[2][3][1]/mon19/ca	$/atom:polymers[2][3][1]/mon20/ca
-  	$/bond:polymers[2][3][1]/backbone20	$/atom:polymers[2][3][1]/mon20/ca	$/atom:polymers[2][3][1]/mon21/ca
-  	$/bond:polymers[2][3][1]/backbone21	$/atom:polymers[2][3][1]/mon21/ca	$/atom:polymers[2][3][1]/mon22/ca
-  	$/bond:polymers[2][3][1]/backbone22	$/atom:polymers[2][3][1]/mon22/ca	$/atom:polymers[2][3][1]/mon23/ca
-  	$/bond:polymers[2][3][1]/backbone23	$/atom:polymers[2][3][1]/mon23/ca	$/atom:polymers[2][3][1]/mon24/ca
-  	$/bond:polymers[2][3][1]/backbone24	$/atom:polymers[2][3][1]/mon24/ca	$/atom:polymers[2][3][1]/mon25/ca
-  	$/bond:polymers[2][3][1]/backbone25	$/atom:polymers[2][3][1]/mon25/ca	$/atom:polymers[2][3][1]/mon26/ca
+  	$/bond:polymers[2][3][2]/backbone0	$/atom:polymers[2][3][2]/mon0/ca	$/atom:polymers[2][3][2]/mon1/ca
   	$/bond:polymers[2][3][2]/backbone1	$/atom:polymers[2][3][2]/mon1/ca	$/atom:polymers[2][3][2]/mon2/ca
   	$/bond:polymers[2][3][2]/backbone2	$/atom:polymers[2][3][2]/mon2/ca	$/atom:polymers[2][3][2]/mon3/ca
   	$/bond:polymers[2][3][2]/backbone3	$/atom:polymers[2][3][2]/mon3/ca	$/atom:polymers[2][3][2]/mon4/ca
@@ -1691,13 +1290,7 @@
   	$/bond:polymers[2][3][2]/backbone16	$/atom:polymers[2][3][2]/mon16/ca	$/atom:polymers[2][3][2]/mon17/ca
   	$/bond:polymers[2][3][2]/backbone17	$/atom:polymers[2][3][2]/mon17/ca	$/atom:polymers[2][3][2]/mon18/ca
   	$/bond:polymers[2][3][2]/backbone18	$/atom:polymers[2][3][2]/mon18/ca	$/atom:polymers[2][3][2]/mon19/ca
-  	$/bond:polymers[2][3][2]/backbone19	$/atom:polymers[2][3][2]/mon19/ca	$/atom:polymers[2][3][2]/mon20/ca
-  	$/bond:polymers[2][3][2]/backbone20	$/atom:polymers[2][3][2]/mon20/ca	$/atom:polymers[2][3][2]/mon21/ca
-  	$/bond:polymers[2][3][2]/backbone21	$/atom:polymers[2][3][2]/mon21/ca	$/atom:polymers[2][3][2]/mon22/ca
-  	$/bond:polymers[2][3][2]/backbone22	$/atom:polymers[2][3][2]/mon22/ca	$/atom:polymers[2][3][2]/mon23/ca
-  	$/bond:polymers[2][3][2]/backbone23	$/atom:polymers[2][3][2]/mon23/ca	$/atom:polymers[2][3][2]/mon24/ca
-  	$/bond:polymers[2][3][2]/backbone24	$/atom:polymers[2][3][2]/mon24/ca	$/atom:polymers[2][3][2]/mon25/ca
-  	$/bond:polymers[2][3][2]/backbone25	$/atom:polymers[2][3][2]/mon25/ca	$/atom:polymers[2][3][2]/mon26/ca
+  	$/bond:polymers[2][3][3]/backbone0	$/atom:polymers[2][3][3]/mon0/ca	$/atom:polymers[2][3][3]/mon1/ca
   	$/bond:polymers[2][3][3]/backbone1	$/atom:polymers[2][3][3]/mon1/ca	$/atom:polymers[2][3][3]/mon2/ca
   	$/bond:polymers[2][3][3]/backbone2	$/atom:polymers[2][3][3]/mon2/ca	$/atom:polymers[2][3][3]/mon3/ca
   	$/bond:polymers[2][3][3]/backbone3	$/atom:polymers[2][3][3]/mon3/ca	$/atom:polymers[2][3][3]/mon4/ca
@@ -1716,13 +1309,7 @@
   	$/bond:polymers[2][3][3]/backbone16	$/atom:polymers[2][3][3]/mon16/ca	$/atom:polymers[2][3][3]/mon17/ca
   	$/bond:polymers[2][3][3]/backbone17	$/atom:polymers[2][3][3]/mon17/ca	$/atom:polymers[2][3][3]/mon18/ca
   	$/bond:polymers[2][3][3]/backbone18	$/atom:polymers[2][3][3]/mon18/ca	$/atom:polymers[2][3][3]/mon19/ca
-  	$/bond:polymers[2][3][3]/backbone19	$/atom:polymers[2][3][3]/mon19/ca	$/atom:polymers[2][3][3]/mon20/ca
-  	$/bond:polymers[2][3][3]/backbone20	$/atom:polymers[2][3][3]/mon20/ca	$/atom:polymers[2][3][3]/mon21/ca
-  	$/bond:polymers[2][3][3]/backbone21	$/atom:polymers[2][3][3]/mon21/ca	$/atom:polymers[2][3][3]/mon22/ca
-  	$/bond:polymers[2][3][3]/backbone22	$/atom:polymers[2][3][3]/mon22/ca	$/atom:polymers[2][3][3]/mon23/ca
-  	$/bond:polymers[2][3][3]/backbone23	$/atom:polymers[2][3][3]/mon23/ca	$/atom:polymers[2][3][3]/mon24/ca
-  	$/bond:polymers[2][3][3]/backbone24	$/atom:polymers[2][3][3]/mon24/ca	$/atom:polymers[2][3][3]/mon25/ca
-  	$/bond:polymers[2][3][3]/backbone25	$/atom:polymers[2][3][3]/mon25/ca	$/atom:polymers[2][3][3]/mon26/ca
+  	$/bond:polymers[2][3][4]/backbone0	$/atom:polymers[2][3][4]/mon0/ca	$/atom:polymers[2][3][4]/mon1/ca
   	$/bond:polymers[2][3][4]/backbone1	$/atom:polymers[2][3][4]/mon1/ca	$/atom:polymers[2][3][4]/mon2/ca
   	$/bond:polymers[2][3][4]/backbone2	$/atom:polymers[2][3][4]/mon2/ca	$/atom:polymers[2][3][4]/mon3/ca
   	$/bond:polymers[2][3][4]/backbone3	$/atom:polymers[2][3][4]/mon3/ca	$/atom:polymers[2][3][4]/mon4/ca
@@ -1741,13 +1328,7 @@
   	$/bond:polymers[2][3][4]/backbone16	$/atom:polymers[2][3][4]/mon16/ca	$/atom:polymers[2][3][4]/mon17/ca
   	$/bond:polymers[2][3][4]/backbone17	$/atom:polymers[2][3][4]/mon17/ca	$/atom:polymers[2][3][4]/mon18/ca
   	$/bond:polymers[2][3][4]/backbone18	$/atom:polymers[2][3][4]/mon18/ca	$/atom:polymers[2][3][4]/mon19/ca
-  	$/bond:polymers[2][3][4]/backbone19	$/atom:polymers[2][3][4]/mon19/ca	$/atom:polymers[2][3][4]/mon20/ca
-  	$/bond:polymers[2][3][4]/backbone20	$/atom:polymers[2][3][4]/mon20/ca	$/atom:polymers[2][3][4]/mon21/ca
-  	$/bond:polymers[2][3][4]/backbone21	$/atom:polymers[2][3][4]/mon21/ca	$/atom:polymers[2][3][4]/mon22/ca
-  	$/bond:polymers[2][3][4]/backbone22	$/atom:polymers[2][3][4]/mon22/ca	$/atom:polymers[2][3][4]/mon23/ca
-  	$/bond:polymers[2][3][4]/backbone23	$/atom:polymers[2][3][4]/mon23/ca	$/atom:polymers[2][3][4]/mon24/ca
-  	$/bond:polymers[2][3][4]/backbone24	$/atom:polymers[2][3][4]/mon24/ca	$/atom:polymers[2][3][4]/mon25/ca
-  	$/bond:polymers[2][3][4]/backbone25	$/atom:polymers[2][3][4]/mon25/ca	$/atom:polymers[2][3][4]/mon26/ca
+  	$/bond:polymers[2][4][0]/backbone0	$/atom:polymers[2][4][0]/mon0/ca	$/atom:polymers[2][4][0]/mon1/ca
   	$/bond:polymers[2][4][0]/backbone1	$/atom:polymers[2][4][0]/mon1/ca	$/atom:polymers[2][4][0]/mon2/ca
   	$/bond:polymers[2][4][0]/backbone2	$/atom:polymers[2][4][0]/mon2/ca	$/atom:polymers[2][4][0]/mon3/ca
   	$/bond:polymers[2][4][0]/backbone3	$/atom:polymers[2][4][0]/mon3/ca	$/atom:polymers[2][4][0]/mon4/ca
@@ -1766,13 +1347,7 @@
   	$/bond:polymers[2][4][0]/backbone16	$/atom:polymers[2][4][0]/mon16/ca	$/atom:polymers[2][4][0]/mon17/ca
   	$/bond:polymers[2][4][0]/backbone17	$/atom:polymers[2][4][0]/mon17/ca	$/atom:polymers[2][4][0]/mon18/ca
   	$/bond:polymers[2][4][0]/backbone18	$/atom:polymers[2][4][0]/mon18/ca	$/atom:polymers[2][4][0]/mon19/ca
-  	$/bond:polymers[2][4][0]/backbone19	$/atom:polymers[2][4][0]/mon19/ca	$/atom:polymers[2][4][0]/mon20/ca
-  	$/bond:polymers[2][4][0]/backbone20	$/atom:polymers[2][4][0]/mon20/ca	$/atom:polymers[2][4][0]/mon21/ca
-  	$/bond:polymers[2][4][0]/backbone21	$/atom:polymers[2][4][0]/mon21/ca	$/atom:polymers[2][4][0]/mon22/ca
-  	$/bond:polymers[2][4][0]/backbone22	$/atom:polymers[2][4][0]/mon22/ca	$/atom:polymers[2][4][0]/mon23/ca
-  	$/bond:polymers[2][4][0]/backbone23	$/atom:polymers[2][4][0]/mon23/ca	$/atom:polymers[2][4][0]/mon24/ca
-  	$/bond:polymers[2][4][0]/backbone24	$/atom:polymers[2][4][0]/mon24/ca	$/atom:polymers[2][4][0]/mon25/ca
-  	$/bond:polymers[2][4][0]/backbone25	$/atom:polymers[2][4][0]/mon25/ca	$/atom:polymers[2][4][0]/mon26/ca
+  	$/bond:polymers[2][4][1]/backbone0	$/atom:polymers[2][4][1]/mon0/ca	$/atom:polymers[2][4][1]/mon1/ca
   	$/bond:polymers[2][4][1]/backbone1	$/atom:polymers[2][4][1]/mon1/ca	$/atom:polymers[2][4][1]/mon2/ca
   	$/bond:polymers[2][4][1]/backbone2	$/atom:polymers[2][4][1]/mon2/ca	$/atom:polymers[2][4][1]/mon3/ca
   	$/bond:polymers[2][4][1]/backbone3	$/atom:polymers[2][4][1]/mon3/ca	$/atom:polymers[2][4][1]/mon4/ca
@@ -1791,13 +1366,7 @@
   	$/bond:polymers[2][4][1]/backbone16	$/atom:polymers[2][4][1]/mon16/ca	$/atom:polymers[2][4][1]/mon17/ca
   	$/bond:polymers[2][4][1]/backbone17	$/atom:polymers[2][4][1]/mon17/ca	$/atom:polymers[2][4][1]/mon18/ca
   	$/bond:polymers[2][4][1]/backbone18	$/atom:polymers[2][4][1]/mon18/ca	$/atom:polymers[2][4][1]/mon19/ca
-  	$/bond:polymers[2][4][1]/backbone19	$/atom:polymers[2][4][1]/mon19/ca	$/atom:polymers[2][4][1]/mon20/ca
-  	$/bond:polymers[2][4][1]/backbone20	$/atom:polymers[2][4][1]/mon20/ca	$/atom:polymers[2][4][1]/mon21/ca
-  	$/bond:polymers[2][4][1]/backbone21	$/atom:polymers[2][4][1]/mon21/ca	$/atom:polymers[2][4][1]/mon22/ca
-  	$/bond:polymers[2][4][1]/backbone22	$/atom:polymers[2][4][1]/mon22/ca	$/atom:polymers[2][4][1]/mon23/ca
-  	$/bond:polymers[2][4][1]/backbone23	$/atom:polymers[2][4][1]/mon23/ca	$/atom:polymers[2][4][1]/mon24/ca
-  	$/bond:polymers[2][4][1]/backbone24	$/atom:polymers[2][4][1]/mon24/ca	$/atom:polymers[2][4][1]/mon25/ca
-  	$/bond:polymers[2][4][1]/backbone25	$/atom:polymers[2][4][1]/mon25/ca	$/atom:polymers[2][4][1]/mon26/ca
+  	$/bond:polymers[2][4][2]/backbone0	$/atom:polymers[2][4][2]/mon0/ca	$/atom:polymers[2][4][2]/mon1/ca
   	$/bond:polymers[2][4][2]/backbone1	$/atom:polymers[2][4][2]/mon1/ca	$/atom:polymers[2][4][2]/mon2/ca
   	$/bond:polymers[2][4][2]/backbone2	$/atom:polymers[2][4][2]/mon2/ca	$/atom:polymers[2][4][2]/mon3/ca
   	$/bond:polymers[2][4][2]/backbone3	$/atom:polymers[2][4][2]/mon3/ca	$/atom:polymers[2][4][2]/mon4/ca
@@ -1816,13 +1385,7 @@
   	$/bond:polymers[2][4][2]/backbone16	$/atom:polymers[2][4][2]/mon16/ca	$/atom:polymers[2][4][2]/mon17/ca
   	$/bond:polymers[2][4][2]/backbone17	$/atom:polymers[2][4][2]/mon17/ca	$/atom:polymers[2][4][2]/mon18/ca
   	$/bond:polymers[2][4][2]/backbone18	$/atom:polymers[2][4][2]/mon18/ca	$/atom:polymers[2][4][2]/mon19/ca
-  	$/bond:polymers[2][4][2]/backbone19	$/atom:polymers[2][4][2]/mon19/ca	$/atom:polymers[2][4][2]/mon20/ca
-  	$/bond:polymers[2][4][2]/backbone20	$/atom:polymers[2][4][2]/mon20/ca	$/atom:polymers[2][4][2]/mon21/ca
-  	$/bond:polymers[2][4][2]/backbone21	$/atom:polymers[2][4][2]/mon21/ca	$/atom:polymers[2][4][2]/mon22/ca
-  	$/bond:polymers[2][4][2]/backbone22	$/atom:polymers[2][4][2]/mon22/ca	$/atom:polymers[2][4][2]/mon23/ca
-  	$/bond:polymers[2][4][2]/backbone23	$/atom:polymers[2][4][2]/mon23/ca	$/atom:polymers[2][4][2]/mon24/ca
-  	$/bond:polymers[2][4][2]/backbone24	$/atom:polymers[2][4][2]/mon24/ca	$/atom:polymers[2][4][2]/mon25/ca
-  	$/bond:polymers[2][4][2]/backbone25	$/atom:polymers[2][4][2]/mon25/ca	$/atom:polymers[2][4][2]/mon26/ca
+  	$/bond:polymers[2][4][3]/backbone0	$/atom:polymers[2][4][3]/mon0/ca	$/atom:polymers[2][4][3]/mon1/ca
   	$/bond:polymers[2][4][3]/backbone1	$/atom:polymers[2][4][3]/mon1/ca	$/atom:polymers[2][4][3]/mon2/ca
   	$/bond:polymers[2][4][3]/backbone2	$/atom:polymers[2][4][3]/mon2/ca	$/atom:polymers[2][4][3]/mon3/ca
   	$/bond:polymers[2][4][3]/backbone3	$/atom:polymers[2][4][3]/mon3/ca	$/atom:polymers[2][4][3]/mon4/ca
@@ -1841,13 +1404,7 @@
   	$/bond:polymers[2][4][3]/backbone16	$/atom:polymers[2][4][3]/mon16/ca	$/atom:polymers[2][4][3]/mon17/ca
   	$/bond:polymers[2][4][3]/backbone17	$/atom:polymers[2][4][3]/mon17/ca	$/atom:polymers[2][4][3]/mon18/ca
   	$/bond:polymers[2][4][3]/backbone18	$/atom:polymers[2][4][3]/mon18/ca	$/atom:polymers[2][4][3]/mon19/ca
-  	$/bond:polymers[2][4][3]/backbone19	$/atom:polymers[2][4][3]/mon19/ca	$/atom:polymers[2][4][3]/mon20/ca
-  	$/bond:polymers[2][4][3]/backbone20	$/atom:polymers[2][4][3]/mon20/ca	$/atom:polymers[2][4][3]/mon21/ca
-  	$/bond:polymers[2][4][3]/backbone21	$/atom:polymers[2][4][3]/mon21/ca	$/atom:polymers[2][4][3]/mon22/ca
-  	$/bond:polymers[2][4][3]/backbone22	$/atom:polymers[2][4][3]/mon22/ca	$/atom:polymers[2][4][3]/mon23/ca
-  	$/bond:polymers[2][4][3]/backbone23	$/atom:polymers[2][4][3]/mon23/ca	$/atom:polymers[2][4][3]/mon24/ca
-  	$/bond:polymers[2][4][3]/backbone24	$/atom:polymers[2][4][3]/mon24/ca	$/atom:polymers[2][4][3]/mon25/ca
-  	$/bond:polymers[2][4][3]/backbone25	$/atom:polymers[2][4][3]/mon25/ca	$/atom:polymers[2][4][3]/mon26/ca
+  	$/bond:polymers[2][4][4]/backbone0	$/atom:polymers[2][4][4]/mon0/ca	$/atom:polymers[2][4][4]/mon1/ca
   	$/bond:polymers[2][4][4]/backbone1	$/atom:polymers[2][4][4]/mon1/ca	$/atom:polymers[2][4][4]/mon2/ca
   	$/bond:polymers[2][4][4]/backbone2	$/atom:polymers[2][4][4]/mon2/ca	$/atom:polymers[2][4][4]/mon3/ca
   	$/bond:polymers[2][4][4]/backbone3	$/atom:polymers[2][4][4]/mon3/ca	$/atom:polymers[2][4][4]/mon4/ca
@@ -1866,13 +1423,7 @@
   	$/bond:polymers[2][4][4]/backbone16	$/atom:polymers[2][4][4]/mon16/ca	$/atom:polymers[2][4][4]/mon17/ca
   	$/bond:polymers[2][4][4]/backbone17	$/atom:polymers[2][4][4]/mon17/ca	$/atom:polymers[2][4][4]/mon18/ca
   	$/bond:polymers[2][4][4]/backbone18	$/atom:polymers[2][4][4]/mon18/ca	$/atom:polymers[2][4][4]/mon19/ca
-  	$/bond:polymers[2][4][4]/backbone19	$/atom:polymers[2][4][4]/mon19/ca	$/atom:polymers[2][4][4]/mon20/ca
-  	$/bond:polymers[2][4][4]/backbone20	$/atom:polymers[2][4][4]/mon20/ca	$/atom:polymers[2][4][4]/mon21/ca
-  	$/bond:polymers[2][4][4]/backbone21	$/atom:polymers[2][4][4]/mon21/ca	$/atom:polymers[2][4][4]/mon22/ca
-  	$/bond:polymers[2][4][4]/backbone22	$/atom:polymers[2][4][4]/mon22/ca	$/atom:polymers[2][4][4]/mon23/ca
-  	$/bond:polymers[2][4][4]/backbone23	$/atom:polymers[2][4][4]/mon23/ca	$/atom:polymers[2][4][4]/mon24/ca
-  	$/bond:polymers[2][4][4]/backbone24	$/atom:polymers[2][4][4]/mon24/ca	$/atom:polymers[2][4][4]/mon25/ca
-  	$/bond:polymers[2][4][4]/backbone25	$/atom:polymers[2][4][4]/mon25/ca	$/atom:polymers[2][4][4]/mon26/ca
+  	$/bond:polymers[3][0][0]/backbone0	$/atom:polymers[3][0][0]/mon0/ca	$/atom:polymers[3][0][0]/mon1/ca
   	$/bond:polymers[3][0][0]/backbone1	$/atom:polymers[3][0][0]/mon1/ca	$/atom:polymers[3][0][0]/mon2/ca
   	$/bond:polymers[3][0][0]/backbone2	$/atom:polymers[3][0][0]/mon2/ca	$/atom:polymers[3][0][0]/mon3/ca
   	$/bond:polymers[3][0][0]/backbone3	$/atom:polymers[3][0][0]/mon3/ca	$/atom:polymers[3][0][0]/mon4/ca
@@ -1891,13 +1442,7 @@
   	$/bond:polymers[3][0][0]/backbone16	$/atom:polymers[3][0][0]/mon16/ca	$/atom:polymers[3][0][0]/mon17/ca
   	$/bond:polymers[3][0][0]/backbone17	$/atom:polymers[3][0][0]/mon17/ca	$/atom:polymers[3][0][0]/mon18/ca
   	$/bond:polymers[3][0][0]/backbone18	$/atom:polymers[3][0][0]/mon18/ca	$/atom:polymers[3][0][0]/mon19/ca
-  	$/bond:polymers[3][0][0]/backbone19	$/atom:polymers[3][0][0]/mon19/ca	$/atom:polymers[3][0][0]/mon20/ca
-  	$/bond:polymers[3][0][0]/backbone20	$/atom:polymers[3][0][0]/mon20/ca	$/atom:polymers[3][0][0]/mon21/ca
-  	$/bond:polymers[3][0][0]/backbone21	$/atom:polymers[3][0][0]/mon21/ca	$/atom:polymers[3][0][0]/mon22/ca
-  	$/bond:polymers[3][0][0]/backbone22	$/atom:polymers[3][0][0]/mon22/ca	$/atom:polymers[3][0][0]/mon23/ca
-  	$/bond:polymers[3][0][0]/backbone23	$/atom:polymers[3][0][0]/mon23/ca	$/atom:polymers[3][0][0]/mon24/ca
-  	$/bond:polymers[3][0][0]/backbone24	$/atom:polymers[3][0][0]/mon24/ca	$/atom:polymers[3][0][0]/mon25/ca
-  	$/bond:polymers[3][0][0]/backbone25	$/atom:polymers[3][0][0]/mon25/ca	$/atom:polymers[3][0][0]/mon26/ca
+  	$/bond:polymers[3][0][1]/backbone0	$/atom:polymers[3][0][1]/mon0/ca	$/atom:polymers[3][0][1]/mon1/ca
   	$/bond:polymers[3][0][1]/backbone1	$/atom:polymers[3][0][1]/mon1/ca	$/atom:polymers[3][0][1]/mon2/ca
   	$/bond:polymers[3][0][1]/backbone2	$/atom:polymers[3][0][1]/mon2/ca	$/atom:polymers[3][0][1]/mon3/ca
   	$/bond:polymers[3][0][1]/backbone3	$/atom:polymers[3][0][1]/mon3/ca	$/atom:polymers[3][0][1]/mon4/ca
@@ -1916,13 +1461,7 @@
   	$/bond:polymers[3][0][1]/backbone16	$/atom:polymers[3][0][1]/mon16/ca	$/atom:polymers[3][0][1]/mon17/ca
   	$/bond:polymers[3][0][1]/backbone17	$/atom:polymers[3][0][1]/mon17/ca	$/atom:polymers[3][0][1]/mon18/ca
   	$/bond:polymers[3][0][1]/backbone18	$/atom:polymers[3][0][1]/mon18/ca	$/atom:polymers[3][0][1]/mon19/ca
-  	$/bond:polymers[3][0][1]/backbone19	$/atom:polymers[3][0][1]/mon19/ca	$/atom:polymers[3][0][1]/mon20/ca
-  	$/bond:polymers[3][0][1]/backbone20	$/atom:polymers[3][0][1]/mon20/ca	$/atom:polymers[3][0][1]/mon21/ca
-  	$/bond:polymers[3][0][1]/backbone21	$/atom:polymers[3][0][1]/mon21/ca	$/atom:polymers[3][0][1]/mon22/ca
-  	$/bond:polymers[3][0][1]/backbone22	$/atom:polymers[3][0][1]/mon22/ca	$/atom:polymers[3][0][1]/mon23/ca
-  	$/bond:polymers[3][0][1]/backbone23	$/atom:polymers[3][0][1]/mon23/ca	$/atom:polymers[3][0][1]/mon24/ca
-  	$/bond:polymers[3][0][1]/backbone24	$/atom:polymers[3][0][1]/mon24/ca	$/atom:polymers[3][0][1]/mon25/ca
-  	$/bond:polymers[3][0][1]/backbone25	$/atom:polymers[3][0][1]/mon25/ca	$/atom:polymers[3][0][1]/mon26/ca
+  	$/bond:polymers[3][0][2]/backbone0	$/atom:polymers[3][0][2]/mon0/ca	$/atom:polymers[3][0][2]/mon1/ca
   	$/bond:polymers[3][0][2]/backbone1	$/atom:polymers[3][0][2]/mon1/ca	$/atom:polymers[3][0][2]/mon2/ca
   	$/bond:polymers[3][0][2]/backbone2	$/atom:polymers[3][0][2]/mon2/ca	$/atom:polymers[3][0][2]/mon3/ca
   	$/bond:polymers[3][0][2]/backbone3	$/atom:polymers[3][0][2]/mon3/ca	$/atom:polymers[3][0][2]/mon4/ca
@@ -1941,13 +1480,7 @@
   	$/bond:polymers[3][0][2]/backbone16	$/atom:polymers[3][0][2]/mon16/ca	$/atom:polymers[3][0][2]/mon17/ca
   	$/bond:polymers[3][0][2]/backbone17	$/atom:polymers[3][0][2]/mon17/ca	$/atom:polymers[3][0][2]/mon18/ca
   	$/bond:polymers[3][0][2]/backbone18	$/atom:polymers[3][0][2]/mon18/ca	$/atom:polymers[3][0][2]/mon19/ca
-  	$/bond:polymers[3][0][2]/backbone19	$/atom:polymers[3][0][2]/mon19/ca	$/atom:polymers[3][0][2]/mon20/ca
-  	$/bond:polymers[3][0][2]/backbone20	$/atom:polymers[3][0][2]/mon20/ca	$/atom:polymers[3][0][2]/mon21/ca
-  	$/bond:polymers[3][0][2]/backbone21	$/atom:polymers[3][0][2]/mon21/ca	$/atom:polymers[3][0][2]/mon22/ca
-  	$/bond:polymers[3][0][2]/backbone22	$/atom:polymers[3][0][2]/mon22/ca	$/atom:polymers[3][0][2]/mon23/ca
-  	$/bond:polymers[3][0][2]/backbone23	$/atom:polymers[3][0][2]/mon23/ca	$/atom:polymers[3][0][2]/mon24/ca
-  	$/bond:polymers[3][0][2]/backbone24	$/atom:polymers[3][0][2]/mon24/ca	$/atom:polymers[3][0][2]/mon25/ca
-  	$/bond:polymers[3][0][2]/backbone25	$/atom:polymers[3][0][2]/mon25/ca	$/atom:polymers[3][0][2]/mon26/ca
+  	$/bond:polymers[3][0][3]/backbone0	$/atom:polymers[3][0][3]/mon0/ca	$/atom:polymers[3][0][3]/mon1/ca
   	$/bond:polymers[3][0][3]/backbone1	$/atom:polymers[3][0][3]/mon1/ca	$/atom:polymers[3][0][3]/mon2/ca
   	$/bond:polymers[3][0][3]/backbone2	$/atom:polymers[3][0][3]/mon2/ca	$/atom:polymers[3][0][3]/mon3/ca
   	$/bond:polymers[3][0][3]/backbone3	$/atom:polymers[3][0][3]/mon3/ca	$/atom:polymers[3][0][3]/mon4/ca
@@ -1966,13 +1499,7 @@
   	$/bond:polymers[3][0][3]/backbone16	$/atom:polymers[3][0][3]/mon16/ca	$/atom:polymers[3][0][3]/mon17/ca
   	$/bond:polymers[3][0][3]/backbone17	$/atom:polymers[3][0][3]/mon17/ca	$/atom:polymers[3][0][3]/mon18/ca
   	$/bond:polymers[3][0][3]/backbone18	$/atom:polymers[3][0][3]/mon18/ca	$/atom:polymers[3][0][3]/mon19/ca
-  	$/bond:polymers[3][0][3]/backbone19	$/atom:polymers[3][0][3]/mon19/ca	$/atom:polymers[3][0][3]/mon20/ca
-  	$/bond:polymers[3][0][3]/backbone20	$/atom:polymers[3][0][3]/mon20/ca	$/atom:polymers[3][0][3]/mon21/ca
-  	$/bond:polymers[3][0][3]/backbone21	$/atom:polymers[3][0][3]/mon21/ca	$/atom:polymers[3][0][3]/mon22/ca
-  	$/bond:polymers[3][0][3]/backbone22	$/atom:polymers[3][0][3]/mon22/ca	$/atom:polymers[3][0][3]/mon23/ca
-  	$/bond:polymers[3][0][3]/backbone23	$/atom:polymers[3][0][3]/mon23/ca	$/atom:polymers[3][0][3]/mon24/ca
-  	$/bond:polymers[3][0][3]/backbone24	$/atom:polymers[3][0][3]/mon24/ca	$/atom:polymers[3][0][3]/mon25/ca
-  	$/bond:polymers[3][0][3]/backbone25	$/atom:polymers[3][0][3]/mon25/ca	$/atom:polymers[3][0][3]/mon26/ca
+  	$/bond:polymers[3][0][4]/backbone0	$/atom:polymers[3][0][4]/mon0/ca	$/atom:polymers[3][0][4]/mon1/ca
   	$/bond:polymers[3][0][4]/backbone1	$/atom:polymers[3][0][4]/mon1/ca	$/atom:polymers[3][0][4]/mon2/ca
   	$/bond:polymers[3][0][4]/backbone2	$/atom:polymers[3][0][4]/mon2/ca	$/atom:polymers[3][0][4]/mon3/ca
   	$/bond:polymers[3][0][4]/backbone3	$/atom:polymers[3][0][4]/mon3/ca	$/atom:polymers[3][0][4]/mon4/ca
@@ -1991,13 +1518,7 @@
   	$/bond:polymers[3][0][4]/backbone16	$/atom:polymers[3][0][4]/mon16/ca	$/atom:polymers[3][0][4]/mon17/ca
   	$/bond:polymers[3][0][4]/backbone17	$/atom:polymers[3][0][4]/mon17/ca	$/atom:polymers[3][0][4]/mon18/ca
   	$/bond:polymers[3][0][4]/backbone18	$/atom:polymers[3][0][4]/mon18/ca	$/atom:polymers[3][0][4]/mon19/ca
-  	$/bond:polymers[3][0][4]/backbone19	$/atom:polymers[3][0][4]/mon19/ca	$/atom:polymers[3][0][4]/mon20/ca
-  	$/bond:polymers[3][0][4]/backbone20	$/atom:polymers[3][0][4]/mon20/ca	$/atom:polymers[3][0][4]/mon21/ca
-  	$/bond:polymers[3][0][4]/backbone21	$/atom:polymers[3][0][4]/mon21/ca	$/atom:polymers[3][0][4]/mon22/ca
-  	$/bond:polymers[3][0][4]/backbone22	$/atom:polymers[3][0][4]/mon22/ca	$/atom:polymers[3][0][4]/mon23/ca
-  	$/bond:polymers[3][0][4]/backbone23	$/atom:polymers[3][0][4]/mon23/ca	$/atom:polymers[3][0][4]/mon24/ca
-  	$/bond:polymers[3][0][4]/backbone24	$/atom:polymers[3][0][4]/mon24/ca	$/atom:polymers[3][0][4]/mon25/ca
-  	$/bond:polymers[3][0][4]/backbone25	$/atom:polymers[3][0][4]/mon25/ca	$/atom:polymers[3][0][4]/mon26/ca
+  	$/bond:polymers[3][1][0]/backbone0	$/atom:polymers[3][1][0]/mon0/ca	$/atom:polymers[3][1][0]/mon1/ca
   	$/bond:polymers[3][1][0]/backbone1	$/atom:polymers[3][1][0]/mon1/ca	$/atom:polymers[3][1][0]/mon2/ca
   	$/bond:polymers[3][1][0]/backbone2	$/atom:polymers[3][1][0]/mon2/ca	$/atom:polymers[3][1][0]/mon3/ca
   	$/bond:polymers[3][1][0]/backbone3	$/atom:polymers[3][1][0]/mon3/ca	$/atom:polymers[3][1][0]/mon4/ca
@@ -2016,13 +1537,7 @@
   	$/bond:polymers[3][1][0]/backbone16	$/atom:polymers[3][1][0]/mon16/ca	$/atom:polymers[3][1][0]/mon17/ca
   	$/bond:polymers[3][1][0]/backbone17	$/atom:polymers[3][1][0]/mon17/ca	$/atom:polymers[3][1][0]/mon18/ca
   	$/bond:polymers[3][1][0]/backbone18	$/atom:polymers[3][1][0]/mon18/ca	$/atom:polymers[3][1][0]/mon19/ca
-  	$/bond:polymers[3][1][0]/backbone19	$/atom:polymers[3][1][0]/mon19/ca	$/atom:polymers[3][1][0]/mon20/ca
-  	$/bond:polymers[3][1][0]/backbone20	$/atom:polymers[3][1][0]/mon20/ca	$/atom:polymers[3][1][0]/mon21/ca
-  	$/bond:polymers[3][1][0]/backbone21	$/atom:polymers[3][1][0]/mon21/ca	$/atom:polymers[3][1][0]/mon22/ca
-  	$/bond:polymers[3][1][0]/backbone22	$/atom:polymers[3][1][0]/mon22/ca	$/atom:polymers[3][1][0]/mon23/ca
-  	$/bond:polymers[3][1][0]/backbone23	$/atom:polymers[3][1][0]/mon23/ca	$/atom:polymers[3][1][0]/mon24/ca
-  	$/bond:polymers[3][1][0]/backbone24	$/atom:polymers[3][1][0]/mon24/ca	$/atom:polymers[3][1][0]/mon25/ca
-  	$/bond:polymers[3][1][0]/backbone25	$/atom:polymers[3][1][0]/mon25/ca	$/atom:polymers[3][1][0]/mon26/ca
+  	$/bond:polymers[3][1][1]/backbone0	$/atom:polymers[3][1][1]/mon0/ca	$/atom:polymers[3][1][1]/mon1/ca
   	$/bond:polymers[3][1][1]/backbone1	$/atom:polymers[3][1][1]/mon1/ca	$/atom:polymers[3][1][1]/mon2/ca
   	$/bond:polymers[3][1][1]/backbone2	$/atom:polymers[3][1][1]/mon2/ca	$/atom:polymers[3][1][1]/mon3/ca
   	$/bond:polymers[3][1][1]/backbone3	$/atom:polymers[3][1][1]/mon3/ca	$/atom:polymers[3][1][1]/mon4/ca
@@ -2041,13 +1556,7 @@
   	$/bond:polymers[3][1][1]/backbone16	$/atom:polymers[3][1][1]/mon16/ca	$/atom:polymers[3][1][1]/mon17/ca
   	$/bond:polymers[3][1][1]/backbone17	$/atom:polymers[3][1][1]/mon17/ca	$/atom:polymers[3][1][1]/mon18/ca
   	$/bond:polymers[3][1][1]/backbone18	$/atom:polymers[3][1][1]/mon18/ca	$/atom:polymers[3][1][1]/mon19/ca
-  	$/bond:polymers[3][1][1]/backbone19	$/atom:polymers[3][1][1]/mon19/ca	$/atom:polymers[3][1][1]/mon20/ca
-  	$/bond:polymers[3][1][1]/backbone20	$/atom:polymers[3][1][1]/mon20/ca	$/atom:polymers[3][1][1]/mon21/ca
-  	$/bond:polymers[3][1][1]/backbone21	$/atom:polymers[3][1][1]/mon21/ca	$/atom:polymers[3][1][1]/mon22/ca
-  	$/bond:polymers[3][1][1]/backbone22	$/atom:polymers[3][1][1]/mon22/ca	$/atom:polymers[3][1][1]/mon23/ca
-  	$/bond:polymers[3][1][1]/backbone23	$/atom:polymers[3][1][1]/mon23/ca	$/atom:polymers[3][1][1]/mon24/ca
-  	$/bond:polymers[3][1][1]/backbone24	$/atom:polymers[3][1][1]/mon24/ca	$/atom:polymers[3][1][1]/mon25/ca
-  	$/bond:polymers[3][1][1]/backbone25	$/atom:polymers[3][1][1]/mon25/ca	$/atom:polymers[3][1][1]/mon26/ca
+  	$/bond:polymers[3][1][2]/backbone0	$/atom:polymers[3][1][2]/mon0/ca	$/atom:polymers[3][1][2]/mon1/ca
   	$/bond:polymers[3][1][2]/backbone1	$/atom:polymers[3][1][2]/mon1/ca	$/atom:polymers[3][1][2]/mon2/ca
   	$/bond:polymers[3][1][2]/backbone2	$/atom:polymers[3][1][2]/mon2/ca	$/atom:polymers[3][1][2]/mon3/ca
   	$/bond:polymers[3][1][2]/backbone3	$/atom:polymers[3][1][2]/mon3/ca	$/atom:polymers[3][1][2]/mon4/ca
@@ -2066,13 +1575,7 @@
   	$/bond:polymers[3][1][2]/backbone16	$/atom:polymers[3][1][2]/mon16/ca	$/atom:polymers[3][1][2]/mon17/ca
   	$/bond:polymers[3][1][2]/backbone17	$/atom:polymers[3][1][2]/mon17/ca	$/atom:polymers[3][1][2]/mon18/ca
   	$/bond:polymers[3][1][2]/backbone18	$/atom:polymers[3][1][2]/mon18/ca	$/atom:polymers[3][1][2]/mon19/ca
-  	$/bond:polymers[3][1][2]/backbone19	$/atom:polymers[3][1][2]/mon19/ca	$/atom:polymers[3][1][2]/mon20/ca
-  	$/bond:polymers[3][1][2]/backbone20	$/atom:polymers[3][1][2]/mon20/ca	$/atom:polymers[3][1][2]/mon21/ca
-  	$/bond:polymers[3][1][2]/backbone21	$/atom:polymers[3][1][2]/mon21/ca	$/atom:polymers[3][1][2]/mon22/ca
-  	$/bond:polymers[3][1][2]/backbone22	$/atom:polymers[3][1][2]/mon22/ca	$/atom:polymers[3][1][2]/mon23/ca
-  	$/bond:polymers[3][1][2]/backbone23	$/atom:polymers[3][1][2]/mon23/ca	$/atom:polymers[3][1][2]/mon24/ca
-  	$/bond:polymers[3][1][2]/backbone24	$/atom:polymers[3][1][2]/mon24/ca	$/atom:polymers[3][1][2]/mon25/ca
-  	$/bond:polymers[3][1][2]/backbone25	$/atom:polymers[3][1][2]/mon25/ca	$/atom:polymers[3][1][2]/mon26/ca
+  	$/bond:polymers[3][1][3]/backbone0	$/atom:polymers[3][1][3]/mon0/ca	$/atom:polymers[3][1][3]/mon1/ca
   	$/bond:polymers[3][1][3]/backbone1	$/atom:polymers[3][1][3]/mon1/ca	$/atom:polymers[3][1][3]/mon2/ca
   	$/bond:polymers[3][1][3]/backbone2	$/atom:polymers[3][1][3]/mon2/ca	$/atom:polymers[3][1][3]/mon3/ca
   	$/bond:polymers[3][1][3]/backbone3	$/atom:polymers[3][1][3]/mon3/ca	$/atom:polymers[3][1][3]/mon4/ca
@@ -2091,13 +1594,7 @@
   	$/bond:polymers[3][1][3]/backbone16	$/atom:polymers[3][1][3]/mon16/ca	$/atom:polymers[3][1][3]/mon17/ca
   	$/bond:polymers[3][1][3]/backbone17	$/atom:polymers[3][1][3]/mon17/ca	$/atom:polymers[3][1][3]/mon18/ca
   	$/bond:polymers[3][1][3]/backbone18	$/atom:polymers[3][1][3]/mon18/ca	$/atom:polymers[3][1][3]/mon19/ca
-  	$/bond:polymers[3][1][3]/backbone19	$/atom:polymers[3][1][3]/mon19/ca	$/atom:polymers[3][1][3]/mon20/ca
-  	$/bond:polymers[3][1][3]/backbone20	$/atom:polymers[3][1][3]/mon20/ca	$/atom:polymers[3][1][3]/mon21/ca
-  	$/bond:polymers[3][1][3]/backbone21	$/atom:polymers[3][1][3]/mon21/ca	$/atom:polymers[3][1][3]/mon22/ca
-  	$/bond:polymers[3][1][3]/backbone22	$/atom:polymers[3][1][3]/mon22/ca	$/atom:polymers[3][1][3]/mon23/ca
-  	$/bond:polymers[3][1][3]/backbone23	$/atom:polymers[3][1][3]/mon23/ca	$/atom:polymers[3][1][3]/mon24/ca
-  	$/bond:polymers[3][1][3]/backbone24	$/atom:polymers[3][1][3]/mon24/ca	$/atom:polymers[3][1][3]/mon25/ca
-  	$/bond:polymers[3][1][3]/backbone25	$/atom:polymers[3][1][3]/mon25/ca	$/atom:polymers[3][1][3]/mon26/ca
+  	$/bond:polymers[3][1][4]/backbone0	$/atom:polymers[3][1][4]/mon0/ca	$/atom:polymers[3][1][4]/mon1/ca
   	$/bond:polymers[3][1][4]/backbone1	$/atom:polymers[3][1][4]/mon1/ca	$/atom:polymers[3][1][4]/mon2/ca
   	$/bond:polymers[3][1][4]/backbone2	$/atom:polymers[3][1][4]/mon2/ca	$/atom:polymers[3][1][4]/mon3/ca
   	$/bond:polymers[3][1][4]/backbone3	$/atom:polymers[3][1][4]/mon3/ca	$/atom:polymers[3][1][4]/mon4/ca
@@ -2116,13 +1613,7 @@
   	$/bond:polymers[3][1][4]/backbone16	$/atom:polymers[3][1][4]/mon16/ca	$/atom:polymers[3][1][4]/mon17/ca
   	$/bond:polymers[3][1][4]/backbone17	$/atom:polymers[3][1][4]/mon17/ca	$/atom:polymers[3][1][4]/mon18/ca
   	$/bond:polymers[3][1][4]/backbone18	$/atom:polymers[3][1][4]/mon18/ca	$/atom:polymers[3][1][4]/mon19/ca
-  	$/bond:polymers[3][1][4]/backbone19	$/atom:polymers[3][1][4]/mon19/ca	$/atom:polymers[3][1][4]/mon20/ca
-  	$/bond:polymers[3][1][4]/backbone20	$/atom:polymers[3][1][4]/mon20/ca	$/atom:polymers[3][1][4]/mon21/ca
-  	$/bond:polymers[3][1][4]/backbone21	$/atom:polymers[3][1][4]/mon21/ca	$/atom:polymers[3][1][4]/mon22/ca
-  	$/bond:polymers[3][1][4]/backbone22	$/atom:polymers[3][1][4]/mon22/ca	$/atom:polymers[3][1][4]/mon23/ca
-  	$/bond:polymers[3][1][4]/backbone23	$/atom:polymers[3][1][4]/mon23/ca	$/atom:polymers[3][1][4]/mon24/ca
-  	$/bond:polymers[3][1][4]/backbone24	$/atom:polymers[3][1][4]/mon24/ca	$/atom:polymers[3][1][4]/mon25/ca
-  	$/bond:polymers[3][1][4]/backbone25	$/atom:polymers[3][1][4]/mon25/ca	$/atom:polymers[3][1][4]/mon26/ca
+  	$/bond:polymers[3][2][0]/backbone0	$/atom:polymers[3][2][0]/mon0/ca	$/atom:polymers[3][2][0]/mon1/ca
   	$/bond:polymers[3][2][0]/backbone1	$/atom:polymers[3][2][0]/mon1/ca	$/atom:polymers[3][2][0]/mon2/ca
   	$/bond:polymers[3][2][0]/backbone2	$/atom:polymers[3][2][0]/mon2/ca	$/atom:polymers[3][2][0]/mon3/ca
   	$/bond:polymers[3][2][0]/backbone3	$/atom:polymers[3][2][0]/mon3/ca	$/atom:polymers[3][2][0]/mon4/ca
@@ -2141,13 +1632,7 @@
   	$/bond:polymers[3][2][0]/backbone16	$/atom:polymers[3][2][0]/mon16/ca	$/atom:polymers[3][2][0]/mon17/ca
   	$/bond:polymers[3][2][0]/backbone17	$/atom:polymers[3][2][0]/mon17/ca	$/atom:polymers[3][2][0]/mon18/ca
   	$/bond:polymers[3][2][0]/backbone18	$/atom:polymers[3][2][0]/mon18/ca	$/atom:polymers[3][2][0]/mon19/ca
-  	$/bond:polymers[3][2][0]/backbone19	$/atom:polymers[3][2][0]/mon19/ca	$/atom:polymers[3][2][0]/mon20/ca
-  	$/bond:polymers[3][2][0]/backbone20	$/atom:polymers[3][2][0]/mon20/ca	$/atom:polymers[3][2][0]/mon21/ca
-  	$/bond:polymers[3][2][0]/backbone21	$/atom:polymers[3][2][0]/mon21/ca	$/atom:polymers[3][2][0]/mon22/ca
-  	$/bond:polymers[3][2][0]/backbone22	$/atom:polymers[3][2][0]/mon22/ca	$/atom:polymers[3][2][0]/mon23/ca
-  	$/bond:polymers[3][2][0]/backbone23	$/atom:polymers[3][2][0]/mon23/ca	$/atom:polymers[3][2][0]/mon24/ca
-  	$/bond:polymers[3][2][0]/backbone24	$/atom:polymers[3][2][0]/mon24/ca	$/atom:polymers[3][2][0]/mon25/ca
-  	$/bond:polymers[3][2][0]/backbone25	$/atom:polymers[3][2][0]/mon25/ca	$/atom:polymers[3][2][0]/mon26/ca
+  	$/bond:polymers[3][2][1]/backbone0	$/atom:polymers[3][2][1]/mon0/ca	$/atom:polymers[3][2][1]/mon1/ca
   	$/bond:polymers[3][2][1]/backbone1	$/atom:polymers[3][2][1]/mon1/ca	$/atom:polymers[3][2][1]/mon2/ca
   	$/bond:polymers[3][2][1]/backbone2	$/atom:polymers[3][2][1]/mon2/ca	$/atom:polymers[3][2][1]/mon3/ca
   	$/bond:polymers[3][2][1]/backbone3	$/atom:polymers[3][2][1]/mon3/ca	$/atom:polymers[3][2][1]/mon4/ca
@@ -2166,13 +1651,7 @@
   	$/bond:polymers[3][2][1]/backbone16	$/atom:polymers[3][2][1]/mon16/ca	$/atom:polymers[3][2][1]/mon17/ca
   	$/bond:polymers[3][2][1]/backbone17	$/atom:polymers[3][2][1]/mon17/ca	$/atom:polymers[3][2][1]/mon18/ca
   	$/bond:polymers[3][2][1]/backbone18	$/atom:polymers[3][2][1]/mon18/ca	$/atom:polymers[3][2][1]/mon19/ca
-  	$/bond:polymers[3][2][1]/backbone19	$/atom:polymers[3][2][1]/mon19/ca	$/atom:polymers[3][2][1]/mon20/ca
-  	$/bond:polymers[3][2][1]/backbone20	$/atom:polymers[3][2][1]/mon20/ca	$/atom:polymers[3][2][1]/mon21/ca
-  	$/bond:polymers[3][2][1]/backbone21	$/atom:polymers[3][2][1]/mon21/ca	$/atom:polymers[3][2][1]/mon22/ca
-  	$/bond:polymers[3][2][1]/backbone22	$/atom:polymers[3][2][1]/mon22/ca	$/atom:polymers[3][2][1]/mon23/ca
-  	$/bond:polymers[3][2][1]/backbone23	$/atom:polymers[3][2][1]/mon23/ca	$/atom:polymers[3][2][1]/mon24/ca
-  	$/bond:polymers[3][2][1]/backbone24	$/atom:polymers[3][2][1]/mon24/ca	$/atom:polymers[3][2][1]/mon25/ca
-  	$/bond:polymers[3][2][1]/backbone25	$/atom:polymers[3][2][1]/mon25/ca	$/atom:polymers[3][2][1]/mon26/ca
+  	$/bond:polymers[3][2][2]/backbone0	$/atom:polymers[3][2][2]/mon0/ca	$/atom:polymers[3][2][2]/mon1/ca
   	$/bond:polymers[3][2][2]/backbone1	$/atom:polymers[3][2][2]/mon1/ca	$/atom:polymers[3][2][2]/mon2/ca
   	$/bond:polymers[3][2][2]/backbone2	$/atom:polymers[3][2][2]/mon2/ca	$/atom:polymers[3][2][2]/mon3/ca
   	$/bond:polymers[3][2][2]/backbone3	$/atom:polymers[3][2][2]/mon3/ca	$/atom:polymers[3][2][2]/mon4/ca
@@ -2191,13 +1670,7 @@
   	$/bond:polymers[3][2][2]/backbone16	$/atom:polymers[3][2][2]/mon16/ca	$/atom:polymers[3][2][2]/mon17/ca
   	$/bond:polymers[3][2][2]/backbone17	$/atom:polymers[3][2][2]/mon17/ca	$/atom:polymers[3][2][2]/mon18/ca
   	$/bond:polymers[3][2][2]/backbone18	$/atom:polymers[3][2][2]/mon18/ca	$/atom:polymers[3][2][2]/mon19/ca
-  	$/bond:polymers[3][2][2]/backbone19	$/atom:polymers[3][2][2]/mon19/ca	$/atom:polymers[3][2][2]/mon20/ca
-  	$/bond:polymers[3][2][2]/backbone20	$/atom:polymers[3][2][2]/mon20/ca	$/atom:polymers[3][2][2]/mon21/ca
-  	$/bond:polymers[3][2][2]/backbone21	$/atom:polymers[3][2][2]/mon21/ca	$/atom:polymers[3][2][2]/mon22/ca
-  	$/bond:polymers[3][2][2]/backbone22	$/atom:polymers[3][2][2]/mon22/ca	$/atom:polymers[3][2][2]/mon23/ca
-  	$/bond:polymers[3][2][2]/backbone23	$/atom:polymers[3][2][2]/mon23/ca	$/atom:polymers[3][2][2]/mon24/ca
-  	$/bond:polymers[3][2][2]/backbone24	$/atom:polymers[3][2][2]/mon24/ca	$/atom:polymers[3][2][2]/mon25/ca
-  	$/bond:polymers[3][2][2]/backbone25	$/atom:polymers[3][2][2]/mon25/ca	$/atom:polymers[3][2][2]/mon26/ca
+  	$/bond:polymers[3][2][3]/backbone0	$/atom:polymers[3][2][3]/mon0/ca	$/atom:polymers[3][2][3]/mon1/ca
   	$/bond:polymers[3][2][3]/backbone1	$/atom:polymers[3][2][3]/mon1/ca	$/atom:polymers[3][2][3]/mon2/ca
   	$/bond:polymers[3][2][3]/backbone2	$/atom:polymers[3][2][3]/mon2/ca	$/atom:polymers[3][2][3]/mon3/ca
   	$/bond:polymers[3][2][3]/backbone3	$/atom:polymers[3][2][3]/mon3/ca	$/atom:polymers[3][2][3]/mon4/ca
@@ -2216,13 +1689,7 @@
   	$/bond:polymers[3][2][3]/backbone16	$/atom:polymers[3][2][3]/mon16/ca	$/atom:polymers[3][2][3]/mon17/ca
   	$/bond:polymers[3][2][3]/backbone17	$/atom:polymers[3][2][3]/mon17/ca	$/atom:polymers[3][2][3]/mon18/ca
   	$/bond:polymers[3][2][3]/backbone18	$/atom:polymers[3][2][3]/mon18/ca	$/atom:polymers[3][2][3]/mon19/ca
-  	$/bond:polymers[3][2][3]/backbone19	$/atom:polymers[3][2][3]/mon19/ca	$/atom:polymers[3][2][3]/mon20/ca
-  	$/bond:polymers[3][2][3]/backbone20	$/atom:polymers[3][2][3]/mon20/ca	$/atom:polymers[3][2][3]/mon21/ca
-  	$/bond:polymers[3][2][3]/backbone21	$/atom:polymers[3][2][3]/mon21/ca	$/atom:polymers[3][2][3]/mon22/ca
-  	$/bond:polymers[3][2][3]/backbone22	$/atom:polymers[3][2][3]/mon22/ca	$/atom:polymers[3][2][3]/mon23/ca
-  	$/bond:polymers[3][2][3]/backbone23	$/atom:polymers[3][2][3]/mon23/ca	$/atom:polymers[3][2][3]/mon24/ca
-  	$/bond:polymers[3][2][3]/backbone24	$/atom:polymers[3][2][3]/mon24/ca	$/atom:polymers[3][2][3]/mon25/ca
-  	$/bond:polymers[3][2][3]/backbone25	$/atom:polymers[3][2][3]/mon25/ca	$/atom:polymers[3][2][3]/mon26/ca
+  	$/bond:polymers[3][2][4]/backbone0	$/atom:polymers[3][2][4]/mon0/ca	$/atom:polymers[3][2][4]/mon1/ca
   	$/bond:polymers[3][2][4]/backbone1	$/atom:polymers[3][2][4]/mon1/ca	$/atom:polymers[3][2][4]/mon2/ca
   	$/bond:polymers[3][2][4]/backbone2	$/atom:polymers[3][2][4]/mon2/ca	$/atom:polymers[3][2][4]/mon3/ca
   	$/bond:polymers[3][2][4]/backbone3	$/atom:polymers[3][2][4]/mon3/ca	$/atom:polymers[3][2][4]/mon4/ca
@@ -2241,13 +1708,7 @@
   	$/bond:polymers[3][2][4]/backbone16	$/atom:polymers[3][2][4]/mon16/ca	$/atom:polymers[3][2][4]/mon17/ca
   	$/bond:polymers[3][2][4]/backbone17	$/atom:polymers[3][2][4]/mon17/ca	$/atom:polymers[3][2][4]/mon18/ca
   	$/bond:polymers[3][2][4]/backbone18	$/atom:polymers[3][2][4]/mon18/ca	$/atom:polymers[3][2][4]/mon19/ca
-  	$/bond:polymers[3][2][4]/backbone19	$/atom:polymers[3][2][4]/mon19/ca	$/atom:polymers[3][2][4]/mon20/ca
-  	$/bond:polymers[3][2][4]/backbone20	$/atom:polymers[3][2][4]/mon20/ca	$/atom:polymers[3][2][4]/mon21/ca
-  	$/bond:polymers[3][2][4]/backbone21	$/atom:polymers[3][2][4]/mon21/ca	$/atom:polymers[3][2][4]/mon22/ca
-  	$/bond:polymers[3][2][4]/backbone22	$/atom:polymers[3][2][4]/mon22/ca	$/atom:polymers[3][2][4]/mon23/ca
-  	$/bond:polymers[3][2][4]/backbone23	$/atom:polymers[3][2][4]/mon23/ca	$/atom:polymers[3][2][4]/mon24/ca
-  	$/bond:polymers[3][2][4]/backbone24	$/atom:polymers[3][2][4]/mon24/ca	$/atom:polymers[3][2][4]/mon25/ca
-  	$/bond:polymers[3][2][4]/backbone25	$/atom:polymers[3][2][4]/mon25/ca	$/atom:polymers[3][2][4]/mon26/ca
+  	$/bond:polymers[3][3][0]/backbone0	$/atom:polymers[3][3][0]/mon0/ca	$/atom:polymers[3][3][0]/mon1/ca
   	$/bond:polymers[3][3][0]/backbone1	$/atom:polymers[3][3][0]/mon1/ca	$/atom:polymers[3][3][0]/mon2/ca
   	$/bond:polymers[3][3][0]/backbone2	$/atom:polymers[3][3][0]/mon2/ca	$/atom:polymers[3][3][0]/mon3/ca
   	$/bond:polymers[3][3][0]/backbone3	$/atom:polymers[3][3][0]/mon3/ca	$/atom:polymers[3][3][0]/mon4/ca
@@ -2266,13 +1727,7 @@
   	$/bond:polymers[3][3][0]/backbone16	$/atom:polymers[3][3][0]/mon16/ca	$/atom:polymers[3][3][0]/mon17/ca
   	$/bond:polymers[3][3][0]/backbone17	$/atom:polymers[3][3][0]/mon17/ca	$/atom:polymers[3][3][0]/mon18/ca
   	$/bond:polymers[3][3][0]/backbone18	$/atom:polymers[3][3][0]/mon18/ca	$/atom:polymers[3][3][0]/mon19/ca
-  	$/bond:polymers[3][3][0]/backbone19	$/atom:polymers[3][3][0]/mon19/ca	$/atom:polymers[3][3][0]/mon20/ca
-  	$/bond:polymers[3][3][0]/backbone20	$/atom:polymers[3][3][0]/mon20/ca	$/atom:polymers[3][3][0]/mon21/ca
-  	$/bond:polymers[3][3][0]/backbone21	$/atom:polymers[3][3][0]/mon21/ca	$/atom:polymers[3][3][0]/mon22/ca
-  	$/bond:polymers[3][3][0]/backbone22	$/atom:polymers[3][3][0]/mon22/ca	$/atom:polymers[3][3][0]/mon23/ca
-  	$/bond:polymers[3][3][0]/backbone23	$/atom:polymers[3][3][0]/mon23/ca	$/atom:polymers[3][3][0]/mon24/ca
-  	$/bond:polymers[3][3][0]/backbone24	$/atom:polymers[3][3][0]/mon24/ca	$/atom:polymers[3][3][0]/mon25/ca
-  	$/bond:polymers[3][3][0]/backbone25	$/atom:polymers[3][3][0]/mon25/ca	$/atom:polymers[3][3][0]/mon26/ca
+  	$/bond:polymers[3][3][1]/backbone0	$/atom:polymers[3][3][1]/mon0/ca	$/atom:polymers[3][3][1]/mon1/ca
   	$/bond:polymers[3][3][1]/backbone1	$/atom:polymers[3][3][1]/mon1/ca	$/atom:polymers[3][3][1]/mon2/ca
   	$/bond:polymers[3][3][1]/backbone2	$/atom:polymers[3][3][1]/mon2/ca	$/atom:polymers[3][3][1]/mon3/ca
   	$/bond:polymers[3][3][1]/backbone3	$/atom:polymers[3][3][1]/mon3/ca	$/atom:polymers[3][3][1]/mon4/ca
@@ -2291,13 +1746,7 @@
   	$/bond:polymers[3][3][1]/backbone16	$/atom:polymers[3][3][1]/mon16/ca	$/atom:polymers[3][3][1]/mon17/ca
   	$/bond:polymers[3][3][1]/backbone17	$/atom:polymers[3][3][1]/mon17/ca	$/atom:polymers[3][3][1]/mon18/ca
   	$/bond:polymers[3][3][1]/backbone18	$/atom:polymers[3][3][1]/mon18/ca	$/atom:polymers[3][3][1]/mon19/ca
-  	$/bond:polymers[3][3][1]/backbone19	$/atom:polymers[3][3][1]/mon19/ca	$/atom:polymers[3][3][1]/mon20/ca
-  	$/bond:polymers[3][3][1]/backbone20	$/atom:polymers[3][3][1]/mon20/ca	$/atom:polymers[3][3][1]/mon21/ca
-  	$/bond:polymers[3][3][1]/backbone21	$/atom:polymers[3][3][1]/mon21/ca	$/atom:polymers[3][3][1]/mon22/ca
-  	$/bond:polymers[3][3][1]/backbone22	$/atom:polymers[3][3][1]/mon22/ca	$/atom:polymers[3][3][1]/mon23/ca
-  	$/bond:polymers[3][3][1]/backbone23	$/atom:polymers[3][3][1]/mon23/ca	$/atom:polymers[3][3][1]/mon24/ca
-  	$/bond:polymers[3][3][1]/backbone24	$/atom:polymers[3][3][1]/mon24/ca	$/atom:polymers[3][3][1]/mon25/ca
-  	$/bond:polymers[3][3][1]/backbone25	$/atom:polymers[3][3][1]/mon25/ca	$/atom:polymers[3][3][1]/mon26/ca
+  	$/bond:polymers[3][3][2]/backbone0	$/atom:polymers[3][3][2]/mon0/ca	$/atom:polymers[3][3][2]/mon1/ca
   	$/bond:polymers[3][3][2]/backbone1	$/atom:polymers[3][3][2]/mon1/ca	$/atom:polymers[3][3][2]/mon2/ca
   	$/bond:polymers[3][3][2]/backbone2	$/atom:polymers[3][3][2]/mon2/ca	$/atom:polymers[3][3][2]/mon3/ca
   	$/bond:polymers[3][3][2]/backbone3	$/atom:polymers[3][3][2]/mon3/ca	$/atom:polymers[3][3][2]/mon4/ca
@@ -2316,13 +1765,7 @@
   	$/bond:polymers[3][3][2]/backbone16	$/atom:polymers[3][3][2]/mon16/ca	$/atom:polymers[3][3][2]/mon17/ca
   	$/bond:polymers[3][3][2]/backbone17	$/atom:polymers[3][3][2]/mon17/ca	$/atom:polymers[3][3][2]/mon18/ca
   	$/bond:polymers[3][3][2]/backbone18	$/atom:polymers[3][3][2]/mon18/ca	$/atom:polymers[3][3][2]/mon19/ca
-  	$/bond:polymers[3][3][2]/backbone19	$/atom:polymers[3][3][2]/mon19/ca	$/atom:polymers[3][3][2]/mon20/ca
-  	$/bond:polymers[3][3][2]/backbone20	$/atom:polymers[3][3][2]/mon20/ca	$/atom:polymers[3][3][2]/mon21/ca
-  	$/bond:polymers[3][3][2]/backbone21	$/atom:polymers[3][3][2]/mon21/ca	$/atom:polymers[3][3][2]/mon22/ca
-  	$/bond:polymers[3][3][2]/backbone22	$/atom:polymers[3][3][2]/mon22/ca	$/atom:polymers[3][3][2]/mon23/ca
-  	$/bond:polymers[3][3][2]/backbone23	$/atom:polymers[3][3][2]/mon23/ca	$/atom:polymers[3][3][2]/mon24/ca
-  	$/bond:polymers[3][3][2]/backbone24	$/atom:polymers[3][3][2]/mon24/ca	$/atom:polymers[3][3][2]/mon25/ca
-  	$/bond:polymers[3][3][2]/backbone25	$/atom:polymers[3][3][2]/mon25/ca	$/atom:polymers[3][3][2]/mon26/ca
+  	$/bond:polymers[3][3][3]/backbone0	$/atom:polymers[3][3][3]/mon0/ca	$/atom:polymers[3][3][3]/mon1/ca
   	$/bond:polymers[3][3][3]/backbone1	$/atom:polymers[3][3][3]/mon1/ca	$/atom:polymers[3][3][3]/mon2/ca
   	$/bond:polymers[3][3][3]/backbone2	$/atom:polymers[3][3][3]/mon2/ca	$/atom:polymers[3][3][3]/mon3/ca
   	$/bond:polymers[3][3][3]/backbone3	$/atom:polymers[3][3][3]/mon3/ca	$/atom:polymers[3][3][3]/mon4/ca
@@ -2341,13 +1784,7 @@
   	$/bond:polymers[3][3][3]/backbone16	$/atom:polymers[3][3][3]/mon16/ca	$/atom:polymers[3][3][3]/mon17/ca
   	$/bond:polymers[3][3][3]/backbone17	$/atom:polymers[3][3][3]/mon17/ca	$/atom:polymers[3][3][3]/mon18/ca
   	$/bond:polymers[3][3][3]/backbone18	$/atom:polymers[3][3][3]/mon18/ca	$/atom:polymers[3][3][3]/mon19/ca
-  	$/bond:polymers[3][3][3]/backbone19	$/atom:polymers[3][3][3]/mon19/ca	$/atom:polymers[3][3][3]/mon20/ca
-  	$/bond:polymers[3][3][3]/backbone20	$/atom:polymers[3][3][3]/mon20/ca	$/atom:polymers[3][3][3]/mon21/ca
-  	$/bond:polymers[3][3][3]/backbone21	$/atom:polymers[3][3][3]/mon21/ca	$/atom:polymers[3][3][3]/mon22/ca
-  	$/bond:polymers[3][3][3]/backbone22	$/atom:polymers[3][3][3]/mon22/ca	$/atom:polymers[3][3][3]/mon23/ca
-  	$/bond:polymers[3][3][3]/backbone23	$/atom:polymers[3][3][3]/mon23/ca	$/atom:polymers[3][3][3]/mon24/ca
-  	$/bond:polymers[3][3][3]/backbone24	$/atom:polymers[3][3][3]/mon24/ca	$/atom:polymers[3][3][3]/mon25/ca
-  	$/bond:polymers[3][3][3]/backbone25	$/atom:polymers[3][3][3]/mon25/ca	$/atom:polymers[3][3][3]/mon26/ca
+  	$/bond:polymers[3][3][4]/backbone0	$/atom:polymers[3][3][4]/mon0/ca	$/atom:polymers[3][3][4]/mon1/ca
   	$/bond:polymers[3][3][4]/backbone1	$/atom:polymers[3][3][4]/mon1/ca	$/atom:polymers[3][3][4]/mon2/ca
   	$/bond:polymers[3][3][4]/backbone2	$/atom:polymers[3][3][4]/mon2/ca	$/atom:polymers[3][3][4]/mon3/ca
   	$/bond:polymers[3][3][4]/backbone3	$/atom:polymers[3][3][4]/mon3/ca	$/atom:polymers[3][3][4]/mon4/ca
@@ -2366,13 +1803,7 @@
   	$/bond:polymers[3][3][4]/backbone16	$/atom:polymers[3][3][4]/mon16/ca	$/atom:polymers[3][3][4]/mon17/ca
   	$/bond:polymers[3][3][4]/backbone17	$/atom:polymers[3][3][4]/mon17/ca	$/atom:polymers[3][3][4]/mon18/ca
   	$/bond:polymers[3][3][4]/backbone18	$/atom:polymers[3][3][4]/mon18/ca	$/atom:polymers[3][3][4]/mon19/ca
-  	$/bond:polymers[3][3][4]/backbone19	$/atom:polymers[3][3][4]/mon19/ca	$/atom:polymers[3][3][4]/mon20/ca
-  	$/bond:polymers[3][3][4]/backbone20	$/atom:polymers[3][3][4]/mon20/ca	$/atom:polymers[3][3][4]/mon21/ca
-  	$/bond:polymers[3][3][4]/backbone21	$/atom:polymers[3][3][4]/mon21/ca	$/atom:polymers[3][3][4]/mon22/ca
-  	$/bond:polymers[3][3][4]/backbone22	$/atom:polymers[3][3][4]/mon22/ca	$/atom:polymers[3][3][4]/mon23/ca
-  	$/bond:polymers[3][3][4]/backbone23	$/atom:polymers[3][3][4]/mon23/ca	$/atom:polymers[3][3][4]/mon24/ca
-  	$/bond:polymers[3][3][4]/backbone24	$/atom:polymers[3][3][4]/mon24/ca	$/atom:polymers[3][3][4]/mon25/ca
-  	$/bond:polymers[3][3][4]/backbone25	$/atom:polymers[3][3][4]/mon25/ca	$/atom:polymers[3][3][4]/mon26/ca
+  	$/bond:polymers[3][4][0]/backbone0	$/atom:polymers[3][4][0]/mon0/ca	$/atom:polymers[3][4][0]/mon1/ca
   	$/bond:polymers[3][4][0]/backbone1	$/atom:polymers[3][4][0]/mon1/ca	$/atom:polymers[3][4][0]/mon2/ca
   	$/bond:polymers[3][4][0]/backbone2	$/atom:polymers[3][4][0]/mon2/ca	$/atom:polymers[3][4][0]/mon3/ca
   	$/bond:polymers[3][4][0]/backbone3	$/atom:polymers[3][4][0]/mon3/ca	$/atom:polymers[3][4][0]/mon4/ca
@@ -2391,13 +1822,7 @@
   	$/bond:polymers[3][4][0]/backbone16	$/atom:polymers[3][4][0]/mon16/ca	$/atom:polymers[3][4][0]/mon17/ca
   	$/bond:polymers[3][4][0]/backbone17	$/atom:polymers[3][4][0]/mon17/ca	$/atom:polymers[3][4][0]/mon18/ca
   	$/bond:polymers[3][4][0]/backbone18	$/atom:polymers[3][4][0]/mon18/ca	$/atom:polymers[3][4][0]/mon19/ca
-  	$/bond:polymers[3][4][0]/backbone19	$/atom:polymers[3][4][0]/mon19/ca	$/atom:polymers[3][4][0]/mon20/ca
-  	$/bond:polymers[3][4][0]/backbone20	$/atom:polymers[3][4][0]/mon20/ca	$/atom:polymers[3][4][0]/mon21/ca
-  	$/bond:polymers[3][4][0]/backbone21	$/atom:polymers[3][4][0]/mon21/ca	$/atom:polymers[3][4][0]/mon22/ca
-  	$/bond:polymers[3][4][0]/backbone22	$/atom:polymers[3][4][0]/mon22/ca	$/atom:polymers[3][4][0]/mon23/ca
-  	$/bond:polymers[3][4][0]/backbone23	$/atom:polymers[3][4][0]/mon23/ca	$/atom:polymers[3][4][0]/mon24/ca
-  	$/bond:polymers[3][4][0]/backbone24	$/atom:polymers[3][4][0]/mon24/ca	$/atom:polymers[3][4][0]/mon25/ca
-  	$/bond:polymers[3][4][0]/backbone25	$/atom:polymers[3][4][0]/mon25/ca	$/atom:polymers[3][4][0]/mon26/ca
+  	$/bond:polymers[3][4][1]/backbone0	$/atom:polymers[3][4][1]/mon0/ca	$/atom:polymers[3][4][1]/mon1/ca
   	$/bond:polymers[3][4][1]/backbone1	$/atom:polymers[3][4][1]/mon1/ca	$/atom:polymers[3][4][1]/mon2/ca
   	$/bond:polymers[3][4][1]/backbone2	$/atom:polymers[3][4][1]/mon2/ca	$/atom:polymers[3][4][1]/mon3/ca
   	$/bond:polymers[3][4][1]/backbone3	$/atom:polymers[3][4][1]/mon3/ca	$/atom:polymers[3][4][1]/mon4/ca
@@ -2416,13 +1841,7 @@
   	$/bond:polymers[3][4][1]/backbone16	$/atom:polymers[3][4][1]/mon16/ca	$/atom:polymers[3][4][1]/mon17/ca
   	$/bond:polymers[3][4][1]/backbone17	$/atom:polymers[3][4][1]/mon17/ca	$/atom:polymers[3][4][1]/mon18/ca
   	$/bond:polymers[3][4][1]/backbone18	$/atom:polymers[3][4][1]/mon18/ca	$/atom:polymers[3][4][1]/mon19/ca
-  	$/bond:polymers[3][4][1]/backbone19	$/atom:polymers[3][4][1]/mon19/ca	$/atom:polymers[3][4][1]/mon20/ca
-  	$/bond:polymers[3][4][1]/backbone20	$/atom:polymers[3][4][1]/mon20/ca	$/atom:polymers[3][4][1]/mon21/ca
-  	$/bond:polymers[3][4][1]/backbone21	$/atom:polymers[3][4][1]/mon21/ca	$/atom:polymers[3][4][1]/mon22/ca
-  	$/bond:polymers[3][4][1]/backbone22	$/atom:polymers[3][4][1]/mon22/ca	$/atom:polymers[3][4][1]/mon23/ca
-  	$/bond:polymers[3][4][1]/backbone23	$/atom:polymers[3][4][1]/mon23/ca	$/atom:polymers[3][4][1]/mon24/ca
-  	$/bond:polymers[3][4][1]/backbone24	$/atom:polymers[3][4][1]/mon24/ca	$/atom:polymers[3][4][1]/mon25/ca
-  	$/bond:polymers[3][4][1]/backbone25	$/atom:polymers[3][4][1]/mon25/ca	$/atom:polymers[3][4][1]/mon26/ca
+  	$/bond:polymers[3][4][2]/backbone0	$/atom:polymers[3][4][2]/mon0/ca	$/atom:polymers[3][4][2]/mon1/ca
   	$/bond:polymers[3][4][2]/backbone1	$/atom:polymers[3][4][2]/mon1/ca	$/atom:polymers[3][4][2]/mon2/ca
   	$/bond:polymers[3][4][2]/backbone2	$/atom:polymers[3][4][2]/mon2/ca	$/atom:polymers[3][4][2]/mon3/ca
   	$/bond:polymers[3][4][2]/backbone3	$/atom:polymers[3][4][2]/mon3/ca	$/atom:polymers[3][4][2]/mon4/ca
@@ -2441,13 +1860,7 @@
   	$/bond:polymers[3][4][2]/backbone16	$/atom:polymers[3][4][2]/mon16/ca	$/atom:polymers[3][4][2]/mon17/ca
   	$/bond:polymers[3][4][2]/backbone17	$/atom:polymers[3][4][2]/mon17/ca	$/atom:polymers[3][4][2]/mon18/ca
   	$/bond:polymers[3][4][2]/backbone18	$/atom:polymers[3][4][2]/mon18/ca	$/atom:polymers[3][4][2]/mon19/ca
-  	$/bond:polymers[3][4][2]/backbone19	$/atom:polymers[3][4][2]/mon19/ca	$/atom:polymers[3][4][2]/mon20/ca
-  	$/bond:polymers[3][4][2]/backbone20	$/atom:polymers[3][4][2]/mon20/ca	$/atom:polymers[3][4][2]/mon21/ca
-  	$/bond:polymers[3][4][2]/backbone21	$/atom:polymers[3][4][2]/mon21/ca	$/atom:polymers[3][4][2]/mon22/ca
-  	$/bond:polymers[3][4][2]/backbone22	$/atom:polymers[3][4][2]/mon22/ca	$/atom:polymers[3][4][2]/mon23/ca
-  	$/bond:polymers[3][4][2]/backbone23	$/atom:polymers[3][4][2]/mon23/ca	$/atom:polymers[3][4][2]/mon24/ca
-  	$/bond:polymers[3][4][2]/backbone24	$/atom:polymers[3][4][2]/mon24/ca	$/atom:polymers[3][4][2]/mon25/ca
-  	$/bond:polymers[3][4][2]/backbone25	$/atom:polymers[3][4][2]/mon25/ca	$/atom:polymers[3][4][2]/mon26/ca
+  	$/bond:polymers[3][4][3]/backbone0	$/atom:polymers[3][4][3]/mon0/ca	$/atom:polymers[3][4][3]/mon1/ca
   	$/bond:polymers[3][4][3]/backbone1	$/atom:polymers[3][4][3]/mon1/ca	$/atom:polymers[3][4][3]/mon2/ca
   	$/bond:polymers[3][4][3]/backbone2	$/atom:polymers[3][4][3]/mon2/ca	$/atom:polymers[3][4][3]/mon3/ca
   	$/bond:polymers[3][4][3]/backbone3	$/atom:polymers[3][4][3]/mon3/ca	$/atom:polymers[3][4][3]/mon4/ca
@@ -2466,13 +1879,7 @@
   	$/bond:polymers[3][4][3]/backbone16	$/atom:polymers[3][4][3]/mon16/ca	$/atom:polymers[3][4][3]/mon17/ca
   	$/bond:polymers[3][4][3]/backbone17	$/atom:polymers[3][4][3]/mon17/ca	$/atom:polymers[3][4][3]/mon18/ca
   	$/bond:polymers[3][4][3]/backbone18	$/atom:polymers[3][4][3]/mon18/ca	$/atom:polymers[3][4][3]/mon19/ca
-  	$/bond:polymers[3][4][3]/backbone19	$/atom:polymers[3][4][3]/mon19/ca	$/atom:polymers[3][4][3]/mon20/ca
-  	$/bond:polymers[3][4][3]/backbone20	$/atom:polymers[3][4][3]/mon20/ca	$/atom:polymers[3][4][3]/mon21/ca
-  	$/bond:polymers[3][4][3]/backbone21	$/atom:polymers[3][4][3]/mon21/ca	$/atom:polymers[3][4][3]/mon22/ca
-  	$/bond:polymers[3][4][3]/backbone22	$/atom:polymers[3][4][3]/mon22/ca	$/atom:polymers[3][4][3]/mon23/ca
-  	$/bond:polymers[3][4][3]/backbone23	$/atom:polymers[3][4][3]/mon23/ca	$/atom:polymers[3][4][3]/mon24/ca
-  	$/bond:polymers[3][4][3]/backbone24	$/atom:polymers[3][4][3]/mon24/ca	$/atom:polymers[3][4][3]/mon25/ca
-  	$/bond:polymers[3][4][3]/backbone25	$/atom:polymers[3][4][3]/mon25/ca	$/atom:polymers[3][4][3]/mon26/ca
+  	$/bond:polymers[3][4][4]/backbone0	$/atom:polymers[3][4][4]/mon0/ca	$/atom:polymers[3][4][4]/mon1/ca
   	$/bond:polymers[3][4][4]/backbone1	$/atom:polymers[3][4][4]/mon1/ca	$/atom:polymers[3][4][4]/mon2/ca
   	$/bond:polymers[3][4][4]/backbone2	$/atom:polymers[3][4][4]/mon2/ca	$/atom:polymers[3][4][4]/mon3/ca
   	$/bond:polymers[3][4][4]/backbone3	$/atom:polymers[3][4][4]/mon3/ca	$/atom:polymers[3][4][4]/mon4/ca
@@ -2491,13 +1898,7 @@
   	$/bond:polymers[3][4][4]/backbone16	$/atom:polymers[3][4][4]/mon16/ca	$/atom:polymers[3][4][4]/mon17/ca
   	$/bond:polymers[3][4][4]/backbone17	$/atom:polymers[3][4][4]/mon17/ca	$/atom:polymers[3][4][4]/mon18/ca
   	$/bond:polymers[3][4][4]/backbone18	$/atom:polymers[3][4][4]/mon18/ca	$/atom:polymers[3][4][4]/mon19/ca
-  	$/bond:polymers[3][4][4]/backbone19	$/atom:polymers[3][4][4]/mon19/ca	$/atom:polymers[3][4][4]/mon20/ca
-  	$/bond:polymers[3][4][4]/backbone20	$/atom:polymers[3][4][4]/mon20/ca	$/atom:polymers[3][4][4]/mon21/ca
-  	$/bond:polymers[3][4][4]/backbone21	$/atom:polymers[3][4][4]/mon21/ca	$/atom:polymers[3][4][4]/mon22/ca
-  	$/bond:polymers[3][4][4]/backbone22	$/atom:polymers[3][4][4]/mon22/ca	$/atom:polymers[3][4][4]/mon23/ca
-  	$/bond:polymers[3][4][4]/backbone23	$/atom:polymers[3][4][4]/mon23/ca	$/atom:polymers[3][4][4]/mon24/ca
-  	$/bond:polymers[3][4][4]/backbone24	$/atom:polymers[3][4][4]/mon24/ca	$/atom:polymers[3][4][4]/mon25/ca
-  	$/bond:polymers[3][4][4]/backbone25	$/atom:polymers[3][4][4]/mon25/ca	$/atom:polymers[3][4][4]/mon26/ca
+  	$/bond:polymers[4][0][0]/backbone0	$/atom:polymers[4][0][0]/mon0/ca	$/atom:polymers[4][0][0]/mon1/ca
   	$/bond:polymers[4][0][0]/backbone1	$/atom:polymers[4][0][0]/mon1/ca	$/atom:polymers[4][0][0]/mon2/ca
   	$/bond:polymers[4][0][0]/backbone2	$/atom:polymers[4][0][0]/mon2/ca	$/atom:polymers[4][0][0]/mon3/ca
   	$/bond:polymers[4][0][0]/backbone3	$/atom:polymers[4][0][0]/mon3/ca	$/atom:polymers[4][0][0]/mon4/ca
@@ -2516,13 +1917,7 @@
   	$/bond:polymers[4][0][0]/backbone16	$/atom:polymers[4][0][0]/mon16/ca	$/atom:polymers[4][0][0]/mon17/ca
   	$/bond:polymers[4][0][0]/backbone17	$/atom:polymers[4][0][0]/mon17/ca	$/atom:polymers[4][0][0]/mon18/ca
   	$/bond:polymers[4][0][0]/backbone18	$/atom:polymers[4][0][0]/mon18/ca	$/atom:polymers[4][0][0]/mon19/ca
-  	$/bond:polymers[4][0][0]/backbone19	$/atom:polymers[4][0][0]/mon19/ca	$/atom:polymers[4][0][0]/mon20/ca
-  	$/bond:polymers[4][0][0]/backbone20	$/atom:polymers[4][0][0]/mon20/ca	$/atom:polymers[4][0][0]/mon21/ca
-  	$/bond:polymers[4][0][0]/backbone21	$/atom:polymers[4][0][0]/mon21/ca	$/atom:polymers[4][0][0]/mon22/ca
-  	$/bond:polymers[4][0][0]/backbone22	$/atom:polymers[4][0][0]/mon22/ca	$/atom:polymers[4][0][0]/mon23/ca
-  	$/bond:polymers[4][0][0]/backbone23	$/atom:polymers[4][0][0]/mon23/ca	$/atom:polymers[4][0][0]/mon24/ca
-  	$/bond:polymers[4][0][0]/backbone24	$/atom:polymers[4][0][0]/mon24/ca	$/atom:polymers[4][0][0]/mon25/ca
-  	$/bond:polymers[4][0][0]/backbone25	$/atom:polymers[4][0][0]/mon25/ca	$/atom:polymers[4][0][0]/mon26/ca
+  	$/bond:polymers[4][0][1]/backbone0	$/atom:polymers[4][0][1]/mon0/ca	$/atom:polymers[4][0][1]/mon1/ca
   	$/bond:polymers[4][0][1]/backbone1	$/atom:polymers[4][0][1]/mon1/ca	$/atom:polymers[4][0][1]/mon2/ca
   	$/bond:polymers[4][0][1]/backbone2	$/atom:polymers[4][0][1]/mon2/ca	$/atom:polymers[4][0][1]/mon3/ca
   	$/bond:polymers[4][0][1]/backbone3	$/atom:polymers[4][0][1]/mon3/ca	$/atom:polymers[4][0][1]/mon4/ca
@@ -2541,13 +1936,7 @@
   	$/bond:polymers[4][0][1]/backbone16	$/atom:polymers[4][0][1]/mon16/ca	$/atom:polymers[4][0][1]/mon17/ca
   	$/bond:polymers[4][0][1]/backbone17	$/atom:polymers[4][0][1]/mon17/ca	$/atom:polymers[4][0][1]/mon18/ca
   	$/bond:polymers[4][0][1]/backbone18	$/atom:polymers[4][0][1]/mon18/ca	$/atom:polymers[4][0][1]/mon19/ca
-  	$/bond:polymers[4][0][1]/backbone19	$/atom:polymers[4][0][1]/mon19/ca	$/atom:polymers[4][0][1]/mon20/ca
-  	$/bond:polymers[4][0][1]/backbone20	$/atom:polymers[4][0][1]/mon20/ca	$/atom:polymers[4][0][1]/mon21/ca
-  	$/bond:polymers[4][0][1]/backbone21	$/atom:polymers[4][0][1]/mon21/ca	$/atom:polymers[4][0][1]/mon22/ca
-  	$/bond:polymers[4][0][1]/backbone22	$/atom:polymers[4][0][1]/mon22/ca	$/atom:polymers[4][0][1]/mon23/ca
-  	$/bond:polymers[4][0][1]/backbone23	$/atom:polymers[4][0][1]/mon23/ca	$/atom:polymers[4][0][1]/mon24/ca
-  	$/bond:polymers[4][0][1]/backbone24	$/atom:polymers[4][0][1]/mon24/ca	$/atom:polymers[4][0][1]/mon25/ca
-  	$/bond:polymers[4][0][1]/backbone25	$/atom:polymers[4][0][1]/mon25/ca	$/atom:polymers[4][0][1]/mon26/ca
+  	$/bond:polymers[4][0][2]/backbone0	$/atom:polymers[4][0][2]/mon0/ca	$/atom:polymers[4][0][2]/mon1/ca
   	$/bond:polymers[4][0][2]/backbone1	$/atom:polymers[4][0][2]/mon1/ca	$/atom:polymers[4][0][2]/mon2/ca
   	$/bond:polymers[4][0][2]/backbone2	$/atom:polymers[4][0][2]/mon2/ca	$/atom:polymers[4][0][2]/mon3/ca
   	$/bond:polymers[4][0][2]/backbone3	$/atom:polymers[4][0][2]/mon3/ca	$/atom:polymers[4][0][2]/mon4/ca
@@ -2566,13 +1955,7 @@
   	$/bond:polymers[4][0][2]/backbone16	$/atom:polymers[4][0][2]/mon16/ca	$/atom:polymers[4][0][2]/mon17/ca
   	$/bond:polymers[4][0][2]/backbone17	$/atom:polymers[4][0][2]/mon17/ca	$/atom:polymers[4][0][2]/mon18/ca
   	$/bond:polymers[4][0][2]/backbone18	$/atom:polymers[4][0][2]/mon18/ca	$/atom:polymers[4][0][2]/mon19/ca
-  	$/bond:polymers[4][0][2]/backbone19	$/atom:polymers[4][0][2]/mon19/ca	$/atom:polymers[4][0][2]/mon20/ca
-  	$/bond:polymers[4][0][2]/backbone20	$/atom:polymers[4][0][2]/mon20/ca	$/atom:polymers[4][0][2]/mon21/ca
-  	$/bond:polymers[4][0][2]/backbone21	$/atom:polymers[4][0][2]/mon21/ca	$/atom:polymers[4][0][2]/mon22/ca
-  	$/bond:polymers[4][0][2]/backbone22	$/atom:polymers[4][0][2]/mon22/ca	$/atom:polymers[4][0][2]/mon23/ca
-  	$/bond:polymers[4][0][2]/backbone23	$/atom:polymers[4][0][2]/mon23/ca	$/atom:polymers[4][0][2]/mon24/ca
-  	$/bond:polymers[4][0][2]/backbone24	$/atom:polymers[4][0][2]/mon24/ca	$/atom:polymers[4][0][2]/mon25/ca
-  	$/bond:polymers[4][0][2]/backbone25	$/atom:polymers[4][0][2]/mon25/ca	$/atom:polymers[4][0][2]/mon26/ca
+  	$/bond:polymers[4][0][3]/backbone0	$/atom:polymers[4][0][3]/mon0/ca	$/atom:polymers[4][0][3]/mon1/ca
   	$/bond:polymers[4][0][3]/backbone1	$/atom:polymers[4][0][3]/mon1/ca	$/atom:polymers[4][0][3]/mon2/ca
   	$/bond:polymers[4][0][3]/backbone2	$/atom:polymers[4][0][3]/mon2/ca	$/atom:polymers[4][0][3]/mon3/ca
   	$/bond:polymers[4][0][3]/backbone3	$/atom:polymers[4][0][3]/mon3/ca	$/atom:polymers[4][0][3]/mon4/ca
@@ -2591,13 +1974,7 @@
   	$/bond:polymers[4][0][3]/backbone16	$/atom:polymers[4][0][3]/mon16/ca	$/atom:polymers[4][0][3]/mon17/ca
   	$/bond:polymers[4][0][3]/backbone17	$/atom:polymers[4][0][3]/mon17/ca	$/atom:polymers[4][0][3]/mon18/ca
   	$/bond:polymers[4][0][3]/backbone18	$/atom:polymers[4][0][3]/mon18/ca	$/atom:polymers[4][0][3]/mon19/ca
-  	$/bond:polymers[4][0][3]/backbone19	$/atom:polymers[4][0][3]/mon19/ca	$/atom:polymers[4][0][3]/mon20/ca
-  	$/bond:polymers[4][0][3]/backbone20	$/atom:polymers[4][0][3]/mon20/ca	$/atom:polymers[4][0][3]/mon21/ca
-  	$/bond:polymers[4][0][3]/backbone21	$/atom:polymers[4][0][3]/mon21/ca	$/atom:polymers[4][0][3]/mon22/ca
-  	$/bond:polymers[4][0][3]/backbone22	$/atom:polymers[4][0][3]/mon22/ca	$/atom:polymers[4][0][3]/mon23/ca
-  	$/bond:polymers[4][0][3]/backbone23	$/atom:polymers[4][0][3]/mon23/ca	$/atom:polymers[4][0][3]/mon24/ca
-  	$/bond:polymers[4][0][3]/backbone24	$/atom:polymers[4][0][3]/mon24/ca	$/atom:polymers[4][0][3]/mon25/ca
-  	$/bond:polymers[4][0][3]/backbone25	$/atom:polymers[4][0][3]/mon25/ca	$/atom:polymers[4][0][3]/mon26/ca
+  	$/bond:polymers[4][0][4]/backbone0	$/atom:polymers[4][0][4]/mon0/ca	$/atom:polymers[4][0][4]/mon1/ca
   	$/bond:polymers[4][0][4]/backbone1	$/atom:polymers[4][0][4]/mon1/ca	$/atom:polymers[4][0][4]/mon2/ca
   	$/bond:polymers[4][0][4]/backbone2	$/atom:polymers[4][0][4]/mon2/ca	$/atom:polymers[4][0][4]/mon3/ca
   	$/bond:polymers[4][0][4]/backbone3	$/atom:polymers[4][0][4]/mon3/ca	$/atom:polymers[4][0][4]/mon4/ca
@@ -2616,13 +1993,7 @@
   	$/bond:polymers[4][0][4]/backbone16	$/atom:polymers[4][0][4]/mon16/ca	$/atom:polymers[4][0][4]/mon17/ca
   	$/bond:polymers[4][0][4]/backbone17	$/atom:polymers[4][0][4]/mon17/ca	$/atom:polymers[4][0][4]/mon18/ca
   	$/bond:polymers[4][0][4]/backbone18	$/atom:polymers[4][0][4]/mon18/ca	$/atom:polymers[4][0][4]/mon19/ca
-  	$/bond:polymers[4][0][4]/backbone19	$/atom:polymers[4][0][4]/mon19/ca	$/atom:polymers[4][0][4]/mon20/ca
-  	$/bond:polymers[4][0][4]/backbone20	$/atom:polymers[4][0][4]/mon20/ca	$/atom:polymers[4][0][4]/mon21/ca
-  	$/bond:polymers[4][0][4]/backbone21	$/atom:polymers[4][0][4]/mon21/ca	$/atom:polymers[4][0][4]/mon22/ca
-  	$/bond:polymers[4][0][4]/backbone22	$/atom:polymers[4][0][4]/mon22/ca	$/atom:polymers[4][0][4]/mon23/ca
-  	$/bond:polymers[4][0][4]/backbone23	$/atom:polymers[4][0][4]/mon23/ca	$/atom:polymers[4][0][4]/mon24/ca
-  	$/bond:polymers[4][0][4]/backbone24	$/atom:polymers[4][0][4]/mon24/ca	$/atom:polymers[4][0][4]/mon25/ca
-  	$/bond:polymers[4][0][4]/backbone25	$/atom:polymers[4][0][4]/mon25/ca	$/atom:polymers[4][0][4]/mon26/ca
+  	$/bond:polymers[4][1][0]/backbone0	$/atom:polymers[4][1][0]/mon0/ca	$/atom:polymers[4][1][0]/mon1/ca
   	$/bond:polymers[4][1][0]/backbone1	$/atom:polymers[4][1][0]/mon1/ca	$/atom:polymers[4][1][0]/mon2/ca
   	$/bond:polymers[4][1][0]/backbone2	$/atom:polymers[4][1][0]/mon2/ca	$/atom:polymers[4][1][0]/mon3/ca
   	$/bond:polymers[4][1][0]/backbone3	$/atom:polymers[4][1][0]/mon3/ca	$/atom:polymers[4][1][0]/mon4/ca
@@ -2641,13 +2012,7 @@
   	$/bond:polymers[4][1][0]/backbone16	$/atom:polymers[4][1][0]/mon16/ca	$/atom:polymers[4][1][0]/mon17/ca
   	$/bond:polymers[4][1][0]/backbone17	$/atom:polymers[4][1][0]/mon17/ca	$/atom:polymers[4][1][0]/mon18/ca
   	$/bond:polymers[4][1][0]/backbone18	$/atom:polymers[4][1][0]/mon18/ca	$/atom:polymers[4][1][0]/mon19/ca
-  	$/bond:polymers[4][1][0]/backbone19	$/atom:polymers[4][1][0]/mon19/ca	$/atom:polymers[4][1][0]/mon20/ca
-  	$/bond:polymers[4][1][0]/backbone20	$/atom:polymers[4][1][0]/mon20/ca	$/atom:polymers[4][1][0]/mon21/ca
-  	$/bond:polymers[4][1][0]/backbone21	$/atom:polymers[4][1][0]/mon21/ca	$/atom:polymers[4][1][0]/mon22/ca
-  	$/bond:polymers[4][1][0]/backbone22	$/atom:polymers[4][1][0]/mon22/ca	$/atom:polymers[4][1][0]/mon23/ca
-  	$/bond:polymers[4][1][0]/backbone23	$/atom:polymers[4][1][0]/mon23/ca	$/atom:polymers[4][1][0]/mon24/ca
-  	$/bond:polymers[4][1][0]/backbone24	$/atom:polymers[4][1][0]/mon24/ca	$/atom:polymers[4][1][0]/mon25/ca
-  	$/bond:polymers[4][1][0]/backbone25	$/atom:polymers[4][1][0]/mon25/ca	$/atom:polymers[4][1][0]/mon26/ca
+  	$/bond:polymers[4][1][1]/backbone0	$/atom:polymers[4][1][1]/mon0/ca	$/atom:polymers[4][1][1]/mon1/ca
   	$/bond:polymers[4][1][1]/backbone1	$/atom:polymers[4][1][1]/mon1/ca	$/atom:polymers[4][1][1]/mon2/ca
   	$/bond:polymers[4][1][1]/backbone2	$/atom:polymers[4][1][1]/mon2/ca	$/atom:polymers[4][1][1]/mon3/ca
   	$/bond:polymers[4][1][1]/backbone3	$/atom:polymers[4][1][1]/mon3/ca	$/atom:polymers[4][1][1]/mon4/ca
@@ -2666,13 +2031,7 @@
   	$/bond:polymers[4][1][1]/backbone16	$/atom:polymers[4][1][1]/mon16/ca	$/atom:polymers[4][1][1]/mon17/ca
   	$/bond:polymers[4][1][1]/backbone17	$/atom:polymers[4][1][1]/mon17/ca	$/atom:polymers[4][1][1]/mon18/ca
   	$/bond:polymers[4][1][1]/backbone18	$/atom:polymers[4][1][1]/mon18/ca	$/atom:polymers[4][1][1]/mon19/ca
-  	$/bond:polymers[4][1][1]/backbone19	$/atom:polymers[4][1][1]/mon19/ca	$/atom:polymers[4][1][1]/mon20/ca
-  	$/bond:polymers[4][1][1]/backbone20	$/atom:polymers[4][1][1]/mon20/ca	$/atom:polymers[4][1][1]/mon21/ca
-  	$/bond:polymers[4][1][1]/backbone21	$/atom:polymers[4][1][1]/mon21/ca	$/atom:polymers[4][1][1]/mon22/ca
-  	$/bond:polymers[4][1][1]/backbone22	$/atom:polymers[4][1][1]/mon22/ca	$/atom:polymers[4][1][1]/mon23/ca
-  	$/bond:polymers[4][1][1]/backbone23	$/atom:polymers[4][1][1]/mon23/ca	$/atom:polymers[4][1][1]/mon24/ca
-  	$/bond:polymers[4][1][1]/backbone24	$/atom:polymers[4][1][1]/mon24/ca	$/atom:polymers[4][1][1]/mon25/ca
-  	$/bond:polymers[4][1][1]/backbone25	$/atom:polymers[4][1][1]/mon25/ca	$/atom:polymers[4][1][1]/mon26/ca
+  	$/bond:polymers[4][1][2]/backbone0	$/atom:polymers[4][1][2]/mon0/ca	$/atom:polymers[4][1][2]/mon1/ca
   	$/bond:polymers[4][1][2]/backbone1	$/atom:polymers[4][1][2]/mon1/ca	$/atom:polymers[4][1][2]/mon2/ca
   	$/bond:polymers[4][1][2]/backbone2	$/atom:polymers[4][1][2]/mon2/ca	$/atom:polymers[4][1][2]/mon3/ca
   	$/bond:polymers[4][1][2]/backbone3	$/atom:polymers[4][1][2]/mon3/ca	$/atom:polymers[4][1][2]/mon4/ca
@@ -2691,13 +2050,7 @@
   	$/bond:polymers[4][1][2]/backbone16	$/atom:polymers[4][1][2]/mon16/ca	$/atom:polymers[4][1][2]/mon17/ca
   	$/bond:polymers[4][1][2]/backbone17	$/atom:polymers[4][1][2]/mon17/ca	$/atom:polymers[4][1][2]/mon18/ca
   	$/bond:polymers[4][1][2]/backbone18	$/atom:polymers[4][1][2]/mon18/ca	$/atom:polymers[4][1][2]/mon19/ca
-  	$/bond:polymers[4][1][2]/backbone19	$/atom:polymers[4][1][2]/mon19/ca	$/atom:polymers[4][1][2]/mon20/ca
-  	$/bond:polymers[4][1][2]/backbone20	$/atom:polymers[4][1][2]/mon20/ca	$/atom:polymers[4][1][2]/mon21/ca
-  	$/bond:polymers[4][1][2]/backbone21	$/atom:polymers[4][1][2]/mon21/ca	$/atom:polymers[4][1][2]/mon22/ca
-  	$/bond:polymers[4][1][2]/backbone22	$/atom:polymers[4][1][2]/mon22/ca	$/atom:polymers[4][1][2]/mon23/ca
-  	$/bond:polymers[4][1][2]/backbone23	$/atom:polymers[4][1][2]/mon23/ca	$/atom:polymers[4][1][2]/mon24/ca
-  	$/bond:polymers[4][1][2]/backbone24	$/atom:polymers[4][1][2]/mon24/ca	$/atom:polymers[4][1][2]/mon25/ca
-  	$/bond:polymers[4][1][2]/backbone25	$/atom:polymers[4][1][2]/mon25/ca	$/atom:polymers[4][1][2]/mon26/ca
+  	$/bond:polymers[4][1][3]/backbone0	$/atom:polymers[4][1][3]/mon0/ca	$/atom:polymers[4][1][3]/mon1/ca
   	$/bond:polymers[4][1][3]/backbone1	$/atom:polymers[4][1][3]/mon1/ca	$/atom:polymers[4][1][3]/mon2/ca
   	$/bond:polymers[4][1][3]/backbone2	$/atom:polymers[4][1][3]/mon2/ca	$/atom:polymers[4][1][3]/mon3/ca
   	$/bond:polymers[4][1][3]/backbone3	$/atom:polymers[4][1][3]/mon3/ca	$/atom:polymers[4][1][3]/mon4/ca
@@ -2716,13 +2069,7 @@
   	$/bond:polymers[4][1][3]/backbone16	$/atom:polymers[4][1][3]/mon16/ca	$/atom:polymers[4][1][3]/mon17/ca
   	$/bond:polymers[4][1][3]/backbone17	$/atom:polymers[4][1][3]/mon17/ca	$/atom:polymers[4][1][3]/mon18/ca
   	$/bond:polymers[4][1][3]/backbone18	$/atom:polymers[4][1][3]/mon18/ca	$/atom:polymers[4][1][3]/mon19/ca
-  	$/bond:polymers[4][1][3]/backbone19	$/atom:polymers[4][1][3]/mon19/ca	$/atom:polymers[4][1][3]/mon20/ca
-  	$/bond:polymers[4][1][3]/backbone20	$/atom:polymers[4][1][3]/mon20/ca	$/atom:polymers[4][1][3]/mon21/ca
-  	$/bond:polymers[4][1][3]/backbone21	$/atom:polymers[4][1][3]/mon21/ca	$/atom:polymers[4][1][3]/mon22/ca
-  	$/bond:polymers[4][1][3]/backbone22	$/atom:polymers[4][1][3]/mon22/ca	$/atom:polymers[4][1][3]/mon23/ca
-  	$/bond:polymers[4][1][3]/backbone23	$/atom:polymers[4][1][3]/mon23/ca	$/atom:polymers[4][1][3]/mon24/ca
-  	$/bond:polymers[4][1][3]/backbone24	$/atom:polymers[4][1][3]/mon24/ca	$/atom:polymers[4][1][3]/mon25/ca
-  	$/bond:polymers[4][1][3]/backbone25	$/atom:polymers[4][1][3]/mon25/ca	$/atom:polymers[4][1][3]/mon26/ca
+  	$/bond:polymers[4][1][4]/backbone0	$/atom:polymers[4][1][4]/mon0/ca	$/atom:polymers[4][1][4]/mon1/ca
   	$/bond:polymers[4][1][4]/backbone1	$/atom:polymers[4][1][4]/mon1/ca	$/atom:polymers[4][1][4]/mon2/ca
   	$/bond:polymers[4][1][4]/backbone2	$/atom:polymers[4][1][4]/mon2/ca	$/atom:polymers[4][1][4]/mon3/ca
   	$/bond:polymers[4][1][4]/backbone3	$/atom:polymers[4][1][4]/mon3/ca	$/atom:polymers[4][1][4]/mon4/ca
@@ -2741,13 +2088,7 @@
   	$/bond:polymers[4][1][4]/backbone16	$/atom:polymers[4][1][4]/mon16/ca	$/atom:polymers[4][1][4]/mon17/ca
   	$/bond:polymers[4][1][4]/backbone17	$/atom:polymers[4][1][4]/mon17/ca	$/atom:polymers[4][1][4]/mon18/ca
   	$/bond:polymers[4][1][4]/backbone18	$/atom:polymers[4][1][4]/mon18/ca	$/atom:polymers[4][1][4]/mon19/ca
-  	$/bond:polymers[4][1][4]/backbone19	$/atom:polymers[4][1][4]/mon19/ca	$/atom:polymers[4][1][4]/mon20/ca
-  	$/bond:polymers[4][1][4]/backbone20	$/atom:polymers[4][1][4]/mon20/ca	$/atom:polymers[4][1][4]/mon21/ca
-  	$/bond:polymers[4][1][4]/backbone21	$/atom:polymers[4][1][4]/mon21/ca	$/atom:polymers[4][1][4]/mon22/ca
-  	$/bond:polymers[4][1][4]/backbone22	$/atom:polymers[4][1][4]/mon22/ca	$/atom:polymers[4][1][4]/mon23/ca
-  	$/bond:polymers[4][1][4]/backbone23	$/atom:polymers[4][1][4]/mon23/ca	$/atom:polymers[4][1][4]/mon24/ca
-  	$/bond:polymers[4][1][4]/backbone24	$/atom:polymers[4][1][4]/mon24/ca	$/atom:polymers[4][1][4]/mon25/ca
-  	$/bond:polymers[4][1][4]/backbone25	$/atom:polymers[4][1][4]/mon25/ca	$/atom:polymers[4][1][4]/mon26/ca
+  	$/bond:polymers[4][2][0]/backbone0	$/atom:polymers[4][2][0]/mon0/ca	$/atom:polymers[4][2][0]/mon1/ca
   	$/bond:polymers[4][2][0]/backbone1	$/atom:polymers[4][2][0]/mon1/ca	$/atom:polymers[4][2][0]/mon2/ca
   	$/bond:polymers[4][2][0]/backbone2	$/atom:polymers[4][2][0]/mon2/ca	$/atom:polymers[4][2][0]/mon3/ca
   	$/bond:polymers[4][2][0]/backbone3	$/atom:polymers[4][2][0]/mon3/ca	$/atom:polymers[4][2][0]/mon4/ca
@@ -2766,13 +2107,7 @@
   	$/bond:polymers[4][2][0]/backbone16	$/atom:polymers[4][2][0]/mon16/ca	$/atom:polymers[4][2][0]/mon17/ca
   	$/bond:polymers[4][2][0]/backbone17	$/atom:polymers[4][2][0]/mon17/ca	$/atom:polymers[4][2][0]/mon18/ca
   	$/bond:polymers[4][2][0]/backbone18	$/atom:polymers[4][2][0]/mon18/ca	$/atom:polymers[4][2][0]/mon19/ca
-  	$/bond:polymers[4][2][0]/backbone19	$/atom:polymers[4][2][0]/mon19/ca	$/atom:polymers[4][2][0]/mon20/ca
-  	$/bond:polymers[4][2][0]/backbone20	$/atom:polymers[4][2][0]/mon20/ca	$/atom:polymers[4][2][0]/mon21/ca
-  	$/bond:polymers[4][2][0]/backbone21	$/atom:polymers[4][2][0]/mon21/ca	$/atom:polymers[4][2][0]/mon22/ca
-  	$/bond:polymers[4][2][0]/backbone22	$/atom:polymers[4][2][0]/mon22/ca	$/atom:polymers[4][2][0]/mon23/ca
-  	$/bond:polymers[4][2][0]/backbone23	$/atom:polymers[4][2][0]/mon23/ca	$/atom:polymers[4][2][0]/mon24/ca
-  	$/bond:polymers[4][2][0]/backbone24	$/atom:polymers[4][2][0]/mon24/ca	$/atom:polymers[4][2][0]/mon25/ca
-  	$/bond:polymers[4][2][0]/backbone25	$/atom:polymers[4][2][0]/mon25/ca	$/atom:polymers[4][2][0]/mon26/ca
+  	$/bond:polymers[4][2][1]/backbone0	$/atom:polymers[4][2][1]/mon0/ca	$/atom:polymers[4][2][1]/mon1/ca
   	$/bond:polymers[4][2][1]/backbone1	$/atom:polymers[4][2][1]/mon1/ca	$/atom:polymers[4][2][1]/mon2/ca
   	$/bond:polymers[4][2][1]/backbone2	$/atom:polymers[4][2][1]/mon2/ca	$/atom:polymers[4][2][1]/mon3/ca
   	$/bond:polymers[4][2][1]/backbone3	$/atom:polymers[4][2][1]/mon3/ca	$/atom:polymers[4][2][1]/mon4/ca
@@ -2791,13 +2126,7 @@
   	$/bond:polymers[4][2][1]/backbone16	$/atom:polymers[4][2][1]/mon16/ca	$/atom:polymers[4][2][1]/mon17/ca
   	$/bond:polymers[4][2][1]/backbone17	$/atom:polymers[4][2][1]/mon17/ca	$/atom:polymers[4][2][1]/mon18/ca
   	$/bond:polymers[4][2][1]/backbone18	$/atom:polymers[4][2][1]/mon18/ca	$/atom:polymers[4][2][1]/mon19/ca
-  	$/bond:polymers[4][2][1]/backbone19	$/atom:polymers[4][2][1]/mon19/ca	$/atom:polymers[4][2][1]/mon20/ca
-  	$/bond:polymers[4][2][1]/backbone20	$/atom:polymers[4][2][1]/mon20/ca	$/atom:polymers[4][2][1]/mon21/ca
-  	$/bond:polymers[4][2][1]/backbone21	$/atom:polymers[4][2][1]/mon21/ca	$/atom:polymers[4][2][1]/mon22/ca
-  	$/bond:polymers[4][2][1]/backbone22	$/atom:polymers[4][2][1]/mon22/ca	$/atom:polymers[4][2][1]/mon23/ca
-  	$/bond:polymers[4][2][1]/backbone23	$/atom:polymers[4][2][1]/mon23/ca	$/atom:polymers[4][2][1]/mon24/ca
-  	$/bond:polymers[4][2][1]/backbone24	$/atom:polymers[4][2][1]/mon24/ca	$/atom:polymers[4][2][1]/mon25/ca
-  	$/bond:polymers[4][2][1]/backbone25	$/atom:polymers[4][2][1]/mon25/ca	$/atom:polymers[4][2][1]/mon26/ca
+  	$/bond:polymers[4][2][2]/backbone0	$/atom:polymers[4][2][2]/mon0/ca	$/atom:polymers[4][2][2]/mon1/ca
   	$/bond:polymers[4][2][2]/backbone1	$/atom:polymers[4][2][2]/mon1/ca	$/atom:polymers[4][2][2]/mon2/ca
   	$/bond:polymers[4][2][2]/backbone2	$/atom:polymers[4][2][2]/mon2/ca	$/atom:polymers[4][2][2]/mon3/ca
   	$/bond:polymers[4][2][2]/backbone3	$/atom:polymers[4][2][2]/mon3/ca	$/atom:polymers[4][2][2]/mon4/ca
@@ -2816,13 +2145,7 @@
   	$/bond:polymers[4][2][2]/backbone16	$/atom:polymers[4][2][2]/mon16/ca	$/atom:polymers[4][2][2]/mon17/ca
   	$/bond:polymers[4][2][2]/backbone17	$/atom:polymers[4][2][2]/mon17/ca	$/atom:polymers[4][2][2]/mon18/ca
   	$/bond:polymers[4][2][2]/backbone18	$/atom:polymers[4][2][2]/mon18/ca	$/atom:polymers[4][2][2]/mon19/ca
-  	$/bond:polymers[4][2][2]/backbone19	$/atom:polymers[4][2][2]/mon19/ca	$/atom:polymers[4][2][2]/mon20/ca
-  	$/bond:polymers[4][2][2]/backbone20	$/atom:polymers[4][2][2]/mon20/ca	$/atom:polymers[4][2][2]/mon21/ca
-  	$/bond:polymers[4][2][2]/backbone21	$/atom:polymers[4][2][2]/mon21/ca	$/atom:polymers[4][2][2]/mon22/ca
-  	$/bond:polymers[4][2][2]/backbone22	$/atom:polymers[4][2][2]/mon22/ca	$/atom:polymers[4][2][2]/mon23/ca
-  	$/bond:polymers[4][2][2]/backbone23	$/atom:polymers[4][2][2]/mon23/ca	$/atom:polymers[4][2][2]/mon24/ca
-  	$/bond:polymers[4][2][2]/backbone24	$/atom:polymers[4][2][2]/mon24/ca	$/atom:polymers[4][2][2]/mon25/ca
-  	$/bond:polymers[4][2][2]/backbone25	$/atom:polymers[4][2][2]/mon25/ca	$/atom:polymers[4][2][2]/mon26/ca
+  	$/bond:polymers[4][2][3]/backbone0	$/atom:polymers[4][2][3]/mon0/ca	$/atom:polymers[4][2][3]/mon1/ca
   	$/bond:polymers[4][2][3]/backbone1	$/atom:polymers[4][2][3]/mon1/ca	$/atom:polymers[4][2][3]/mon2/ca
   	$/bond:polymers[4][2][3]/backbone2	$/atom:polymers[4][2][3]/mon2/ca	$/atom:polymers[4][2][3]/mon3/ca
   	$/bond:polymers[4][2][3]/backbone3	$/atom:polymers[4][2][3]/mon3/ca	$/atom:polymers[4][2][3]/mon4/ca
@@ -2841,13 +2164,7 @@
   	$/bond:polymers[4][2][3]/backbone16	$/atom:polymers[4][2][3]/mon16/ca	$/atom:polymers[4][2][3]/mon17/ca
   	$/bond:polymers[4][2][3]/backbone17	$/atom:polymers[4][2][3]/mon17/ca	$/atom:polymers[4][2][3]/mon18/ca
   	$/bond:polymers[4][2][3]/backbone18	$/atom:polymers[4][2][3]/mon18/ca	$/atom:polymers[4][2][3]/mon19/ca
-  	$/bond:polymers[4][2][3]/backbone19	$/atom:polymers[4][2][3]/mon19/ca	$/atom:polymers[4][2][3]/mon20/ca
-  	$/bond:polymers[4][2][3]/backbone20	$/atom:polymers[4][2][3]/mon20/ca	$/atom:polymers[4][2][3]/mon21/ca
-  	$/bond:polymers[4][2][3]/backbone21	$/atom:polymers[4][2][3]/mon21/ca	$/atom:polymers[4][2][3]/mon22/ca
-  	$/bond:polymers[4][2][3]/backbone22	$/atom:polymers[4][2][3]/mon22/ca	$/atom:polymers[4][2][3]/mon23/ca
-  	$/bond:polymers[4][2][3]/backbone23	$/atom:polymers[4][2][3]/mon23/ca	$/atom:polymers[4][2][3]/mon24/ca
-  	$/bond:polymers[4][2][3]/backbone24	$/atom:polymers[4][2][3]/mon24/ca	$/atom:polymers[4][2][3]/mon25/ca
-  	$/bond:polymers[4][2][3]/backbone25	$/atom:polymers[4][2][3]/mon25/ca	$/atom:polymers[4][2][3]/mon26/ca
+  	$/bond:polymers[4][2][4]/backbone0	$/atom:polymers[4][2][4]/mon0/ca	$/atom:polymers[4][2][4]/mon1/ca
   	$/bond:polymers[4][2][4]/backbone1	$/atom:polymers[4][2][4]/mon1/ca	$/atom:polymers[4][2][4]/mon2/ca
   	$/bond:polymers[4][2][4]/backbone2	$/atom:polymers[4][2][4]/mon2/ca	$/atom:polymers[4][2][4]/mon3/ca
   	$/bond:polymers[4][2][4]/backbone3	$/atom:polymers[4][2][4]/mon3/ca	$/atom:polymers[4][2][4]/mon4/ca
@@ -2866,13 +2183,7 @@
   	$/bond:polymers[4][2][4]/backbone16	$/atom:polymers[4][2][4]/mon16/ca	$/atom:polymers[4][2][4]/mon17/ca
   	$/bond:polymers[4][2][4]/backbone17	$/atom:polymers[4][2][4]/mon17/ca	$/atom:polymers[4][2][4]/mon18/ca
   	$/bond:polymers[4][2][4]/backbone18	$/atom:polymers[4][2][4]/mon18/ca	$/atom:polymers[4][2][4]/mon19/ca
-  	$/bond:polymers[4][2][4]/backbone19	$/atom:polymers[4][2][4]/mon19/ca	$/atom:polymers[4][2][4]/mon20/ca
-  	$/bond:polymers[4][2][4]/backbone20	$/atom:polymers[4][2][4]/mon20/ca	$/atom:polymers[4][2][4]/mon21/ca
-  	$/bond:polymers[4][2][4]/backbone21	$/atom:polymers[4][2][4]/mon21/ca	$/atom:polymers[4][2][4]/mon22/ca
-  	$/bond:polymers[4][2][4]/backbone22	$/atom:polymers[4][2][4]/mon22/ca	$/atom:polymers[4][2][4]/mon23/ca
-  	$/bond:polymers[4][2][4]/backbone23	$/atom:polymers[4][2][4]/mon23/ca	$/atom:polymers[4][2][4]/mon24/ca
-  	$/bond:polymers[4][2][4]/backbone24	$/atom:polymers[4][2][4]/mon24/ca	$/atom:polymers[4][2][4]/mon25/ca
-  	$/bond:polymers[4][2][4]/backbone25	$/atom:polymers[4][2][4]/mon25/ca	$/atom:polymers[4][2][4]/mon26/ca
+  	$/bond:polymers[4][3][0]/backbone0	$/atom:polymers[4][3][0]/mon0/ca	$/atom:polymers[4][3][0]/mon1/ca
   	$/bond:polymers[4][3][0]/backbone1	$/atom:polymers[4][3][0]/mon1/ca	$/atom:polymers[4][3][0]/mon2/ca
   	$/bond:polymers[4][3][0]/backbone2	$/atom:polymers[4][3][0]/mon2/ca	$/atom:polymers[4][3][0]/mon3/ca
   	$/bond:polymers[4][3][0]/backbone3	$/atom:polymers[4][3][0]/mon3/ca	$/atom:polymers[4][3][0]/mon4/ca
@@ -2891,13 +2202,7 @@
   	$/bond:polymers[4][3][0]/backbone16	$/atom:polymers[4][3][0]/mon16/ca	$/atom:polymers[4][3][0]/mon17/ca
   	$/bond:polymers[4][3][0]/backbone17	$/atom:polymers[4][3][0]/mon17/ca	$/atom:polymers[4][3][0]/mon18/ca
   	$/bond:polymers[4][3][0]/backbone18	$/atom:polymers[4][3][0]/mon18/ca	$/atom:polymers[4][3][0]/mon19/ca
-  	$/bond:polymers[4][3][0]/backbone19	$/atom:polymers[4][3][0]/mon19/ca	$/atom:polymers[4][3][0]/mon20/ca
-  	$/bond:polymers[4][3][0]/backbone20	$/atom:polymers[4][3][0]/mon20/ca	$/atom:polymers[4][3][0]/mon21/ca
-  	$/bond:polymers[4][3][0]/backbone21	$/atom:polymers[4][3][0]/mon21/ca	$/atom:polymers[4][3][0]/mon22/ca
-  	$/bond:polymers[4][3][0]/backbone22	$/atom:polymers[4][3][0]/mon22/ca	$/atom:polymers[4][3][0]/mon23/ca
-  	$/bond:polymers[4][3][0]/backbone23	$/atom:polymers[4][3][0]/mon23/ca	$/atom:polymers[4][3][0]/mon24/ca
-  	$/bond:polymers[4][3][0]/backbone24	$/atom:polymers[4][3][0]/mon24/ca	$/atom:polymers[4][3][0]/mon25/ca
-  	$/bond:polymers[4][3][0]/backbone25	$/atom:polymers[4][3][0]/mon25/ca	$/atom:polymers[4][3][0]/mon26/ca
+  	$/bond:polymers[4][3][1]/backbone0	$/atom:polymers[4][3][1]/mon0/ca	$/atom:polymers[4][3][1]/mon1/ca
   	$/bond:polymers[4][3][1]/backbone1	$/atom:polymers[4][3][1]/mon1/ca	$/atom:polymers[4][3][1]/mon2/ca
   	$/bond:polymers[4][3][1]/backbone2	$/atom:polymers[4][3][1]/mon2/ca	$/atom:polymers[4][3][1]/mon3/ca
   	$/bond:polymers[4][3][1]/backbone3	$/atom:polymers[4][3][1]/mon3/ca	$/atom:polymers[4][3][1]/mon4/ca
@@ -2916,13 +2221,7 @@
   	$/bond:polymers[4][3][1]/backbone16	$/atom:polymers[4][3][1]/mon16/ca	$/atom:polymers[4][3][1]/mon17/ca
   	$/bond:polymers[4][3][1]/backbone17	$/atom:polymers[4][3][1]/mon17/ca	$/atom:polymers[4][3][1]/mon18/ca
   	$/bond:polymers[4][3][1]/backbone18	$/atom:polymers[4][3][1]/mon18/ca	$/atom:polymers[4][3][1]/mon19/ca
-  	$/bond:polymers[4][3][1]/backbone19	$/atom:polymers[4][3][1]/mon19/ca	$/atom:polymers[4][3][1]/mon20/ca
-  	$/bond:polymers[4][3][1]/backbone20	$/atom:polymers[4][3][1]/mon20/ca	$/atom:polymers[4][3][1]/mon21/ca
-  	$/bond:polymers[4][3][1]/backbone21	$/atom:polymers[4][3][1]/mon21/ca	$/atom:polymers[4][3][1]/mon22/ca
-  	$/bond:polymers[4][3][1]/backbone22	$/atom:polymers[4][3][1]/mon22/ca	$/atom:polymers[4][3][1]/mon23/ca
-  	$/bond:polymers[4][3][1]/backbone23	$/atom:polymers[4][3][1]/mon23/ca	$/atom:polymers[4][3][1]/mon24/ca
-  	$/bond:polymers[4][3][1]/backbone24	$/atom:polymers[4][3][1]/mon24/ca	$/atom:polymers[4][3][1]/mon25/ca
-  	$/bond:polymers[4][3][1]/backbone25	$/atom:polymers[4][3][1]/mon25/ca	$/atom:polymers[4][3][1]/mon26/ca
+  	$/bond:polymers[4][3][2]/backbone0	$/atom:polymers[4][3][2]/mon0/ca	$/atom:polymers[4][3][2]/mon1/ca
   	$/bond:polymers[4][3][2]/backbone1	$/atom:polymers[4][3][2]/mon1/ca	$/atom:polymers[4][3][2]/mon2/ca
   	$/bond:polymers[4][3][2]/backbone2	$/atom:polymers[4][3][2]/mon2/ca	$/atom:polymers[4][3][2]/mon3/ca
   	$/bond:polymers[4][3][2]/backbone3	$/atom:polymers[4][3][2]/mon3/ca	$/atom:polymers[4][3][2]/mon4/ca
@@ -2941,13 +2240,7 @@
   	$/bond:polymers[4][3][2]/backbone16	$/atom:polymers[4][3][2]/mon16/ca	$/atom:polymers[4][3][2]/mon17/ca
   	$/bond:polymers[4][3][2]/backbone17	$/atom:polymers[4][3][2]/mon17/ca	$/atom:polymers[4][3][2]/mon18/ca
   	$/bond:polymers[4][3][2]/backbone18	$/atom:polymers[4][3][2]/mon18/ca	$/atom:polymers[4][3][2]/mon19/ca
-  	$/bond:polymers[4][3][2]/backbone19	$/atom:polymers[4][3][2]/mon19/ca	$/atom:polymers[4][3][2]/mon20/ca
-  	$/bond:polymers[4][3][2]/backbone20	$/atom:polymers[4][3][2]/mon20/ca	$/atom:polymers[4][3][2]/mon21/ca
-  	$/bond:polymers[4][3][2]/backbone21	$/atom:polymers[4][3][2]/mon21/ca	$/atom:polymers[4][3][2]/mon22/ca
-  	$/bond:polymers[4][3][2]/backbone22	$/atom:polymers[4][3][2]/mon22/ca	$/atom:polymers[4][3][2]/mon23/ca
-  	$/bond:polymers[4][3][2]/backbone23	$/atom:polymers[4][3][2]/mon23/ca	$/atom:polymers[4][3][2]/mon24/ca
-  	$/bond:polymers[4][3][2]/backbone24	$/atom:polymers[4][3][2]/mon24/ca	$/atom:polymers[4][3][2]/mon25/ca
-  	$/bond:polymers[4][3][2]/backbone25	$/atom:polymers[4][3][2]/mon25/ca	$/atom:polymers[4][3][2]/mon26/ca
+  	$/bond:polymers[4][3][3]/backbone0	$/atom:polymers[4][3][3]/mon0/ca	$/atom:polymers[4][3][3]/mon1/ca
   	$/bond:polymers[4][3][3]/backbone1	$/atom:polymers[4][3][3]/mon1/ca	$/atom:polymers[4][3][3]/mon2/ca
   	$/bond:polymers[4][3][3]/backbone2	$/atom:polymers[4][3][3]/mon2/ca	$/atom:polymers[4][3][3]/mon3/ca
   	$/bond:polymers[4][3][3]/backbone3	$/atom:polymers[4][3][3]/mon3/ca	$/atom:polymers[4][3][3]/mon4/ca
@@ -2966,13 +2259,7 @@
   	$/bond:polymers[4][3][3]/backbone16	$/atom:polymers[4][3][3]/mon16/ca	$/atom:polymers[4][3][3]/mon17/ca
   	$/bond:polymers[4][3][3]/backbone17	$/atom:polymers[4][3][3]/mon17/ca	$/atom:polymers[4][3][3]/mon18/ca
   	$/bond:polymers[4][3][3]/backbone18	$/atom:polymers[4][3][3]/mon18/ca	$/atom:polymers[4][3][3]/mon19/ca
-  	$/bond:polymers[4][3][3]/backbone19	$/atom:polymers[4][3][3]/mon19/ca	$/atom:polymers[4][3][3]/mon20/ca
-  	$/bond:polymers[4][3][3]/backbone20	$/atom:polymers[4][3][3]/mon20/ca	$/atom:polymers[4][3][3]/mon21/ca
-  	$/bond:polymers[4][3][3]/backbone21	$/atom:polymers[4][3][3]/mon21/ca	$/atom:polymers[4][3][3]/mon22/ca
-  	$/bond:polymers[4][3][3]/backbone22	$/atom:polymers[4][3][3]/mon22/ca	$/atom:polymers[4][3][3]/mon23/ca
-  	$/bond:polymers[4][3][3]/backbone23	$/atom:polymers[4][3][3]/mon23/ca	$/atom:polymers[4][3][3]/mon24/ca
-  	$/bond:polymers[4][3][3]/backbone24	$/atom:polymers[4][3][3]/mon24/ca	$/atom:polymers[4][3][3]/mon25/ca
-  	$/bond:polymers[4][3][3]/backbone25	$/atom:polymers[4][3][3]/mon25/ca	$/atom:polymers[4][3][3]/mon26/ca
+  	$/bond:polymers[4][3][4]/backbone0	$/atom:polymers[4][3][4]/mon0/ca	$/atom:polymers[4][3][4]/mon1/ca
   	$/bond:polymers[4][3][4]/backbone1	$/atom:polymers[4][3][4]/mon1/ca	$/atom:polymers[4][3][4]/mon2/ca
   	$/bond:polymers[4][3][4]/backbone2	$/atom:polymers[4][3][4]/mon2/ca	$/atom:polymers[4][3][4]/mon3/ca
   	$/bond:polymers[4][3][4]/backbone3	$/atom:polymers[4][3][4]/mon3/ca	$/atom:polymers[4][3][4]/mon4/ca
@@ -2991,13 +2278,7 @@
   	$/bond:polymers[4][3][4]/backbone16	$/atom:polymers[4][3][4]/mon16/ca	$/atom:polymers[4][3][4]/mon17/ca
   	$/bond:polymers[4][3][4]/backbone17	$/atom:polymers[4][3][4]/mon17/ca	$/atom:polymers[4][3][4]/mon18/ca
   	$/bond:polymers[4][3][4]/backbone18	$/atom:polymers[4][3][4]/mon18/ca	$/atom:polymers[4][3][4]/mon19/ca
-  	$/bond:polymers[4][3][4]/backbone19	$/atom:polymers[4][3][4]/mon19/ca	$/atom:polymers[4][3][4]/mon20/ca
-  	$/bond:polymers[4][3][4]/backbone20	$/atom:polymers[4][3][4]/mon20/ca	$/atom:polymers[4][3][4]/mon21/ca
-  	$/bond:polymers[4][3][4]/backbone21	$/atom:polymers[4][3][4]/mon21/ca	$/atom:polymers[4][3][4]/mon22/ca
-  	$/bond:polymers[4][3][4]/backbone22	$/atom:polymers[4][3][4]/mon22/ca	$/atom:polymers[4][3][4]/mon23/ca
-  	$/bond:polymers[4][3][4]/backbone23	$/atom:polymers[4][3][4]/mon23/ca	$/atom:polymers[4][3][4]/mon24/ca
-  	$/bond:polymers[4][3][4]/backbone24	$/atom:polymers[4][3][4]/mon24/ca	$/atom:polymers[4][3][4]/mon25/ca
-  	$/bond:polymers[4][3][4]/backbone25	$/atom:polymers[4][3][4]/mon25/ca	$/atom:polymers[4][3][4]/mon26/ca
+  	$/bond:polymers[4][4][0]/backbone0	$/atom:polymers[4][4][0]/mon0/ca	$/atom:polymers[4][4][0]/mon1/ca
   	$/bond:polymers[4][4][0]/backbone1	$/atom:polymers[4][4][0]/mon1/ca	$/atom:polymers[4][4][0]/mon2/ca
   	$/bond:polymers[4][4][0]/backbone2	$/atom:polymers[4][4][0]/mon2/ca	$/atom:polymers[4][4][0]/mon3/ca
   	$/bond:polymers[4][4][0]/backbone3	$/atom:polymers[4][4][0]/mon3/ca	$/atom:polymers[4][4][0]/mon4/ca
@@ -3016,13 +2297,7 @@
   	$/bond:polymers[4][4][0]/backbone16	$/atom:polymers[4][4][0]/mon16/ca	$/atom:polymers[4][4][0]/mon17/ca
   	$/bond:polymers[4][4][0]/backbone17	$/atom:polymers[4][4][0]/mon17/ca	$/atom:polymers[4][4][0]/mon18/ca
   	$/bond:polymers[4][4][0]/backbone18	$/atom:polymers[4][4][0]/mon18/ca	$/atom:polymers[4][4][0]/mon19/ca
-  	$/bond:polymers[4][4][0]/backbone19	$/atom:polymers[4][4][0]/mon19/ca	$/atom:polymers[4][4][0]/mon20/ca
-  	$/bond:polymers[4][4][0]/backbone20	$/atom:polymers[4][4][0]/mon20/ca	$/atom:polymers[4][4][0]/mon21/ca
-  	$/bond:polymers[4][4][0]/backbone21	$/atom:polymers[4][4][0]/mon21/ca	$/atom:polymers[4][4][0]/mon22/ca
-  	$/bond:polymers[4][4][0]/backbone22	$/atom:polymers[4][4][0]/mon22/ca	$/atom:polymers[4][4][0]/mon23/ca
-  	$/bond:polymers[4][4][0]/backbone23	$/atom:polymers[4][4][0]/mon23/ca	$/atom:polymers[4][4][0]/mon24/ca
-  	$/bond:polymers[4][4][0]/backbone24	$/atom:polymers[4][4][0]/mon24/ca	$/atom:polymers[4][4][0]/mon25/ca
-  	$/bond:polymers[4][4][0]/backbone25	$/atom:polymers[4][4][0]/mon25/ca	$/atom:polymers[4][4][0]/mon26/ca
+  	$/bond:polymers[4][4][1]/backbone0	$/atom:polymers[4][4][1]/mon0/ca	$/atom:polymers[4][4][1]/mon1/ca
   	$/bond:polymers[4][4][1]/backbone1	$/atom:polymers[4][4][1]/mon1/ca	$/atom:polymers[4][4][1]/mon2/ca
   	$/bond:polymers[4][4][1]/backbone2	$/atom:polymers[4][4][1]/mon2/ca	$/atom:polymers[4][4][1]/mon3/ca
   	$/bond:polymers[4][4][1]/backbone3	$/atom:polymers[4][4][1]/mon3/ca	$/atom:polymers[4][4][1]/mon4/ca
@@ -3041,13 +2316,7 @@
   	$/bond:polymers[4][4][1]/backbone16	$/atom:polymers[4][4][1]/mon16/ca	$/atom:polymers[4][4][1]/mon17/ca
   	$/bond:polymers[4][4][1]/backbone17	$/atom:polymers[4][4][1]/mon17/ca	$/atom:polymers[4][4][1]/mon18/ca
   	$/bond:polymers[4][4][1]/backbone18	$/atom:polymers[4][4][1]/mon18/ca	$/atom:polymers[4][4][1]/mon19/ca
-  	$/bond:polymers[4][4][1]/backbone19	$/atom:polymers[4][4][1]/mon19/ca	$/atom:polymers[4][4][1]/mon20/ca
-  	$/bond:polymers[4][4][1]/backbone20	$/atom:polymers[4][4][1]/mon20/ca	$/atom:polymers[4][4][1]/mon21/ca
-  	$/bond:polymers[4][4][1]/backbone21	$/atom:polymers[4][4][1]/mon21/ca	$/atom:polymers[4][4][1]/mon22/ca
-  	$/bond:polymers[4][4][1]/backbone22	$/atom:polymers[4][4][1]/mon22/ca	$/atom:polymers[4][4][1]/mon23/ca
-  	$/bond:polymers[4][4][1]/backbone23	$/atom:polymers[4][4][1]/mon23/ca	$/atom:polymers[4][4][1]/mon24/ca
-  	$/bond:polymers[4][4][1]/backbone24	$/atom:polymers[4][4][1]/mon24/ca	$/atom:polymers[4][4][1]/mon25/ca
-  	$/bond:polymers[4][4][1]/backbone25	$/atom:polymers[4][4][1]/mon25/ca	$/atom:polymers[4][4][1]/mon26/ca
+  	$/bond:polymers[4][4][2]/backbone0	$/atom:polymers[4][4][2]/mon0/ca	$/atom:polymers[4][4][2]/mon1/ca
   	$/bond:polymers[4][4][2]/backbone1	$/atom:polymers[4][4][2]/mon1/ca	$/atom:polymers[4][4][2]/mon2/ca
   	$/bond:polymers[4][4][2]/backbone2	$/atom:polymers[4][4][2]/mon2/ca	$/atom:polymers[4][4][2]/mon3/ca
   	$/bond:polymers[4][4][2]/backbone3	$/atom:polymers[4][4][2]/mon3/ca	$/atom:polymers[4][4][2]/mon4/ca
@@ -3066,13 +2335,7 @@
   	$/bond:polymers[4][4][2]/backbone16	$/atom:polymers[4][4][2]/mon16/ca	$/atom:polymers[4][4][2]/mon17/ca
   	$/bond:polymers[4][4][2]/backbone17	$/atom:polymers[4][4][2]/mon17/ca	$/atom:polymers[4][4][2]/mon18/ca
   	$/bond:polymers[4][4][2]/backbone18	$/atom:polymers[4][4][2]/mon18/ca	$/atom:polymers[4][4][2]/mon19/ca
-  	$/bond:polymers[4][4][2]/backbone19	$/atom:polymers[4][4][2]/mon19/ca	$/atom:polymers[4][4][2]/mon20/ca
-  	$/bond:polymers[4][4][2]/backbone20	$/atom:polymers[4][4][2]/mon20/ca	$/atom:polymers[4][4][2]/mon21/ca
-  	$/bond:polymers[4][4][2]/backbone21	$/atom:polymers[4][4][2]/mon21/ca	$/atom:polymers[4][4][2]/mon22/ca
-  	$/bond:polymers[4][4][2]/backbone22	$/atom:polymers[4][4][2]/mon22/ca	$/atom:polymers[4][4][2]/mon23/ca
-  	$/bond:polymers[4][4][2]/backbone23	$/atom:polymers[4][4][2]/mon23/ca	$/atom:polymers[4][4][2]/mon24/ca
-  	$/bond:polymers[4][4][2]/backbone24	$/atom:polymers[4][4][2]/mon24/ca	$/atom:polymers[4][4][2]/mon25/ca
-  	$/bond:polymers[4][4][2]/backbone25	$/atom:polymers[4][4][2]/mon25/ca	$/atom:polymers[4][4][2]/mon26/ca
+  	$/bond:polymers[4][4][3]/backbone0	$/atom:polymers[4][4][3]/mon0/ca	$/atom:polymers[4][4][3]/mon1/ca
   	$/bond:polymers[4][4][3]/backbone1	$/atom:polymers[4][4][3]/mon1/ca	$/atom:polymers[4][4][3]/mon2/ca
   	$/bond:polymers[4][4][3]/backbone2	$/atom:polymers[4][4][3]/mon2/ca	$/atom:polymers[4][4][3]/mon3/ca
   	$/bond:polymers[4][4][3]/backbone3	$/atom:polymers[4][4][3]/mon3/ca	$/atom:polymers[4][4][3]/mon4/ca
@@ -3091,13 +2354,7 @@
   	$/bond:polymers[4][4][3]/backbone16	$/atom:polymers[4][4][3]/mon16/ca	$/atom:polymers[4][4][3]/mon17/ca
   	$/bond:polymers[4][4][3]/backbone17	$/atom:polymers[4][4][3]/mon17/ca	$/atom:polymers[4][4][3]/mon18/ca
   	$/bond:polymers[4][4][3]/backbone18	$/atom:polymers[4][4][3]/mon18/ca	$/atom:polymers[4][4][3]/mon19/ca
-  	$/bond:polymers[4][4][3]/backbone19	$/atom:polymers[4][4][3]/mon19/ca	$/atom:polymers[4][4][3]/mon20/ca
-  	$/bond:polymers[4][4][3]/backbone20	$/atom:polymers[4][4][3]/mon20/ca	$/atom:polymers[4][4][3]/mon21/ca
-  	$/bond:polymers[4][4][3]/backbone21	$/atom:polymers[4][4][3]/mon21/ca	$/atom:polymers[4][4][3]/mon22/ca
-  	$/bond:polymers[4][4][3]/backbone22	$/atom:polymers[4][4][3]/mon22/ca	$/atom:polymers[4][4][3]/mon23/ca
-  	$/bond:polymers[4][4][3]/backbone23	$/atom:polymers[4][4][3]/mon23/ca	$/atom:polymers[4][4][3]/mon24/ca
-  	$/bond:polymers[4][4][3]/backbone24	$/atom:polymers[4][4][3]/mon24/ca	$/atom:polymers[4][4][3]/mon25/ca
-  	$/bond:polymers[4][4][3]/backbone25	$/atom:polymers[4][4][3]/mon25/ca	$/atom:polymers[4][4][3]/mon26/ca
+  	$/bond:polymers[4][4][4]/backbone0	$/atom:polymers[4][4][4]/mon0/ca	$/atom:polymers[4][4][4]/mon1/ca
   	$/bond:polymers[4][4][4]/backbone1	$/atom:polymers[4][4][4]/mon1/ca	$/atom:polymers[4][4][4]/mon2/ca
   	$/bond:polymers[4][4][4]/backbone2	$/atom:polymers[4][4][4]/mon2/ca	$/atom:polymers[4][4][4]/mon3/ca
   	$/bond:polymers[4][4][4]/backbone3	$/atom:polymers[4][4][4]/mon3/ca	$/atom:polymers[4][4][4]/mon4/ca
@@ -3116,10 +2373,3 @@
   	$/bond:polymers[4][4][4]/backbone16	$/atom:polymers[4][4][4]/mon16/ca	$/atom:polymers[4][4][4]/mon17/ca
   	$/bond:polymers[4][4][4]/backbone17	$/atom:polymers[4][4][4]/mon17/ca	$/atom:polymers[4][4][4]/mon18/ca
   	$/bond:polymers[4][4][4]/backbone18	$/atom:polymers[4][4][4]/mon18/ca	$/atom:polymers[4][4][4]/mon19/ca
-  	$/bond:polymers[4][4][4]/backbone19	$/atom:polymers[4][4][4]/mon19/ca	$/atom:polymers[4][4][4]/mon20/ca
-  	$/bond:polymers[4][4][4]/backbone20	$/atom:polymers[4][4][4]/mon20/ca	$/atom:polymers[4][4][4]/mon21/ca
-  	$/bond:polymers[4][4][4]/backbone21	$/atom:polymers[4][4][4]/mon21/ca	$/atom:polymers[4][4][4]/mon22/ca
-  	$/bond:polymers[4][4][4]/backbone22	$/atom:polymers[4][4][4]/mon22/ca	$/atom:polymers[4][4][4]/mon23/ca
-  	$/bond:polymers[4][4][4]/backbone23	$/atom:polymers[4][4][4]/mon23/ca	$/atom:polymers[4][4][4]/mon24/ca
-  	$/bond:polymers[4][4][4]/backbone24	$/atom:polymers[4][4][4]/mon24/ca	$/atom:polymers[4][4][4]/mon25/ca
-  	$/bond:polymers[4][4][4]/backbone25	$/atom:polymers[4][4][4]/mon25/ca	$/atom:polymers[4][4][4]/mon26/ca

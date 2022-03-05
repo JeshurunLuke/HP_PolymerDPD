@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
-filename = 'systemclustered.data'
-filesave = 'system.data'
-polymerAtoms = [1,2]
+filename = 'systemAssembled.data'
+filesave = 'systemAIsolated.data'
+polymerAtoms = [1,2,3]
 def main():
     df, bonds = read_lammpsBond(filename)
     polymer = isolate_polymer(df, polymerAtoms)

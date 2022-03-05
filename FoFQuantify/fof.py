@@ -5,8 +5,8 @@ from numpy import linalg as LA
 
 
 linklength = 1.6
-DP = 7
-polymeratomtype = [1,2]
+DP = 20
+polymeratomtype = [1,2,3]
 file = "systemclustered.data"
 
 def main():

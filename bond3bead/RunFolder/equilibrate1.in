@@ -1,0 +1,47 @@
+units lj                 # use lennard-jones (i.e. dimensionless) units
+atom_style bond          # atoms with bonds
+boundary p p p           # all boundaries are periodic
+neighbor 0.4 bin                       # Where does the 0.4 parameter come from? and neighbor?
+neigh_modify every 1 delay 1 check yes # What does neigh_modify do?
+#neigh_modify every 2 delay 10 check yes page 100000
+
+# Potentials Between bonded atoms
+# ----------------- Init Section -----------------
+
+
+include "system.in.init"
+
+
+# ----------------- Atom Definition Section -----------------
+
+read_data "systemSolvated.data"
+
+# ----------------- Settings Section -----------------
+
+include "system.in.settings"
+
+
+variable seed equal 5465465     # a seed for the thermostat
+
+velocity all create 1.0 8178251
+
+
+# fix 1 all nvt temp 1.0 1.0 3 # Dampning Paramater
+# fix 1 all mvv/dpd 0.67
+
+fix 1 all nve
+#fix 2 all langevin 1.0 1.1 100.0 48279 scale 3 1.5
+
+
+group pol type 1 2
+timestep 0.04 #Time Step
+
+
+dump            1 pol custom 5000 dump.soft id mol type x y z ix iy iz
+thermo_style    custom step temp pe etotal press vol epair ebond eangle edihed
+thermo          1000  # time interval for printing out "thermo" data
+
+run		35000
+
+
+write_data  system.data

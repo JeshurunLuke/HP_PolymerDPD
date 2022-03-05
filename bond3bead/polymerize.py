@@ -7,12 +7,17 @@ from itertools import repeat
 import time
 from multiprocessing import Pool, freeze_support
 import os
+import math   
+import random
+
 #Bond length of 1 (If edited modify forcefield.lt as well)
 bondlen = [0.5, 0.5]
-rc = 1.3
+rc = 0.8
+
 bxSize = 30.0
 p = 3
 processes = 8
+blocktype = 2
 
 from math import log10, floor
 def round_sig(x, sig=2):
@@ -68,25 +73,51 @@ def run():
     p = Popen('moltemplate.sh system.lt -atomstyle full', shell=True)  
     p.wait()
     #equilibrate()
-    
+def shuffle(plist, baser):
+    returner = []
+    x = np.arange(1, len(plist) + 1)
+    monlist = []
+    total = sum(plist)
+    for elem in range(0, total):
+        weight = []
+        for e in range(0, len(x)):
+            weight.append(plist[e] / sum(plist))
+        choice = random.choices(x, weights=weight, k=1)
+
+        monlist.append(choice[0])
+        plist[choice[0] - 1] = plist[choice[0] - 1] - 1
+    for elem in range(0, len(monlist)):
+        returner.append(baser[monlist[elem] - 1])
+
+    return returner
 
 def minimize():
     p = Popen(['lmp_mpi', '-in', 'equilibrate2.in'])
     p.wait()
     print("Done Equilibrating")
+def writesequence(polist):
+    with open('sequencedata.txt', 'w') as f:
+        f.writelines(f"Part of Group: {blocktype} \n")
+        for i in polist:
+            f.write(f"{i} ")
+    
 def polymerize(H,P,S, order):
     polist = []    
-    for section in order:
-        if section == 'H':
-            for i in range(0, H):
-                polist.append('H')
-        if section == 'P':
-            for i in range(0, P):
-                polist.append('P')
-        if section == 'S':
-            for i in range(0, S):
-                polist.append('S')
-
+    if blocktype == 1: 
+        for section in order:
+            if section == 'H':
+                for i in range(0, H):
+                    polist.append('H')
+        b2 = shuffle([P, S],['P', 'S'])
+        polist = b2 + polist
+    else:
+        for section in order:
+            if section == 'P':
+                for i in range(0, P):
+                    polist.append('P')
+        b2 = shuffle([H, S],['H', 'S'])
+        polist = b2 + polist
+    writesequence(polist)
     monlist(polist)
     bondlist(polist)
     filenames = ["polback.txt", "tmpmon.txt", "tmpbond.txt"]
@@ -102,6 +133,7 @@ def monlist(polist):
     rot = 180
 
     with open('tmpmon.txt', 'w') as f:
+        f.write("\n\n")
         for i,mon in enumerate(polist):
             if i < len(polist)-1:
                 if polist[i + 1] == 'H':
@@ -135,12 +167,16 @@ def monlist(polist):
                         f.write(f'  mon{i} = new {mon}.move({i*bondlen[0]},0,0)\n')
                     else:
                         f.write(f'  mon{i} = new {mon}.rot({i%2*rot}, {i%2*1},0,0).move({i*bondlen[0]},0,0)\n')
+        f.write("\n\n")
+
         f.close()
 
 def bondlist(polist):
     with open('tmpbond.txt', 'w') as f:
+        f.write("\n\n")
+
         f.write('  write("Data Bond List") {\n')
-        for i in range(1, len(polist)-1):
+        for i in range(0, len(polist)-1):
             f.write(f'  \t$bond:backbone{i}\t$atom:mon{i}/ca\t$atom:mon{i+1}/ca\n')
         f.write('  }\n')
         f.close()
@@ -172,7 +208,7 @@ def solvate(nonSolvated, waterBeads):
 
     #mass = 1 #Mass Arbritary?
 
-    ngrid = int(waterBeads**(1/3))
+    ngrid = int(math.ceil(waterBeads**(1/3)))
     #ngrid = np.floor(((bxSize ** 3) * 0.6022 / mass) ** (1.0 / 3.0)) #Mass Paramter
     print(f" {ngrid**3}: approximate")
     # put water molecules in the nodes of a regular grid
@@ -363,9 +399,9 @@ def write_lammpsBond(fname, df):
 
 if __name__ == "__main__":
     #Number of H and P monomers
-    H = 9
-    P = 12
-    S = 6
+    H = 8
+    P = 8
+    S = 4
     polymerPercentage = 0.05
     order = ['H', 'P', 'S']
 
